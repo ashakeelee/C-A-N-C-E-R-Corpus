@@ -1,0 +1,292 @@
+Type,id,en_description,ur_description
+Phrase,p1,adjunct therapy or treatment,معاون علاج یا علاج
+Phrase,p2,adjuvant chemotherapy,معاون کیمیائی علاج
+Phrase,p3,adjuvant radiation therapy,معاون  تابکاری علاج
+Phrase,p4,advance care planning,پیشگی دیکھ بھال کی منصوبہ بندی
+Phrase,p5,adverse effect, منفی اثر
+Phrase,p6,allergic reaction,الرجک ردِ عمل
+Phrase,p7,allied health workers,معاون طبی کارکن
+Phrase,p8,alternative therapy,متبادل علاج
+Phrase,p9,Androgen Deprivation Therapy,مردانہ ہارمون کی روک تھام کا علاج
+Phrase,p10,barium enema,بیریم اینیما
+Phrase,p11,blood count,خون کی تعداد شمار 
+Phrase,p12,booked admissions,داخلے طے کروائے گئے
+Phrase,p13,bowel prep or bowel preparation,آنتوں کی تیاری یا آنتوں کی تیاری
+Phrase,p14,breakthrough pain,پیش رفت درد
+Phrase,p15,cancer imaging (also called diagnostic imaging),سرطان امیجنگ (جسے تشخیصی امیجنگ بھی کہا جاتا ہے)
+Phrase,p16,cancer journey,سرطان کا سفر
+Phrase,p17,cancer of unknown primary origin,نامعلوم بنیادی اصل کا سرطان
+Phrase,p18,cancer staging,سرطان کی سٹیجنگ 
+Phrase,p19,cancer survivor,سرطان سے بچ جانے والا 
+Phrase,p20,carcinoma in situ,ابتدائی سرطان
+Phrase,p21,central line,مرکزی لائن
+Phrase,p22,chemo brain,کیمیائی دماغ 
+Phrase,p23,chemotherapy,کیمیائی علاج
+Phrase,p24,chronic pain, دائمی درد
+Phrase,p25,clear margin,صاف حاشیہ
+Phrase,p26,clinical trial,طبی آزمائش
+Phrase,p27,colostomy bag,اخراج فضلہ کا تھیلا
+Phrase,p28,complementary therapy,تکمیلی علاج
+Phrase,p29,CT scan,سی ٹی اسکین
+Phrase,p30,diagnostic imaging (also called cancer imaging),تشخیصی تصویری تکنیک (جسے سرطان امیجنگ بھی کہا جاتا ہے)
+Phrase,p31,digestive system,نظام ہاضمہ
+Phrase,p32,DVT (deep vein thrombosis),ڈی وی ٹی (گہری رگ میں خون کا لوتھڑا)
+Phrase,p33,enduring power of attorney medical (also called a MePOA), (جسے MePOA بھی کہا جاتا ہے) طبی پاور آف اٹارنی 
+Phrase,p34,febrile neutropenia,بخار کے ساتھ نیوٹروپینیا
+Phrase,p35,gait aids,چلنے کے معاون آلات
+Phrase,p36,gastroenterology,علمِ معدہ و آنت
+Phrase,p37,general anaesthetic,مکمل بے ہوشی کی دوا
+Phrase,p38,germ cells,جرثومی خلیات
+Phrase,p39,GP (general practitioner),عام معالج
+Phrase,p40,HDU (high dependency unit),اعلیٰ انحصاری یونٹ
+Phrase,p41,"HMO (house medical officer, also called a ‘resident’)",ہاؤس میڈیکل افسر (ریزیڈنٹ)
+Phrase,p42,Hodgkin’s lymphoma, ہاجکن کی بیماری
+Phrase,p43,ICU (intensive care unit),انتہائی نگہداشت یونٹ
+Phrase,p44,informed consent,مطلع شدہ رضامندی
+Phrase,p45,informed consent form,مطلع شدہ رضامندی فارم
+Phrase,p46,key hole surgery,چھوٹے سوراخ کی سرجری
+Phrase,p47,laparoscopic surgery,لیپروسکوپک سرجری
+Phrase,p48,local anaesthetic,مقامی بے ہوشی
+Phrase,p49,lymph glands,لمفی غدود
+Phrase,p50,lymph nodes,لمفی نوڈز
+Phrase,p51,lymph system,لمفی نظام
+Phrase,p52,lymph vessels,لمفی رگیں
+Phrase,p53,lymphatic system,لمفیاتی نظام
+Phrase,p54,magnetic resonance imaging,مقناطیسی گونج کی تصویری تشخیص
+Phrase,p55,medical emergency team call,طبی ہنگامی ٹیم کی طلبی
+Phrase,p56,medical enduring power of attorney,طبی پائیدار وکالت نامہ
+Phrase,p57,medical oncologist,طبی سرطان کا ماہر
+Phrase,p58,medical oncology,طبی سرطانیات
+Phrase,p59,MET call,ایم ای ٹی کال
+Phrase,p60,methicillin-resistant staphylococcus aureus,ایم آر ایس اے انفیکشن
+Phrase,p61,multidisciplinary team,کثیر الشعبہ ٹیم
+Phrase,p62,nasogastric tube,ناک معدہ نلی
+Phrase,p63,neoadjuvant therapy,نئوایڈجوانٹ علاج
+Phrase,p64,neoadjuvant treatment,نئوایڈجوانٹ علاج
+Phrase,p65,Non-Hodgkin’s lymphoma,نان ہاجکنز لمفوما
+Phrase,p66,nuclear medicine,جوہری طب
+Phrase,p67,nurse unit manager,نرس یونٹ منیجر
+Phrase,p68,pain and palliative care,درد اور تکمیلی نگہداشت
+Phrase,p69,patient controlled analgesia,مریض کے زیر کنٹرول درد کم کرنے والی دوا
+Phrase,p70,Pseudomyxoma peritonei,پسیوڈومیکسوما پیریٹونی
+Phrase,p71,quality of life,زندگی کا معیار
+Phrase,p72,radiation oncologist,تابکاری ماہر سرطان
+Phrase,p73,radiation therapist,تابکاری معالج
+Phrase,p74,radiation therapy,تابکاری علاج
+Phrase,p75,radioactive tracer,تابکار نشان گر
+Phrase,p76,recurrent cancer,دوبارہ ہونے والا سرطان
+Phrase,p77,referral letter,حوالہ خط
+Phrase,p78,robotic surgery,روبوٹک سرجری
+Phrase,p79,SABR,سٹیریوٹیکٹک جسمانی تابکاری
+Phrase,p80,secondary cancer,ثانوی سرطان
+Phrase,p81,sentinel node,نگہبان نوڈ
+Phrase,p82,sepsis pathway,سیپٹک راستہ
+Phrase,p83,simulation for radiotherapy,تابکاری علاج کے لیے نقلی عمل
+Phrase,p84,small bowel,چھوٹی آنت
+Phrase,p85,small intestine,چھوٹی آنت
+Phrase,p86,soft tissue,نرم بافت
+Phrase,p87,soft tissues,نرم بافتیں
+Phrase,p88,stage 0,مرحلہ 0
+Phrase,p89,stage 1,مرحلہ 1
+Phrase,p90,stage 2,مرحلہ 2
+Phrase,p91,stage 3,مرحلہ 3
+Phrase,p92,stage 4,مرحلہ 4
+Phrase,p93,stage I,مرحلہ I
+Phrase,p94,stage II,مرحلہ II
+Phrase,p95,stage III,مرحلہ III
+Phrase,p96,stage IV,مرحلہ IV
+Phrase,p97,stereotactic ablative body radiation,انتہائی دقیق جسمانی شعاعی علاج
+Phrase,p98,surgical margin,جراحی حاشیہ
+Phrase,p99,surgical oncologist,جراحی سرطان کا ماہر
+Phrase,p100,TED stockings,ٹی ای ڈی جرابیں
+Phrase, p102, thrombo embolic deterrent,خون کے لوتھڑے بننے سے بچاؤ
+Phrase, p103, tissue biopsy,بافتوں کا نمونہ لینے کا عمل
+Phrase, p104, transrectal ultrasound,مقعد کے ذریعے الٹراساؤنڈ
+Phrase, p105, transurethral resection of the prostate,پروسٹیٹ کی پیشابی نالی کے ذریعے جراحی
+Phrase, p106, unknown primary origin,نامعلوم اصل کا سرطان
+Phrase, p107, Vancomycin Resistant Enterococcus, وینکومائسن مزاحم اینٹروکوکس
+Phrase, p108, video assisted thoracic surgery,ویڈیو اسسٹڈ تھوراسک سرجری
+Phrase, p109, x-ray procedure, ایکس رے طریقہ کار
+Word, w1, abdomen, پیٹ
+Word, w2, acute, شدید
+Word, w3, adenocarcinoma, غدودی سرطان
+Word, w4, adenopathy, غدود کی سوجن
+Word, w5, adt,مردانہ ہارمونی علاج
+Word, w6, advanced, ترقی یافتہ
+Word, w7, allergic, الرجک
+Word, w8, alliance, اتحاد
+Word, w9, ambulate/ambulatory, چلنے پھرنے والا
+Word, w10, anaemia, خون کی کمی
+Word, w11, anaesthetic, بے ہوشی کی دوا
+Word, w12, analgesic, درد کم کرنے والی دوا
+Word, w13, anaplastic, غیر متفرق
+Word, w14, antibiotic, اینٹی بایوٹک
+Word, w15, antibody, اینٹی باڈی
+Word, w16, anticoagulant, خون پتلا کرنے والی دوا
+Word, w17, anti-emetics, متلی روکنے والی دوا
+Word, w18, anus, مقعد
+Word, w19, apheresis, اپھیریسس
+Word, w20, approximately, تقریباً
+Word, w21, artery, شریان
+Word, w22, aspirate, چوسنا
+Word, w23, assess, جانچنا
+Word, w24, atrophy, سکڑاؤ
+Word, w25, axilla, بغل
+Word, w26, barium (used in x-ray), ایکس رے کے لیے بیریم
+Word, w27, benign, غیر مہلک
+Word, w28, bilateral, دو طرفہ
+Word, w29, biopsy, حیاتیاتی نمونہ
+Word, w30, bladder, مثانہ
+Word, w31, bone marrow, ہڈی کا گودا
+Word, w32, bowel, آنت
+Word, w33, brachytherapy,اندرونی تابکاری علاج 
+Word, w34, breakthrough, نمایاں پیش رفت
+Word, w35, bronchoscopy, سانس کی نالی کا معائنہ
+Word, w36, cancer,سرطان
+Word, w37, cannula, نلی
+Word, w38, carcinogen, سرطان پیدا کرنے والا مادہ
+Word, w39, carcinoma, سرطانی رسولی
+Word, w40, catheter, نالی
+Word, w41, cells, خلیات
+Word, w42, chronic, دائمی
+Word, w43, colectomy, بڑی آنت کی جراحی سے نکالی جانا
+Word, w44, colon, بڑی آنت
+Word, w45, colonoscopy, بڑی آنت کا معائنہ
+Word, w46, colorectal, کولوریکٹل
+Word, w47, colostomy, کولوسٹومی
+Word, w48, colposcopy, کولپوسکوپی
+Word, w49, communication, مواصلات
+Word, w50, contrast (liquid), کنٹراسٹ مائع
+Word, w51, cure, علاج
+Word, w52, cystoscopy, سسٹوسکوپی
+Word, w53, cytotoxic, سائٹوٹوکسک
+Word, w54, cytotoxic (a person),خلیوں کو نقصان پہنچانے والا شخص 
+Word, w55, diagnosis, تشخیص
+Word, w56, dialysis, ڈائلیسس
+Word, w57, diarrhoea, اسہال
+Word, w58, dietitian (also called a ‘nutritionist’), غذائی ماہر
+Word, w59, discharge, اخراج
+Word, w60, dose, خوراک
+Word, w61, DRE, ڈی آر ای
+Word, w62, dysfunction, فعل کی خرابی
+Word, w63, dysplasia, غیر معمولی نشوونما
+Word, w64, eGFR, ای جی ایف آر
+Word, w65, embolism, خون کا لوتھڑا
+Word, w66, endoscope, اینڈوسکوپ
+Word, w67, endoscopy, اینڈوسکوپی
+Word, w68, epidural, ایپیڈیورل
+Word, w69, excision, کاٹنا
+Word, w70, faeces, فضلہ
+Word, w71, fast or fasted, روزہ یا روزہ رکھا ہوا
+Word, w72, febrile, بخار والا
+Word, w73, flap, فلیپ
+Word, w74, gastroscopy, گیسٹروسکوپی
+Word, w75, groin, کمر کے نیچے کا حصہ
+Word, w76, gynaecology, امراض نسواں
+Word, w77, haematology,علم خون
+Word, w78, haematuria,پیشاب میں خون آنا 
+Word, w79, hormone,جسمانی مادہ
+Word, w80, hypertension, ہائی بلڈ پریشر
+Word, w81, hypotension, کم بلڈ پریشر
+Word, w82, hysterectomy, بچہ دانی کا آپریشن
+Word, w83, ileostomy, ایلیوسٹومی
+Word, w84, ileus, آنتوں کی بندش
+Word, w85, incontinence, بے اختیاری
+Word, w86, infection, انفیکشن
+Word, w87, infusion, مائع کی بوتل
+Word, w88, intestines (digestive), آنتیں (ہاضمے کی)
+Word, w89, intramuscular, عضلاتی
+Word, w90, intravenous, اندرونی وریدی
+Word, w91, isotope, آئسوٹوپ
+Word, w92, kidney, گردہ
+Word, w93, laparoscopy, لیپروسکوپی
+Word, w94, leukopenia, لیوکوپینیا
+Word, w95, localised, مقامی
+Word, w96, lymph, لمف
+Word, w97, lymphoedema, لمف اوڈیما
+Word, w98, lymphoma, لمفوما
+Word, w99, malignant, مہلک
+Word, w100, mammogram, میموگرام
+Word,w101,mass,گانٹھ / مجموعہ
+Word,w102,mastectomy,چھاتی نکالنے کا عمل
+Word,w103,MDT,کثیر الشعبہ جاتی ٹیم
+Word,w104,melanoma,جلد کا ایک مہلک سرطان
+Word,w105,MePOA,دماغ کا ایک خاص حصہ
+Word,w106,metastasis,سرطان کا جسم میں پھیلاؤ
+Word,w107,metastasize,سرطان کا دوسرے اعضا میں پھیلنا
+Word,w108,mets,میٹاسٹیسیس (سرطان کے پھیلاؤ کی مختصر اصطلاح)
+Word,w109,monitor,نگرانی
+Word,w110,MRI,مقناطیسی گونج امیجنگ
+Word,w111,MRSA,اینٹی بایوٹک مزاحم بیکٹیریا
+Word,w112,nadir,سب سے نچلا نقطہ / کمزور ترین حالت
+Word,w113,nauseous,متلی محسوس کرنا
+Word,w114,nebs,نیبولائزر کے ذریعے سانس کی دوائی دینا
+Word,w115,nebuliser,سانس کی دوائی پہنچانے والا آلہ
+Word,w116,necrotic,مردہ
+Word,w117,neutropenia,نیوٹروفلز کی کمی
+Word,w118,neutropenic,نیوٹروفلز کی کمی کا شکار
+Word,w119,neutrophils,سفید خون کے خلیے جو انفیکشن سے لڑتے ہیں
+Word,w120,NGT,ناک کے ذریعے معدے میں ڈالنے والی نالی
+Word,w121,node,گانٹھ / لمفی غدود
+Word,w122,NOK,قریبی رشتہ دار
+Word,w123,nuke,تابکاری علاج / نیوکلئیر علاج
+Word,w124,nukes,تابکاری علاج کے طریقے
+Word,w125,NUM,نمبر / گنتی
+Word,w126,nutrition,غذائیت
+Word,w127,obs,معائنہ / مشاہدہ
+Word,w128,observations,مشاہدات
+Word,w129,oedema,سوجن / ورم
+Word,w130,oncologist,سرطان کا ماہر
+Word,w131,oncology,سرطان کی تشخیص و علاج کا شعبہ
+Word,w132,opioids,درد کم کرنے والی ادویات
+Word,w133,paediatrics,بچوں کا طب
+Word,w134,pathologist,امراض کی تشخیص کا ماہر
+Word,w135,pathology,امراض کی تشخیص کا علم
+Word,w136,PCA,مریض کے قابو میں درد کی دوا
+Word,w137,psychiatrist,ذہنی امراض کا ڈاکٹر
+Word,w138,psycho-oncology,سرطان سے متعلق ذہنی صحت کا شعبہ
+Word,w139,radiography,ایکس رے اور اسکین کا طریقہ
+Word,w140,rebore,دوبارہ کھولنے کا عمل
+Word,w141,rectum,مقعد
+Word,w142,recurrence,بیماری کا دوبارہ ظاہر ہونا
+Word,w143,referral,کسی ماہر ڈاکٹر کے پاس بھیجنا
+Word,w144,relapse,بیماری کا لوٹ آنا
+Word,w145,remission,بیماری کا عارضی خاتمہ
+Word,w146,resection,کسی عضو کا جراحی سے نکالنا
+Word,w147,risk,خطرہ
+Word,w148,sarcoma,نرم بافتوں یا ہڈیوں کا سرطان
+Word,w149,sats,آکسیجن کی سطح
+Word,w150,saturation,آکسیجن کی مقدار کا تناسب
+Word,w151,screening,بیماری کی تشخیص کے لیے جانچ
+Word,w152,sedation,بیہوشی / بےحسی
+Word,w153,sedative,بیہوش کرنے والی دوا
+Word,w154,side-effect,دوائی کے مضر اثرات
+Word,w155,sim,نقل / مشابہت
+Word,w156,specimen,نمونہ
+Word,w157,sputum,بلغم
+Word,w158,staging,سٹیجنگ   
+Word,w159,stoma,مصنوعی راستہ (جراحی کے بعد)
+Word,w160,stools,پاخانہ
+Word,w161,subcutaneous,جلد کے نیچے کا حصہ
+Word,w162,surgery,آپریشن / جراحی
+Word,w163,survivorship,بیماری کے بعد کی زندگی
+Word,w164,sutures,زخم کے ٹانکے
+Word,w165,tissue,بافت / ٹشو
+Word,w166,TNM,سرطان کی تشخیص کا ایک نظام
+Word,w167,trachea,سانس کی نالی
+Word,w168,TRUS,ٹرانسریکٹل الٹراساؤنڈ
+Word,w169,tumour,رسولی
+Word,w170,tumour markers,سرطان کی نشاندہی کرنے والے مادے
+Word,w171,TURP,پروسٹیٹ کا جزوی جراحی سے نکالنا
+Word,w172,ultrasound,الٹراساؤنڈ
+Word,w173,urethra,پیشاب کی نالی
+Word,w174,urology,پیشاب کے نظام کا علم
+Word,w175,uro-oncology,پیشاب کے نظام سے متعلق سرطان کا علم
+Word,w176,VATS,ویڈیو اسسٹڈ تھوراسک سرجری
+Word,w177,vein,رگ
+Word,w178,venepuncture,رگ میں سوئی ڈالنے کا عمل
+Word,w179,vessel,رگ / خون لے جانے والی نالی
+Word,w180,void,پیشاب کرنا / خالی کرنا
+Word,w181,voided,خالی کیا گیا / پیشاب خارج کرنا
+Word,w182,VRE,وینکوماسین مزاحم بیکٹیریا
+Word,w183,x-ray,ایکس رے

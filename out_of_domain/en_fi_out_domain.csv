@@ -1,0 +1,292 @@
+Type,id,en_description,fi_description
+Phrase,p1,adjunct therapy or treatment,liitännäishoito tai hoito
+Phrase,p2,adjuvant chemotherapy,hoidon tehokkuutta parantava kemoterapia
+Phrase,p3,adjuvant radiation therapy,hoidon tehokkuutta parantava sädehoito
+Phrase,p4,advance care planning,etukäteinen hoidon suunnittelu   
+Phrase,p5,adverse effect,haitallinen vaikutus
+Phrase,p6,allergic reaction,allerginen reaktio
+Phrase,p7,allied health workers,liittoutuneet terveydenhuollon työntekijät
+Phrase,p8,alternative therapy,vaihtoehtohoito
+Phrase,p9,Androgen Deprivation Therapy,androgeenin vajaushoito 
+Phrase,p10,barium enema,bariumperäruiske
+Phrase,p11,blood count,verimäärä
+Phrase,p12,booked admissions,varatut sisääntulot
+Phrase,p13,bowel prep or bowel preparation,suolen valmistelu tai suolen valmistelu     
+Phrase,p14,breakthrough pain,läpimurtokipu  
+Phrase,p15,cancer imaging,syövän kuvantaminen              
+Phrase,p16,cancer journey,syöpämatka
+Phrase,p17,cancer of unknown primary origin,syövän tuntematon ensisijainen alkuperä              
+Phrase,p18,cancer staging,syövän vaiheistus
+Phrase,p19,cancer survivor,syövästä selviytynyt                                      
+Phrase,p20,carcinoma in situ,alkuperäisessä kohteessa oleva syöpäsoluryhmä                        
+Phrase,p21,"central line","keskilinja"
+Phrase,p22,chemo brain,kemoaivot
+Phrase,p23,chemotherapy,kemoterapia
+Phrase,p24,chronic pain,krooninen kipu
+Phrase,p25,clear margin,selkeä reuna
+Phrase,p26,clinical trial,kliininen koe
+Phrase,p27,colostomy bag,ulostepussi                                       
+Phrase,p28,complementary therapy,täydennyshoito
+Phrase,p29,CT scan,CT-skannaus
+Phrase,p30,"diagnostic imaging (also called cancer imaging)","diagnostinen kuvantaminen (kutsutaan myös syövän kuvantamiseksi)"
+Phrase,p31,digestive system,ruoansulatusjärjestelmä
+Phrase,p32,DVT (deep vein thrombosis),syvä laskimotromboosi（syvä laskimotromboembolia）
+Phrase,p33,enduring power of attorney medical (also called a MePOA),pysyvä lääketieteellinen valtakirja (kutsutaan myös MePOA:ksi)    
+Phrase,p34,febrile neutropenia,kuumeinen neutropenia
+Phrase,p35,gait aids,kävelyapuvälineet                                 
+Phrase,p36,gastroenterology,ruoansulatuskanavan lääketiede 
+Phrase,p37,general anaesthetic,yleispuudutus
+Phrase,p38,germ cells,sukusolut
+Phrase,p39,GP (general practitioner),GP（yleislääkäri）                                       
+Phrase,p40,HDU (high dependency unit),HDU（korkean riippuvuuden yksikkö）                                     
+Phrase,p41,"HMO (house medical officer, also called a ‘resident’)","HMO (sairaalalääkäri, jota kutsutaan myös ‘asukkaaksi’)"   
+Phrase,p42,"Hodgkin’s lymphoma","Hodgkin-lymfooma"
+Phrase,p43,ICU (intensive care unit),ICU（tehohoitoyksikkö）                  
+Phrase,p44,informed consent,tietoinen suostumus
+Phrase,p45,informed consent form,tietoinen suostumuslomake
+Phrase,p46,key hole surgery,avainaukkoleikkaus
+Phrase,p47,laparoscopic surgery,laparoskooppinen leikkaus
+Phrase,p48,local anaesthetic,paikallispuudutus
+Phrase,p49,lymph glands,imusolmukkeet
+Phrase,p50,lymph nodes,imusolmukkeet
+Phrase,p51,lymph system,imukudosjärjestelmä
+Phrase,p52,lymph vessels,imusuonet                                          
+Phrase,p53,lymphatic system,imukudosjärjestelmä
+Phrase,p54,magnetic resonance imaging,magneettikuvaus
+Phrase,p55,medical emergency team call,ensiapuryhmän kutsu                          
+Phrase,p56,medical enduring power of attorney,pysyvä lääketieteellinen valtakirja
+Phrase,p57,medical oncologist,lääketieteellinen onkologi                               
+Phrase,p58,medical oncology,lääketieteellinen onkologia                                   
+Phrase,p59,MET call,MET-kutsu 
+Phrase,p60,methicillin-resistant staphylococcus aureus,metisilliinille vastustuskykyinen bakteeri            
+Phrase,p61,multidisciplinary team,monitieteinen tiimi                                 
+Phrase,p62,nasogastric tube,vatsalaukun limakalvon putki
+Phrase,p63,neoadjuvant therapy,uusi hoidon tehokkuutta parantava hoito
+Phrase,p64,neoadjuvant treatment,uusi hoidon tehokkuutta parantava hoito
+Phrase,p65,Non-Hodgkin’s lymphoma,ei-Hodgkin-lymfooma
+Phrase,p66,nuclear medicine,isotooppilääke
+Phrase,p67,nurse unit manager,sairaanhoitajayksikön johtaja
+Phrase,p68,pain and palliative care,kipu ja kokonaisvaltainen hoito
+Phrase,p69,patient controlled analgesia,potilaskontrolloitu kivunhoito
+Phrase,p70,Pseudomyxoma peritonei,vatsalaukun rauhaskudossyöpä
+Phrase,p71,quality of life,elämänlaatu
+Phrase,p72,radiation oncologist,säteilytysonkologi
+Phrase,p73,radiation therapist,sädehoitaja
+Phrase,p74,radiation therapy,sädehoito
+Phrase,p75,radioactive tracer,radioaktiivinen merkkiaine
+Phrase,p76,recurrent cancer,uusiutuva syöpä
+Phrase,p77,referral letter,lähetekirje                                     
+Phrase,p78,robotic surgery,robottileikkaus
+Phrase,p79,SABR,täsmäsädehoito 
+Phrase,p80,secondary cancer,toisasteinen syöpä
+Phrase,p81,sentinel node,sentinel-solmuke
+Phrase,p82,sepsis pathway,sepelvaltimointerventioreitti
+Phrase,p83,simulation for radiotherapy,simulaatio sädehoitoa varten                                            
+Phrase,p84,small bowel,ohutsuoli                         
+Phrase,p85,small intestine,ohutsuoli                
+Phrase,p86,soft tissue,pehmytkudos
+Phrase,p87,soft tissues,pehmytkudokset
+Phrase,p88,stage 0,vaihe 0
+Phrase,p89,stage 1,vaihe 1
+Phrase,p90,stage 2,vaihe 2
+Phrase,p91,stage 3,vaihe 3
+Phrase,p92,stage 4,vaihe 4
+Phrase,p93,stage I,vaihe I
+Phrase,p94,stage II,vaihe II
+Phrase,p95,stage III,vaihe III
+Phrase,p96,stage IV,vaihe IV
+Phrase,p97,stereotactic ablative body radiation,tarkkarajainen kehon kasvainten säteilytys                      
+Phrase,p98,surgical margin,kirurginen reuna  
+Phrase,p99,surgical oncologist,kirurginen onkologi
+Phrase,p100,TED stockings,TED-sukat 
+Phrase,p101,TEDs,veritulpan estäjät                                   
+Phrase,p102,thrombo embolic deterrent,laskimotukoksen ehkäisevä
+Phrase,p103,tissue biopsy,kudoskoepalan otto
+Phrase,p104,transrectal ultrasound,peräsuolen kautta tehtävä ultraääni
+Phrase,p105,transurethral resection of the prostate,eturauhasen poistoleikkaus
+Phrase,p106,unknown primary origin,tuntematon ensisijainen alkuperä
+Phrase,p107,Vancomycin Resistant Enterococcus,vankomysiinille vastustuskykyinen enterokokki 
+Phrase,p108,video assisted thoracic surgery,videoavusteinen rintakehän leikkaus
+Phrase,p109,x-ray procedure,röntgenkuvausmenetelmä
+Word,w1,abdomen,vatsa
+Word,w2,acute,akuutti
+Word,w3,adenocarcinoma,rauhassyöpä
+Word,w4,adenopathy,turvonneet imusolmukkeet               
+Word,w5,adt,mieshormoonin vajauksen hoito                              
+Word,w6,advanced,edennyt
+Word,w7,allergic,allerginen
+Word,w8,alliance,liitto
+Word,w9,ambulate/ambulatory,siirtyä/siirrettävä                             
+Word,w10,anaemia,anemia
+Word,w11,anaesthetic,nukutusaine
+Word,w12,analgesic,kipulääke                                               
+Word,w13,anaplastic,anaplastinen
+Word,w14,antibiotic,antibiootti
+Word,w15,antibody,vasta-aine
+Word,w16,anticoagulant,verenohentaja                                 
+Word,w17,anti-emetics,pahoinvointilääkkeet                  
+Word,w18,anus,peräaukko
+Word,w19,apheresis,afereesi
+Word,w20,approximately,noin
+Word,w21,artery,valtimo
+Word,w22,aspirate,imeä                                       
+Word,w23,assess,arvioida                                 
+Word,w24,atrophy,surkastuminen                          
+Word,w25,axilla,kainalo                                     
+Word,w26,barium (used in x-ray),barium (käytetään röntgenkuvauksessa)
+Word,w27,benign,hyvänlaatuinen
+Word,w28,bilateral,kahdenkeskinen
+Word,w29,biopsy,tutkimuskoepalan otto
+Word,w30,bladder,rakko
+Word,w31,bone marrow,luuydin                                       
+Word,w32,bowel,suolisto                                        
+Word,w33,brachytherapy,sädehoito
+Word,w34,breakthrough,läpimurto
+Word,w35,bronchoscopy,keuhkoputken tähystys
+Word,w36,cancer,syöpä
+Word,w37,cannula,kanyyli
+Word,w38,carcinogen,syöpää aiheuttava aine
+Word,w39,carcinoma,syöpä 
+Word,w41,cells,solut
+Word,w42,chronic,krooninen
+Word,w43,colectomy,paksusuolen poisto 
+Word,w44,colon,paksusuoli                                     
+Word,w45,colonoscopy,paksusuolen tähystys
+Word,w46,colorectal,paksusuoleen ja peräsuoleen liittyvä                          
+Word,w47,colostomy,kolostomia                              
+Word,w48,colposcopy,paksusuolen tutkimusendoskooppi
+Word,w49,communication,kommunikaatio
+Word,w50,contrast (liquid),kontrasti (neste)
+Word,w51,cure,hoito
+Word,w52,cystoscopy,kystan tähystys
+Word,w53,cytotoxic,sytotoksinen
+Word,w54,cytotoxic (a person),sytotoksinen (henkilö)                          
+Word,w55,diagnosis,diagnoosi
+Word,w56,dialysis,dialyysihoito                                 
+Word,w57,diarrhoea,ripuli
+Word,w58,"dietitian (also called a ‘nutritionist’)","ravitsemusterapeutti (kutsutaan myös ‘ravitsemusterapeutti’)"           
+Word,w59,discharge,vuoto                                    
+Word,w60,dose,annos
+Word,w61,DRE,digitaalinen peräsuolen tutkimus                        
+Word,w62,dysfunction,häiriö                       
+Word,w63,dysplasia,epänormaali solukasvu
+Word,w64,eGFR,munuaissairauden tutkimus
+Word,w65,embolism,veritulppa
+Word,w66,endoscope,endoskooppi
+Word,w67,endoscopy,tähystys                          
+Word,w68,epidural,epiduraali
+Word,w69,excision,poistoleikkaus
+Word,w70,faeces,ulosteet                                     
+Word,w71,fast or fasted,nopea tai nopeutettu                        
+Word,w72,febrile,kuumeinen
+Word,w73,flap,läppä
+Word,w74,gastroscopy,vatsan tähystys                                    
+Word,w75,groin,nivus
+Word,w76,gynaecology,gynekologia
+Word,w77,haematology,veritutkimus
+Word,w78,haematuria,virtsan verisyys                               
+Word,w79,hormone,hormoni
+Word,w80,hypertension,korkea verenpaine
+Word,w81,hypotension,alhainen verenpaine
+Word,w82,hysterectomy,kohdunpoisto                                   
+Word,w83,ileostomy,vatsan avausleikkaus
+Word,w84,ileus,suolitukos
+Word,w85,incontinence,virtsankarkailu
+Word,w86,infection,tartunta
+Word,w87,infusion,tiputus                 
+Word,w88,intestines (digestive),suolisto (ruoansulatusta edistävä)                             
+Word,w89,intramuscular,lihakseen
+Word,w90,intravenous,suonensisäinen                                     
+Word,w91,isotope,isotooppi
+Word,w92,kidney,munuainen
+Word,w93,laparoscopy,vatsaontelon tähystysleikkaus                  
+Word,w94,leukopenia,alhainen valkosolujen määrä 
+Word,w95,localised,paikallistettu
+Word,w96,lymph,imusolmuke
+Word,w97,lymphoedema,imusolmukkeen turpoaminen                                
+Word,w98,lymphoma,imukudossyöpä
+Word,w99,malignant,pahanlaatuinen
+Word,w100,mammogram,mammografia
+Word,w101,mass,massa
+Word,w102,mastectomy,rinnan poisto
+Word,w103,MDT,monitieteinen tiimi                                               
+Word,w104,melanoma,melanooma
+Word,w105,MePOA,pysyvä lääketieteellinen valtakirja
+Word,w106,metastasis,etäpesäke
+Word,w107,metastasize,etäpesäkkeen leviäminen
+Word,w108,mets,etäpesäkkeet       
+Word,w109,monitor,seurata
+Word,w110,MRI,magneettikuvaus                                               
+Word,w111,MRSA,metisilliinille vastustuskykyinen bakteeri                       
+Word,w112,nadir,alhainen kohta                                          
+Word,w113,nauseous,pahoinvoiva                                             
+Word,w114,nebs,nenäsuihke                                                
+Word,w115,nebuliser,sumutin
+Word,w116,necrotic,kuolio
+Word,w117,neutropenia,valkosolujen väheneminen                           
+Word,w118,neutropenic,neutropeeninen                                 
+Word,w119,neutrophils,neutrofiilit                                
+Word,w120,NGT,nenämahaletku                                      
+Word,w121,node,solmu                                       
+Word,w122,NOK,uusi onkogeeninen kinaasi                             
+Word,w123,nuke,radioaktiivinen lääke                               
+Word,w124,nukes,radioaktiiviset lääkkeet
+Word,w125,NUM,numero                                     ?
+Word,w126,nutrition,ravitsemus
+Word,w127,obs,orgaaninen aivo-oireyhtymä                                 
+Word,w128,observations,havainnot                                        
+Word,w129,oedema,turvotus
+Word,w130,oncologist,onkologi                                        
+Word,w131,oncology,onkologia                                      
+Word,w132,opioids,opioidit
+Word,w133,paediatrics,lastentautien lääketiede                                            
+Word,w134,pathologist,patologi
+Word,w135,pathology,patologia
+Word,w136,PCA,potilaan kontrolloima kivunhallinta                                  
+Word,w137,psychiatrist,psykiatri
+Word,w138,psycho-oncology,psykologinen onkologia                                    
+Word,w139,radiography,röntgenkuvaus
+Word,w140,rebore,eturauhasen leikkauspoisto                         
+Word,w141,rectum,peräsuoli
+Word,w142,recurrence,uusiutuminen
+Word,w143,referral,lähete                                     
+Word,w144,relapse,paheneminen 
+Word,w145,remission,oireiden lieveneminen                      
+Word,w146,resection,poistoleikkaus
+Word,w147,risk,riski
+Word,w148,sarcoma,sarkooma
+Word,w149,sats,happikylläisyys
+Word,w150,saturation,kylläisyys
+Word,w151,screening,seulonta
+Word,w152,sedation,sedaatio
+Word,w153,sedative,rauhoittava
+Word,w154,side-effect,sivuvaikutus
+Word,w155,sim,lääketieteellinen simulaatio
+Word,w156,specimen,näyte
+Word,w157,sputum,yskös
+Word,w158,staging,vaiheistus
+Word,w159,stoma,avanne
+Word,w160,stools,ulosteet
+Word,w161,subcutaneous,ihonalainen
+Word,w162,surgery,leikkaus
+Word,w163,survivorship,selviytyminen
+Word,w164,sutures,ompeleet
+Word,w165,tissue,kudos
+Word,w166,TNM,syövän levinneisyysmäärittely                                      
+Word,w167,trachea,henkitorvi
+Word,w168,TRUS,eturauhasen ultraääniskannaus                                             
+Word,w169,tumour,kasvain
+Word,w170,tumour markers,kasvaimen merkkiaineet
+Word,w171,TURP,eturauhasen leikkaustoimenpide                                
+Word,w172,ultrasound,ultraääni
+Word,w173,urethra,virtsaputki
+Word,w174,urology,urologia
+Word,w175,uro-oncology,urologinen onkologia
+Word,w176,VATS,videoavusteinen rintakehäleikkaus
+Word,w177,vein,verisuoni
+Word,w178,venepuncture,verinäytteen otto
+Word,w179,vessel,astia
+Word,w180,void,tyhjentää virtsarakko
+Word,w181,voided,tyhjennetty virtsarakko
+Word,w182,VRE,vankomysiinille vastustuskykyinen enterokokki 
+Word,w183,x-ray,röntgenkuvaus

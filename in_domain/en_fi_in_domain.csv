@@ -1,0 +1,1495 @@
+type,id,en_description,fi_description
+Word,w15,AFP levels,AFP-tasot
+Word,w15,AND/OR,JA/TAI
+Word,w33,Abdominal pain,vatsakipu
+Word,w3,Ablation Techniques,ablaatiotekniikat
+Word,w5,Abortion,abortti
+Word,w7,Acinar,epiteelisoluryhmä
+Word,w16,Acute hepatitis,akuutti maksatulehdus
+Word,w26,Adjuvant oxaliplatin,tehokas oksaliplatiini
+Word,w10,Advanced age,korkea ikä
+Word,w6,Aflibercept,injektio silmänpohjarappeumaan
+Word,w6,Air pollution,ilmansaasteet
+Word,w20,Alagille syndrome,Alagille-oireyhtymä 
+Word,w1,Alcohol,alkoholi
+Word,w1,Alpha-fetoprotein,sikiön proteiini
+Word,w21,Analysis: Evaluation,analyysi: arviointi
+Word,w13,Analysis: Follow-up,analyysi: seuranta
+Word,w7,Anastrozole,anastrotsoli 
+Word,w5,Anatomy,anatomia
+Word,w15,Annual,vuosittainen
+Word,w2,Anorexia,anoreksia
+Word,w1,Anxiety,​ahdistuneisuus
+Word,w2,Any,mikä tahansa
+Word,w1,Aspirin,aspiriini
+Word,w17,Associated Disorder,liittynyt häiriö
+Word,w50,Atypical carcinoid,epätyypillinen syöpä
+Word,w6,Authors,tekijät
+Word,w12,Background,tausta
+Word,w35,Barium Enema,bariumperäruiske 
+Word,w2,Basal-like,perustan kaltainen
+Word,w18,Basaloid,tyvisoluihin liittyvä
+Word,w56,Basaloid carcinoma,tyvisolusyöpä
+Word,w3,Beckwith-Wiedemann,Beckwith-Wiedemann
+Word,w7,Benefits,hyödyt
+Word,w24,Better tolerability,parempi siedettävyys
+Word,w4,Bevacizumab,bevasitsumabi
+Word,w8,Bias,puolueellisuus
+Word,w1,Biennial,joka toinen vuosi
+Word,w10,Bile acids,sappihapot
+Word,w29,Biliary Obstruction,sappitiehyttukos
+Word,w8,Bisphosphonates,bisfosfonaatit
+Word,w47,Breast Reconstruction,rinnan korjaus
+Word,w16,Breast Self-examination,​rinnan itsetutkinta
+Word,w29,Breast reconstruction,rinnan korjaus
+Word,w4,Breast-feeding,imetys
+Word,w57,Bronchioloalveolar carcinoma,pienisoluinen keuhkosyöpä
+Word,w20,Burkitt lymphoma,Burkittin imukudossyöpä
+Word,w22,CT Colonography,paksusuolen CT-kuvantaminen
+Word,w43,CT imaging,CT-kuvantaminen              
+Word,w5,Calcium,kalsium
+Word,w15,Calcium supplementation,kalsiumlisä
+Word,w13,Capecitabine,kapesitabiini
+Word,w1,Capecitabine,kapesitabiini
+Word,w61,Carcinoid tumor,syöpäkasvain
+Word,w12,Carcinosarcoma,pahanlaatuinen kasvain
+Word,w25,Case-control studies,tapauskontrolloidut tutkimukset
+Word,w2,Cataracts,kaihi
+Word,w27,Cellular Classification,soluluokittelu
+Word,w4,Cellular classification--legacy,soluluokittelu--perintö
+Word,w24,Cellular classification--legacy,soluluokittelu--perintö
+Word,w9,Cetuximab,setuksimabi    
+Word,w3,Cetuximab,setuksimabi    
+Word,w6,Chemoradiation alone,kemosäteilytys yksin
+Word,w58,Chemoradiation therapy,kemosäteilytyshoito 
+Word,w54,Chemotherapy risks,kemoterapian riskit
+Word,w20,Chest pain,rintakipu
+Word,w27,Chest x-ray,rinnan röntgenkuvaus
+Word,w23,Chest x-ray,rinnan röntgenkuvaus
+Word,w2,China,Kiina
+Word,w46,Clear cell,selkeä solu
+Word,w14,Clinical Consequences,kliiniset seuraukset
+Word,w9,Clinical trials,kliiniset kokeet
+Word,w16,Colonoscopy,paksusuolen tähystys
+Word,w14,Combination chemotherapy,yhdistelmäkemoterapia
+Word,w45,Combined LCNEC,yhdistetty LCNEC 
+Word,w3,Computed Tomography,tietokonekuvantaminen
+Word,w13,Consistency,johdonmukaisuus
+Word,w13,Consistency: Consistent,johdonmukaisuus: johdonmukainen
+Word,w7,Consistency: Fair,johdonmukaisuus: reilu
+Word,w26,Consistency: Mixed,johdonmukaisuus: sekalainen
+Word,w16,Consistency: N/A,johdonmukaisuus: ei käytettävissä oleva  
+Word,w17,Contamination: None,saastuminen: ei mitään
+Word,w42,Contralateral Disease,toispuoleinen sairaus
+Word,w14,Control,valvonta
+Word,w32,Cytotoxic chemotherapy,sytotoksinen kemoterapia
+Word,w20,Cytoxan (mg/m²),cytoxan（mg/m²）                   
+Word,w2,C—Caudate,C-muotoinen hermosolukokoelma
+Word,w3,"Deaths: 10,990","kuolemat：10,990"
+Word,w4,"Deaths: 15,210","kuolemat：15,210"
+Word,w40,"Deaths: 159,260","kuolemat：159,260"
+Word,w17,"Deaths: 159,260","kuolemat：159,260"
+Word,w35,"Deaths: 40,430","​kuolemat：40,430"
+Word,w4,Deaths: 410,kuolemat：410
+Word,w8,Denmark,Tanska
+Word,w2,Description,kuvaus
+Word,w8,Description,kuvaus
+Word,w6,Diagnostic imaging,diagnostinen kuvantaminen
+Word,w1,Diet,ruokavalio
+Word,w11,Diet modification,ruokavalion muokkaus
+Word,w2,Dietary supplements,ruokavaliolisät
+Word,w2,Diffuse,epätarkkarajainen
+Word,w27,Digital Mammography,digitaalinen mammografia
+Word,w2,Disclaimer,​vastuuvapauslauseke
+Word,w4,Discomfort,​epämukavuus
+Word,w3,Distant Metastases,etäiset etäpesäkkeet
+Word,w27,Dose-dense AC-T,annostiheä AC-T
+Word,w8,Dose/Trial Drug,annos/koelääke
+Word,w33,Doxorubicin (mg/m²),doksorubisiini（mg/m²）     
+Word,w9,Dyspareunia,kivulias yhdyntä
+Word,w1,Dysplasia,dysplasia
+Word,w14,Dyspnea,hengitysvaikeus
+Word,w19,Early pregnancy,varhainen raskaus
+Word,w15,Elderly women,iäkkäät naiset
+Word,w44,Endobronchial therapies,keuhkotutkimushoidot
+Word,w10,Endogenous estrogen,endogeeninen estrogeeni
+Word,w16,Environmental factors,ympäristötekijät
+Word,w12,Epidemiology,epidemiologia
+Word,w32,Epithelial Tumors,epiteelikasvaimet
+Word,w16,Epithelioid Hemangioendothelioma,solukudoskasvain
+Word,w12,Estrogen-only therapy,vain estrogeenihoito
+Word,w25,Evidence (PCI):,todiste (perkutaaninen sepelvaltimointerventio):                                   
+Word,w19,Evidence (bevacizumab):,todiste (bevasitsumabi):          
+Word,w14,Evidence (capecitabine):,todiste (kapesitabiini):                       
+Word,w25,Evidence (cetuximab):,todiste (setuksimabi):            
+Word,w16,Evidence (irinotecan):,todiste (irinotekaani):            
+Word,w10,Evidence (oxaliplatin):,todiste (oksaliplatiini):           
+Word,w17,Evidence (panitumumab):,todiste (panitumumabi):             
+Word,w53,Evidence (surgery):,todiste (leikkaus):
+Word,w11,Evidence (topotecan):,todiste (topotekaani):             
+Word,w14,Exemestane,antineoplastinen lääke                                   
+Word,w3,Exercise,liikunta
+Word,w8,Extensive-Stage Disease,laaja-asteinen sairaus
+Word,w36,External Validity,ulkoinen oikeellisuus
+Word,w30,E—Extrahepatic contiguous,maksan ulkopuolinen syöpä
+Word,w51,FDG-PET scanning,FDG-PET-skannaus             
+Word,w27,FOBT/ Sigmoidoscopy,FOBT/sigmasuolen tähystys     
+Word,w19,Facility Characteristics,laitteiston ominaisuudet
+Word,w5,Fair,reilu
+Word,w12,Familial polyposis,perheellinen suolistosairaus
+Word,w9,Family history,perhehistoria
+Word,w23,Favor Raloxifene,suosi raloksifeenia
+Word,w22,Favor Tamoxifen,suosi tamoksifeenia                
+Word,w8,Fenretinide,fenretinidi                             
+Word,w24,Fibrolamellar carcinoma,fibrolamellaarinen syöpä
+Word,w3,Find Publications,etsi julkaisuja
+Word,w30,Fluorouracil (5-FU),fluorourasiili (5-FU) 
+Word,w1,Food,ruoka
+Word,w1,Gastric endoscopy,vatsaendoskooppi
+Word,w46,Gastrointestinal Complications,ruoansulatuskanavan komplikaatiot
+Word,w23,Gastrointestinal bleeding,​ruoansulatuskanavan verenvuoto
+Word,w26,General Information,yleistieto
+Word,w13,Genetic mutations,perinnölliset mutaatiot
+Word,w11,Good,hyvä
+Word,w1,Grade,aste
+Word,w17,Gynecologic problems,gynekologiset ongelmat
+Word,w13,HER2+,ihmisen epidermaalisen kasvutekijän reseptori 2+      
+Word,w9,Harms,​​vahingot
+Word,w2,Hepatic Ultrasound,maksan ultraäänitutkimus
+Word,w7,Hepatitis A,maksatulehdus A
+Word,w9,Hepatitis B,maksatulehdus B
+Word,w12,Hepatitis C,maksatulehdus C
+Word,w18,Hepatitis D,maksatulehdus D
+Word,w6,Hepatitis E,maksatulehdus E
+Word,w11,Hepatitis F,maksatulehdus F
+Word,w5,Hepatitis G,maksatulehdus G
+Word,w4,Hepatoblastoma,maksakasvain
+Word,w7,Hepatocellular Carcinoma,maksasolusyöpä
+Word,w19,High Risk,korkea riski
+Word,w5,High-grade dysplasia,korkea-asteinen epänormaali solukasvu
+Word,w11,Histology,mikroskooppitutkimus
+Word,w15,Hoarseness,karheaäänisyys
+Word,w3,Hoarseness,karheaäänisyys
+Word,w19,Hyperplasia,liikakasvu
+Word,w52,IB NSCLC,IB ei-pienisoluinen keuhkosyöpä  
+Word,w55,IIB NSCLC,IIB ei-pienisoluinen keuhkosyöpä  
+Word,w12,Ill-defined borders,epämääräiset rajat
+Word,w16,Illustration,kuvitus
+Word,w7,Illustration,kuvitus
+Word,w30,Immunochemical FOBT,immunokemiallinen FOBT
+Word,w2,Indication,indikaatio
+Word,w51,Inflammatory carcinoma,tulehdusperäinen syöpä
+Word,w31,Intermediate Risk,keskitasoinen riski
+Word,w19,Internal Validity,sisäinen oikeellisuus
+Word,w22,International Comparisons,​kansainväliset vertailut
+Word,w18,Interval cancers,syöpien aikavälit
+Word,w1,Intestinal,suolisto
+Word,w5,Intestinal metaplasia,suoliston kudosmuutos
+Word,w27,Intestinal obstruction,​suoliston tukos
+Word,w21,Intra-arterial chemotherapy,valtimonsisäinen kemoterapia
+Word,w5,Introduction,johdanto
+Word,w25,Ionizing radiation,ionisoiva säteilytys
+Word,w8,Irinotecan,irinotekaani                                
+Word,w17,Kaposi sarcoma,Kaposi-sarkooma    
+Word,w10,LCNEC,suurisoluinen neuroendokriininen syöpä   
+Word,w9,Lapatinib,lapatinibi                  
+Word,w12,Leg cramps,jalkakrampit
+Word,w6,Leiomyoma,lihaskasvain
+Word,w10,Leiomyosarcoma,lihassyöpä
+Word,w27,Limited-Stage Disease,rajoitetun vaiheen sairaus 
+Word,w1,Lipoma,rasvapatti
+Word,w8,Liver Transplantation,maksansiirto
+Word,w9,Liver biopsy,maksan tutkimuskoepalan otto
+Word,w29,Liver metastases,​maksan etäpesäkkeet
+Word,w24,Lobular histology,rauhasperäisen rintasyövän ​mikroskooppitutkimus
+Word,w22,Local ablation,paikallinen poistoleikkaus
+Word,w36,Local-regional treatment,paikallis-alueellinen hoito
+Word,w39,Low Risk,matala riski
+Word,w25,Low-birth-weight infants,lasten alhainen syntymäpaino 
+Word,w10,"Lower, X","alhaisempi, X"                               
+Word,w41,Luminal A,rintasyöpätyyppi A
+Word,w40,Luminal B,rintasyöpätyyppi B
+Word,w22,Lymph nodes,imusolmukkeet
+Word,w10,Lymphedema,imunesteturvotus
+Word,w23,Lymphoepithelioma-like carcinoma,lymfoepiteliooman kaltainen syöpä
+Word,w32,Lymphovascular invasion,imusolujen kasvainsolujen invaasio 
+Word,w49,M1 (distant),etäinen etäpesäke (etäinen)                                   
+Word,w4,Male gender,miessukupuoli
+Word,w3,Mediterranean,Välimeri
+Word,w21,Medullary carcinoma,kilpirauhassyöpä
+Word,w2,Melanoma,melanooma
+Word,w21,Melanoma Treatment,melanooman hoito
+Word,w3,Men,miehet
+Word,w13,Metaplasia,solukorvautuminen 
+Word,w1,Micrometastases,mikroetäpesäkkeet
+Word,w9,Minnesota,Minnesota
+Word,w20,Molecular Features,molekyyliset ominaisuudet
+Word,w44,Monoclonal antibodies,monoklonaaliset vasta-aineet 
+Word,w2,Mucinous,limainen
+Word,w19,Mucinous adenocarcinoma,limainen rauhassyöpä
+Word,w41,Mucinous cystadenocarcinoma,limainen rintarauhassyöpä
+Word,w62,Mucoepidermoid carcinoma,sylkirauhassyöpä
+Word,w14,Musculoskeletal problems,tuki- ja liikuntaelinten ongelmat 
+Word,w28,M—Distant metastatic,etäinen etäpesäke                         
+Word,w59,Neoadjuvant therapy,uusi hoidon tehokkuutta parantava hoito
+Word,w33,Neuroendocrine tumors,hermossolukasvaimet
+Word,w16,Neurologic sequelae,hermostollinen jälkivaikutus
+Word,w32,No effect,ei vaikutusta
+Word,w33,No metastases,ei etäpesäkkeitä
+Word,w25,Nonepithelial Tumors,ei-kalvomaiset solukudoskasvaimet
+Word,w3,Nonmucinous,ei-limainen 
+Word,w47,Nonsquamous histology,ei-kerroksinen mikroskooppitutkimus 
+Word,w17,Normal,normaali
+Word,w17,Northern Europe,Pohjois-Eurooppa
+Word,w38,Occult NSCLC,selittämätön ei-pienisoluinen keuhkosyöpä   
+Word,w60,Occult carcinoma,selittämätön syöpä
+Word,w18,Oral contraceptives, suun kautta otettavat ehkäisyvalmisteet
+Word,w2,Orchiectomy,kiveksen poistoleikkaus
+Word,w6,Other regimens,muut hoito-ohjelmat
+Word,w1,Overdiagnosis,ylidiagnoosi
+Word,w10,Overdiagnosis,ylidiagnoosi
+Word,w2,Overview,yleiskatsaus
+Word,w3,Oxaliplatin,oksaliplatiini                  
+Word,w4,Oxaliplatin,oksaliplatiini                     
+Word,w8,PRETEXT designations,esihoidon laajuuteen liittyvät määritelmät
+Word,w11,PRETEXT stage,esihoidon vaihe
+Word,w5,Paclitaxel,paklitakseli      
+Word,w22,Paclitaxel/Docetaxel (mg/m²),paklitakseli/doketakseli (mg/m²)   
+Word,w28,Palliative chemoradiation,palliatiivinen kemosäteilytys 
+Word,w20,Palliative chemotherapy,palliatiivinen kemoterapia
+Word,w31,Palliative chemotherapy,palliatiivinen kemoterapia
+Word,w10,Palliative therapy,palliatiivinen hoito
+Word,w52,Palpable tumors,tuntuvat kasvaimet
+Word,w5,Panitumumab,panitumumabi                  
+Word,w11,Panitumumab,panitumumabi                  
+Word,w17,Papillary,nystyrä
+Word,w18,Pathologic Classification,patologinen luokittelu
+Word,w5,Pathology,patologia
+Word,w25,Patient Characteristics,potilaan ominaisuudet
+Word,w50,Patient Evaluation,potilasarviointi
+Word,w45,Patient Group,potilasryhmä
+Word,w21,Performance status,toimintakyky
+Word,w7,Perioperative chemotherapy,leikkauksen aikainen kemoterapia
+Word,w11,Pernicious anemia,vahingollinen anemia
+Word,w11,Pertuzumab,pertutsumabi      
+Word,w37,Phyllodes tumor,rinnan kasvain
+Word,w9,Physical activity,fyysinen aktiivisuus
+Word,w5,Physical activity,fyysinen aktiivisuus
+Word,w26,Physician Characteristics,lääkärin ominaisuudet
+Word,w14,Polyp removal,polyypin poisto
+Word,w6,Poor,heikko
+Word,w18,Population Size,väestön koko
+Word,w7,Population-level interventions,väestötason väliintulot
+Word,w6,Postmastectomy,rinnan poistoleikkauksen jälkeinen
+Word,w8,Postoperative chemotherapy,leikkauksen jälkeinen kemoterapia
+Word,w34,Postsurgical chemotherapy,leikkauksen jälkeinen kemoterapia                              ?
+Word,w38,Posttreatment ypN,hoidon jälkeinen ypN 
+Word,w21,Presurgical chemotherapy,leikkausta edeltävä kemoterapia 
+Word,w25,Primary Therapy,ensisijainen hoito
+Word,w34,Primary lymphoma,ensisijainen imukudossyöpä
+Word,w28,Primary therapy,ensisijainen hoito
+Word,w1,Progesterone,keltarauhashormoni
+Word,w1,Prognosis,ennuste
+Word,w2,Prognosis--legacy,ennuste--perintö
+Word,w4,Prognosis:,ennuste：
+Word,w24,Prophylactic mastectomy,ennaltaehkäisevä rinnan poisto 
+Word,w11,Prophylactic oophorectomy,ennaltaehkäisevä munasarjan poisto 
+Word,w54,Pulmonary blastoma,keuhkokasvain
+Word,w4,RCTs,satunnaistetut kontrolloidut tutkimukset   
+Word,w2,Race,rotu
+Word,w20,Radiation Exposure,​säteilytysalttius
+Word,w9,Radical surgery,laaja-alainen leikkaus
+Word,w6,Radiosensitizers,säteilyherkistysaineet 
+Word,w1,Radon,radon
+Word,w3,Radon exposure,radonille altistuminen 
+Word,w7,Raloxifene,raloksifeeni
+Word,w9,Recurrent Hepatoblastoma,uusiutuva maksakasvain
+Word,w29,Recurrent NSCLC,uusiutuva ei-pienisoluinen keuhkosyöpä   
+Word,w9,Recurrent disease,uusiutuva sairaus
+Word,w16,Regimen,hoito-ohjelma
+Word,w4,Region,alue
+Word,w34,Rehydrated: 5.8%,nesteytetty：5.8%
+Word,w33,Rehydrated: 9.8%,nesteytetty：9.8%
+Word,w34,Resection margins,poistoleikkauksen reunat
+Word,w3,Risk,riski
+Word,w22,Scant cytoplasm,vähäinen solukalvoplasma
+Word,w23,Scirrhous tumors,hidaskasvuiset kasvaimet
+Word,w12,Screened,seulottu
+Word,w23,Screening Intervention,seulontatoimenpide
+Word,w18,Second-line chemotherapy,toislinjainen kemoterapia
+Word,w5,Sensitivity,herkkyys
+Word,w14,Serrated,sahalaitainen
+Word,w2,Serum pepsinogen,seerumin pepsinogeeni
+Word,w7,Sigmoidoscopy,paksusuolen tutkimusendoskooppi   
+Word,w3,Site,sivusto
+Word,w25,Small cell,pieni solu
+Word,w4,Smoking avoidance,tupakoinnin välttäminen
+Word,w8,South America,Etelä-Amerikka
+Word,w14,Special Populations,erityisväestöt
+Word,w13,Stage III,vaihe III
+Word,w18,Stage IV,vaihe IV
+Word,w14,Stage Information,vaihetieto 
+Word,w6,Stage explanation--legacy,vaiheselitys--perintö
+Word,w26,Stage explanation--legacy,vaiheselitys--perintö
+Word,w10,Stage explanation--legacy,vaiheselitys--perintö
+Word,w31,Stage explanation--legacy,vaiheselitys--perintö
+Word,w48,Staging Evaluation,vaiheistusarviointi
+Word,w15,Staging Systems,vaiheistusjärjestelmät
+Word,w7,Standard treatment,vakiohoito
+Word,w21,Study Design,tutkimussuunnitelma
+Word,w8,Surgery alone,leikkaus yksin
+Word,w19,Surgical Approaches,kirurgiset lähestymistavat
+Word,w7,Surgical Resection,kirurginen poistoleikkaus
+Word,w28,Surgical evaluation,kirurginen arviointi
+Word,w31,Surgical margins,kirurgiset reunat
+Word,w1,Surveillance,valvonta
+Word,w1,Survival,selviytyminen
+Word,w17,Sweden,Ruotsi
+Word,w5,Systemic Chemotherapy,systeeminen kemoterapia
+Word,w48,Systemic Therapy,systeeminen hoito
+Word,w23,Systemic disease,systeeminen sairaus
+Word,w21,T3 invasion,T3-invaasio                              
+Word,w37,T4 (extension),hyvin laajalle levinnyt kasvain (laajentaminen)                        
+Word,w13,T4 disease,T4-sairaus                               
+Word,w28,Testing Interval,testausväli
+Word,w6,Thermography,lämmönvaihtelututkimus
+Word,w24,Third-line chemotherapy,kolmilinjainen kemoterapia
+Word,w4,Topotecan,topotekaani       
+Word,w10,Transarterial chemoembolization,kasvaimen kemoembolisaatio                   
+Word,w18,Trastuzumab,trastutsumabi      
+Word,w15,Treatment Options,hoitovaihtoehdot
+Word,w22,Treatment Toxicity,hoidon myrkyllisyys
+Word,w22,Treatment-related factors,hoitoon liittyvät tekijät
+Word,w3,Treatments,hoidot
+Word,w9,Tubular,putkimainen
+Word,w15,Tubulovillous,putkimainen
+Word,w23,Tumor Characteristics,​kasvaimen ominaisuudet
+Word,w3,Tumor Location,kasvaimen sijainti
+Word,w23,Tumor Location,kasvaimen sijainti
+Word,w30,Tumor size,kasvaimen koko
+Word,w26,Typical carcinoid,tyypillinen syöpä
+Word,w5,Tyrosinemia,perinnöllinen aineenvaihduntahäiriö
+Word,w11,Ultrasonography,​ultraäänitutkimus
+Word,w35,Unclassified carcinoma,luokittelematon syöpä
+Word,w24,Undifferentiated carcinoma,erilaistumaton syöpä
+Word,w24,United Kingdom,Yhdistynyt kuningaskunta
+Word,w15,United States,Yhdysvallat
+Word,w10,Unknown,tuntematon
+Word,w20,Unrehydrated: 1.0%,kuivunut：1.0%
+Word,w31,Unrehydrated: 1.9%,kuivunut：1.9%
+Word,w26,Unrehydrated: 2.1%,kuivunut：2.1%
+Word,w29,Unrehydrated: 2.4%,kuivunut：2.4%
+Word,w39,Unresectable disease,leikkauskelvoton sairaus
+Word,w6,Unusual,epänormaali
+Word,w7,"Upper, middle","ylempi, keski"
+Word,w20,Uterine cancer,kohdun syöpä
+Word,w6,VTE,laskimotromboembolia    
+Word,w9,Variants,muunnokset
+Word,w42,Vascular invasion,verisuonen invaasio
+Word,w12,Vascular involvement,verisuonen osallistuminen
+Word,w15,Vasomotor symptoms,verisuoniston oireet
+Word,w7,Villous,limakalvon uloke
+Word,w4,Vitamins,vitamiinit
+Word,w8,Weakness,heikkous
+Word,w21,Weight gain,painonnousu
+Word,w18,Weight loss,​painonpudotus
+Word,w10,Western Africa,Länsi-Afrikka
+Word,w24,Young women,nuoret naiset
+Word,w8,cancer prevention,syövän ehkäisy
+Word,w32,childhood hepatoblastoma,lapsuuden maksakasvain
+Word,w11,colon cancer,paksusuolen syöpä
+Word,w13,drinking water,juomavesi
+Word,w19,extensive-stage SCLC,laaja-alainen pienisoluinen keuhkosyöpä   
+Word,w43,grade 1,aste 1
+Word,w49,grade 1–2,aste 1-2
+Word,w55,grade 2–3,aste 2-3
+Word,w13,limited-stage SCLC,rajoitetun vaiheen pienisoluinen keuhkosyöpä   
+Word,w26,mTOR Inhibitors,mTOR-estäjät                              
+Word,w53,metastatic cancer,etäpesäkesyöpä
+Word,w4,negative,kielteinen
+Word,w30,occult NSCLC,selittämätön ei-pienisoluinen keuhkosyöpä   
+Word,w12,positive,myönteinen
+Word,w16,rectal cancer,peräsuolen syöpä
+Word,w36,recurrent NSCLC,uusiutuva ei-pienisoluinen keuhkosyöpä   
+Phrase,p1,Rofecoxib 25 mg/qd,rofekoksibi 25 mg/qd                         
+Phrase,p2,Chemoprevention sporadic adenoma,satunnaisen rauhasperäisen kasvaimen kemoehkäisy
+Phrase,p3,Nonsteroidal anti-inflammatory drugs,ei-steroidiset tulehduslääkkeet
+Phrase,p4,Definition of prevention,ehkäisyn määritelmä
+Phrase,p5,Use of statins,statiinien käyttö
+Phrase,p6,External Validity: N/A,ulkoinen oikeellisuus: ei käytettävissä oleva   
+Phrase,p7,Excessive alcohol use,liiallinen alkoholin käyttö
+Phrase,p8,Risk increases with age,riski kasvaa iän myötä
+Phrase,p9,Naproxen seemed least harmful,naprokseeni vaikutti vähiten haitalliselta
+Phrase,p10,Study Design: Cohort studies,tutkimussuunnitelma：kohorttitutkimukset
+Phrase,p11,Postmenopausal female hormone supplements,vaihdevuosien jälkeiset naishormonilisät
+Phrase,p12,RCTs have been consistent,satunnaistetut kontrolloidut tutkimukset ovat olleet johdonmukaiset                           
+Phrase,p13,Colorectal Cancer (PDQ®): Prevention,paksusuolen ja peräsuolen syöpä (PDQ®): ehkäisy​
+Phrase,p14,Who is at Risk,kuka on vaarassa
+Phrase,p15,Study Design: Evidence from RCTs,tutkimussuunnitelma：todiste satunnaistetuista kontrolloiduista tutkimuksista
+Phrase,p16,Hormone therapy (estrogen plus progestin),hormonihoito（estrogeeni sekä keltarauhashormoni）
+Phrase,p17,Internal Validity: Not applicable (N/A),sisäinen oikeellisuus：ei sovellettavissa oleva (ei käytettävissä oleva)        
+Phrase,p18,Nested case-control study all users,sisäkkäinen ​tapauskontrolloitu tutkimus kaikille käyttäjille
+Phrase,p19,"Dietary fiber, vegetables, and fruit","ruokavaliokuitu, vihannekset ja hedelmät"
+Phrase,p20,Study Design: Cohort and RCTs,tutkimussuunnitelma: kohortti ja satunnaistetut kontrolloidut tutkimukset
+Phrase,p21,Dietary fat and meat intake,ruokavalion rasvan ja lihan saanti 
+Phrase,p22,Validity of dietary questionnaires used,käytettyjen ruokavaliokyselyiden oikeellisuus
+Phrase,p23,Study Design: Large cohort studies,tutkimussuunnitelma：suuret kohorttitutkimukset
+Phrase,p24,Study Design: Meta-analyses of RCTs,tutkimussuunnitelma：satunnaistettujen kontrolloitujen tutkimusten meta-analyysit   
+Phrase,p25,Study Design: One-hundred six observational studies,tutkimussuunnitelma：satakuusi havainnoivaa tutkimusta
+Phrase,p26,Etiology and pathogenesis of colorectal cancer,paksusuolen ja peräsuolen syövän alkuperä ja sairauden kehityksen kulku
+Phrase,p27,Study Design: Cohort studies and meta-analysis,tutkimussuunnitelma：kohorttitutkimukset ja meta-analyysi
+Phrase,p28,Study Design: One randomized controlled trial,tutkimussuunnitelma：yksi satunnaistettu kontrolloitu koe
+Phrase,p29,Rofecoxib <25 mg/qd; rofecoxib >25 mg/qd,rofekoksibi <25 mg/qd; rofekoksibi ＞25 mg/qd      
+Phrase,p30,"Sporadic adenoma prevention trial (N = 2,035)","satunnaisen rauhasperäisen kasvaimen ennaltaehkäisevä koe (N = 2,035)"
+Phrase,p31,Study Design: Evidence obtained from large databases,tutkimussuunnitelma: todiste saatu suurista tietokannoista
+Phrase,p32,The overall 5-year survival rate is 64%,koko 5 vuoden eloonjäämisaste on 64%
+Phrase,p33,Study Design: Evidence from retrospective cohort studies,tutkimussuunnitelma: todiste retrospektiivisistä kohorttitutkimuksista
+Phrase,p34,Celecoxib 200 mg/qd vs 400 mg bid,selekoksibi 200 mg/qd vastaan 400 mg kahdesti päivässä    
+Phrase,p35,"External Validity: Good, data from national databases","ulkoinen oikeellisuus：hyvä，tieto kansallisista tietokannoista"
+Phrase,p36,Study Design: Extended follow-up of four RCTs,tutkimussuunnitelma：neljän satunnaistetun kontrolloidun tutkimuksen laajennettu seuranta    
+Phrase,p37,The analysis did not include fiber supplements,analyysi ei sisältänyt kuitulisiä
+Phrase,p1,Arm B: fluoropyrimidine/oxaliplatin/cetuximab,hoitoryhmä B：fluoripyrimidiini/oksaliplatiini/setuksimabi
+Phrase,p2,Endocavitary radiation therapy,keho-ontelon sädehoito
+Phrase,p3,Definitions of TNM,TNM:n määritelmät                        
+Phrase,p4,Gastrointestinal stromal tumor,ruoansulatuskanavan kudoskasvain
+Phrase,p5,Arm A: fluoropyrimidine/oxaliplatin,hoitoryhmä A：fluoripyrimidiini/oksaliplatiini
+Phrase,p6,Incidence and Mortality,ilmaantuvuus ja kuolleisuus
+Phrase,p7,Local radiation therapy,paikallinen sädehoito
+Phrase,p8,Mantle cell lymphoma,solujen imukudossyöpä
+Phrase,p9,Preoperative Chemoradiation Therapy,leikkausta edeltävä kemosäteilytyshoito
+Phrase,p10,recurrent rectal cancer,uusiutuva peräsuolen syöpä
+Phrase,p11,Burkitt-like/atypical Burkitt lymphoma,Burkittin kaltainen/epätyypillinen Burkittin imukudossyöpä
+Phrase,p12,Metastatic Rectal Cancer,etäpesäkkeinen peräsuolen syöpä
+Phrase,p13,Change in appetite,ruokahalun muutos
+Phrase,p14,Genetic risk factors,​perinnölliset riskitekijät
+Phrase,p15,First-line multiagent chemotherapy,ensilinjainen moniainekemoterapia
+Phrase,p16,A clinical trial,kliininen koe
+Phrase,p17,Prone patient positioning,potilaan makuuasento
+Phrase,p18,Palliative radiation,palliatiivinen säteilytys
+Phrase,p19,Signet-ring cell carcinoma,ruoansulatuselimen solusyöpä
+Phrase,p20,Other risk factors,​muut riskitekijät
+Phrase,p21,Rectal Cancer (PDQ®): Treatment,peräsuolen syöpä (PDQ®): hoito
+Phrase,p22,stage III rectal cancer,vaiheen III peräsuolen syöpä
+Phrase,p23,stage I rectal cancer,vaiheen I peräsuolen syöpä
+Phrase,p24,Hereditary mixed polyposis syndrome,perinnöllinen sekamuotoinen polyyppi-oireyhtymä
+Phrase,p25,Stage II Rectal Cancer,vaiheen II peräsuolen syöpä
+Phrase,p26,Clinical Presentation and Symptoms,kliininen esittely ja oireet
+Phrase,p27,Capecitabine with radiation therapy,kapesitabiini sädehoidon kanssa
+Phrase,p28,Systemic chemotherapy (see below),systeeminen kemoterapia（ks. alla）
+Phrase,p29,Locally Recurrent Rectal Cancer,paikallisesti uusiutuva peräsuolen syöpä
+Phrase,p30,Stage I Rectal Cancer,vaiheen I peräsuolen syöpä
+Phrase,p31,Change in bowel habits,​muutos suolistotottumuksissa
+Phrase,p32,Clinical Evaluation and Staging,kliininen arviointi ja vaiheistus
+Phrase,p33,Arm C: intermittent fluoropyrimidine/oxaliplatin,hoitoryhmä C：jaksottainen fluoripyrimidiini/oksaliplatiini
+Phrase,p34,Cowden syndrome: PTEN gene,Cowden-oireyhtymä：PTEN-geeni  
+Phrase,p35,stage IV rectal cancer,vaiheen IV peräsuolen syöpä
+Phrase,p36,Low-grade glandular intraepithelial neoplasia,matala-asteinen kudoskerroksen sisäisten kudosten epänormaali kasvu kehossa
+Phrase,p37,Cetuximab/Panitumumab and Second-Line Chemotherapy,setuksimabi/panitumumabi ja toislinjainen kemoterapia 
+Phrase,p38,Table 1. Primary Tumor,taulu 1. ensisijainen kasvain
+Phrase,p39,stage II rectal cancer,vaiheen II peräsuolen syöpä
+Phrase,p40,stage 0 rectal cancer,vaiheen 0 peräsuolen syöpä
+Phrase,p41,Genetics of Colorectal Cancer,paksusuolen ja peräsuolen syövän genetiikat
+Phrase,p42,High-grade glandular intraepithelial neoplasia,korkea-asteinen kudoskerroksen sisäisten kudosten epänormaali kasvu kehossa
+Phrase,p43,Stage 0 Rectal Cancer,vaiheen 0 peräsuolen syöpä
+Phrase,p44,Ruvalcaba–Myhre–Smith syndrome: PTEN gene,​Ruvalcaba-Myher-Smithin oireyhtyma: PTEN-geeni
+Phrase,p45,Tumor invades muscularis propria,kasvain tunkeutuu lihaskudoskerroksiin
+Phrase,p46,Addition of radiation therapy,sädehoidon lisäys
+Phrase,p47,Diffuse large B-cell lymphoma,epätarkka suuri B-soluinen imukudossyöpä
+Phrase,p48,Stage III Rectal Cancer,vaiheen III peräsuolen syöpä
+Phrase,p49,"Enterochromaffin (EC)-cell, serotonin-producing neoplasm","suolistosolu (EC), serotoniinia tuottava epänormaali kudosmassa"
+Phrase,p50,Oxaliplatin with chemoradiation therapy,oksaliplatiini kemosäteilytyshoidon kanssa   
+Phrase,p51,General Information About Rectal Cancer,​yleistieto peräsuolen syövästä
+Phrase,p52,Polypectomy for select T1 cancers,epänormaalin kudoskasvun kirurginen poisto valituille T1-syöville
+Phrase,p53,No regional lymph node metastasis,ei alueellista imusolmukkeen etäpesäkettä 
+Phrase,p54,Clinical trials evaluating new drugs,kliiniset kokeet arvioivat uusia lääkkeitä
+Phrase,p55,Table 4. Anatomic Stage/Prognostic Groups,taulu 4. anatominen vaihe/ennusteryhmät
+Phrase,p56,Chemotherapy alone for local control,kemoterapia yksin paikalliseen kontrolliin
+Phrase,p57,Stage Information for Rectal Cancer,vaihetieto peräsuolen syöpään
+Phrase,p58,German Rectal Cancer Study Group,saksalainen peräsuolen syövän tutkimusryhmä
+Phrase,p59,Local excision or simple polypectomy,paikallinen kirurginen poisto tai yksinkertainen epänormaalin kudoskasvun kirurginen poisto
+Phrase,p60,Peutz-Jeghers syndrome: STK11 / LKB1 gene,Peutz-Jeghersin oireyhtymä：STK11/LKB1-geeni  
+Phrase,p61,Turcot syndrome: APC gene; MMR genes, perinnöllinen epänormaalin kudoksen kasvuoireyhtymä：APC-geeni; MMR-geenit
+Phrase,p62,Metastases in 4–6 regional lymph nodes,etäpesäkkeet 4-6 alueellisissa imusolmukkeissa
+Phrase,p63,Metastases in ≥7 regional lymph nodes,etäpesäkkeet ≥7 alueellisissa imusolmukkeissa
+Phrase,p64,The use of high-energy radiation machines,korkeaenergisten säteilytyslaitteiden käyttö
+Phrase,p65,Familial adenomatous polyposis (FAP): APC gene,​perinnöllinen suolistosairaus (FAP): APC-geeni  
+Phrase,p66,Metastases in 1–3 regional lymph nodes,etäpesäkkeet 1-3 alueellisissa imusolmukkeissa
+Phrase,p67,Metastases in ≥4 regional lymph nodes,etäpesäkkeet ≥4 alueellisissa imusolmukkeissa
+Phrase,p68,The use of multiple pelvic fields,lantion alueen moninainen käyttö
+Phrase,p69,"New cases: 40,340 (rectal cancer only)","​uudet tapaukset：40,340 (pesäsuolen syöpä vain)"
+Phrase,p70,MAC is the modified Astler-Coller classification,mikrokystinen adneksaalinen syöpä on muokattu Astler-Collerin luokittelu   
+Phrase,p71,Metastasis in 1 regional lymph node,etäpesäke 1 alueellisessa imusolmukkeessa
+Phrase,p72,"Palliative, endoscopic-placed stents to relieve obstruction","palliatiivinen, endoskooppisesti asennetut stentit lieventävät tukkeumaa"
+Phrase,p73,To detect new or metachronous malignancies,havaita uusia tai uusiutuvia pahanlaatuisia syöpäsoluja
+Phrase,p74,Metastases in 2–3 regional lymph nodes,etäpesäkkeet 2-3 alueellisissa imusolmukkeissa
+Phrase,p75,Perforation or obstruction of the bowel,suolen puhkeama tai tukos
+Phrase,p76,Presence or absence of distant metastases,etäisten etäpesäkkeiden läsnäolo tai puuttuminen
+Phrase,p77,Table 2. Regional Lymph Nodes (N),taulu 2. alueelliset imusolmukkeet（N）    
+Phrase,p78,Patients receiving panitumumab experienced improved OS,panitumumabia saavien potilaiden kokema parantunut OS
+Phrase,p79,Stage IV and Recurrent Rectal Cancer,vaihe IV ja uusiutuva peräsuolen syöpä
+Phrase,p80,Cellular Classification and Pathology of Rectal Cancer,soluluokittelu ja peräsuolen syövän patologia
+Phrase,p81,Resection of isolated pulmonary or ovarian metastases,eristetyn keuhkosyövän tai munasarjan etäpesäkkeiden poistoleikkaus
+Phrase,p82,Hyperplastic polyposis syndrome: BRAF and KRAS2 genes,hyperplastinen polypoosin oireyhtymä​：BRAF- ja KRAS2-geenit   
+Phrase,p83,Adjuvant chemotherapy following chemoradiation therapy and surgery,hoidon tehokkuutta parantava kemoterapia kemosäteilytyshoidon ja leikkauksen jälkeen
+Phrase,p84,Adherence to or invasion of adjacent organs,kiinnittyminen tai tunkeutuminen viereisiin elimiin 
+Phrase,p85,Capecitabine plus weekly oxaliplatin with radiation therapy,kapesitabiini sekä viikoittainen oksaliplatiini sädehoidon kanssa
+Phrase,p86,To assess the efficacy of initial therapy,arvioida alkuhoidon tehoa
+Phrase,p87,"Deaths: 50,830 (colon and rectal cancers combined)","kuolemat：50,830 (paksusuolen ja pesäsuolen syövät yhdistettynä)"
+Phrase,p88,Attenuated familial adenomatous polyposis (AFAP): APC gene,lieventynyt perinnöllinen epänormaali rauhaskasvain (AFAP): APC-geeni  
+Phrase,p89,The Role of Oxaliplatin for Localized Disease,oksaliplatiinin merkitys paikallisessa sairaudessa
+Phrase,p90,Metastases in >1 organ/site or the peritoneum,etäpesäkkeet >1 elimessä/kohdassa tai vatsan kudoksessa
+Phrase,p1,Infected drinking water,saastunut juomavesi
+Phrase,p2,Hepatitis C virus,maksatulehduksen C-virus
+Phrase,p3,Mode of Transmission,tarttumisen tapa
+Phrase,p4,Hepatitis B virus,maksatulehduksen B-virus
+Phrase,p5,Dominant Geographical Areas,hallitsevat maantieteelliset alueet
+Phrase,p6,No virus confirmed,virusta ei ole vahvistettu
+Phrase,p7,Full recovery (usually),täysi palautuminen（yleensä）
+Phrase,p8,Hepatic Virus Types,maksatulehduksen virustyypit
+Phrase,p9,To be determined,määritellään
+Phrase,p10,Evidence of Benefit,todiste hyödystä
+Phrase,p11,Liver (Hepatocellular) Cancer Prevention,maksasyövän（maksasolun）ehkäisy
+Phrase,p12,Liver (Hepatocellular) Cancer Screening,maksasyövän（maksasolun）seulonta
+Phrase,p13,Hepatitis B and C,maksatulehdus B ja C
+Phrase,p14,Prevention of Hepatitis B,maksatulehduksen B ehkäisy
+Phrase,p15,Cirrhosis and other factors,kirroosi ja muut tekijät
+Phrase,p16,"Incidence (per 100,000 population)","ilmaantuvuus (per 100,000 asukasta)"
+Phrase,p17,Adapted from Russo et al,muokattu Russo et al.:lta
+Phrase,p18,Liver (Hepatocellular) Cancer (PDQ®): Prevention,maksasyöpä（maksasolun）(PDQ®): ehkäisy
+Phrase,p19,"Body fluids, e.g., blood, semen","kehon nesteet，kuten veri, siemenneste"
+Phrase,p20,Little or no association with cancer,vähäinen tai ei mitään yhteyttä syöpään
+Phrase,p21,It is a sexually transmitted disease,se on sukupuolitauti
+Phrase,p22,Table 3. Likely Etiology of Hepatocellular Carcinoma,taulu 3. todennäköinen maksasolusyövän alkuperä
+Phrase,p23,Hepatitis B Vaccine to Prevent Hepatocellular Cancer,maksatulehduksen B rokotus estämään maksasolusyöpä
+Phrase,p24,Viruses Associated With Hepatitis and/or Hepatocellular Cancer,maksatulehdukseen ja/tai maksasolusyöpään liittyvät virukset
+Phrase,p25,Hepatitis D causes swelling of the liver,maksatulehdus D aiheuttaa maksan turvotusta
+Phrase,p1,Evidence (laparoscopic techniques):,todiste (vatsalaukun tutkimustekniikat):
+Phrase,p2,recurrent colon cancer,uusiutuva paksusuolen syöpä
+Phrase,p3,Standard Treatment Options,vakiohoitovaihtoehdot
+Phrase,p4,Palliative radiation therapy,palliatiivinen sädehoito
+Phrase,p5,Signet ring adenocarcinoma,ruoansulatuselimen rauhassyöpä
+Phrase,p6,stage IV colon cancer,vaiheen IV paksusuolen syöpä
+Phrase,p7,Inadequate lymph node sampling,riittämätön imusolmukkeen näytteenotto
+Phrase,p8,stage 0 colon cancer,vaiheen 0 paksusuolen syöpä
+Phrase,p9,A poorly differentiated histology,huonosti eriytetty mikroskooppitutkimus
+Phrase,p10,Stage 0 colon cancer,vaiheen 0 paksusuolen syöpä
+Phrase,p11,Chemotherapy regimens after 2000,kemoterapian hoito-ohjelmat vuoden 2000 jälkeen
+Phrase,p12,Stage II Colon Cancer,vaiheen II paksusuolen syöpä
+Phrase,p13,stage II colon cancer,vaiheen II paksusuolen syöpä
+Phrase,p14,stage I colon cancer,vaiheen I paksusuolen syöpä
+Phrase,p15,Treatment options by stage,hoitovaihtoehdot vaiheittain
+Phrase,p16,Stage III colon cancer,vaiheen III paksusuolen syöpä
+Phrase,p17,Stage IV colon cancer,vaiheen IV paksusuolen syöpä
+Phrase,p18,stage III colon cancer,vaiheen III paksusuolen syöpä
+Phrase,p19,Colon Cancer (PDQ®): Treatment,paksusuolen syöpä (PDQ®): hoito​
+Phrase,p20,Treatment of Liver Metastasis,maksan etäpesäkkeen hoito
+Phrase,p21,Stage I Colon Cancer,vaiheen I paksusuolen syöpä
+Phrase,p22,Adenocarcinoma (most colon cancers),rauhassyöpä（useimmat paksusuolen syövät）
+Phrase,p23,Stage III Colon Cancer,vaiheen III paksusuolen syöpä
+Phrase,p24,Stage 0 Colon Cancer,vaiheen 0 paksusuolen syöpä
+Phrase,p25,Chemotherapy and targeted therapy,kemoterapia ja kohdennettu hoito
+Phrase,p26,Stage 0 Colon Cancer Treatment,vaiheen 0 paksusuolen syövän hoito
+Phrase,p27,Stage Information for Colon Cancer,vaihetieto paksusuolen syöpään
+Phrase,p28,T1 = Tumor invades submucosa,T1 = kasvain tunkeutuu limakalvon alla olevaan tukikudokseen   
+Phrase,p29,Cellular Classification of Colon Cancer,paksusuolen syövän soluluokittelu
+Phrase,p30,Chemotherapy regimens prior to 2000,kemoterapian hoito-ohjelmat ennen vuotta 2000 
+Phrase,p31,Stage II Colon Cancer Treatment,vaiheen II paksusuolen syövän hoito
+Phrase,p32,These groups include the following:,nämä ryhmät sisältävät seuraavaa:
+Phrase,p33,Wide surgical resection and anastomosis,laaja kirurginen poistoleikkaus ja anastomoosi
+Phrase,p34,Involvement of the visceral peritoneum,vatsaelinten kudoskerrosten osallistuminen
+Phrase,p35,Stage III Colon Cancer Treatment,vaiheen III paksusuolen syövän hoito
+Phrase,p36,Treatment Options Under Clinical Evaluation,hoitovaihtoehdot kliinisen arvioinnin alla
+Phrase,p37,"Any T, Any N, M1b","mikä tahansa kasvaimen koko, mikä tahansa imusolmuke, syöpä etäisissä imusolmukkeissa"
+Phrase,p38,Treatment options for recurrent cancer,hoitovaihtoehdot uusiutuvalle syövälle
+Phrase,p39,Stage I Colon Cancer Treatment,vaiheen I paksusuolen syövän hoito
+Phrase,p40,M0 = No distant metastasis,M0 = ei etäistä etäpesäkettä   
+Phrase,p41,General Information About Colon Cancer,yleistieto paksusuolen syövästä
+Phrase,p42,"Any T, Any N, M1a","mikä tahansa kasvaimen koko, mikä tahansa imusolmuke, syöpä etäisissä imusolmukkeissa" 
+Phrase,p43,Evidence (5-FU alone and 5-FU-semustine):,todiste (5-FU yksin and 5-FU-semustine):  
+Phrase,p44,Treatment Option Overview for Colon Cancer,hoitovaihtoehdon yleiskatsaus paksusuolen syöpään
+Phrase,p45,T2 = Tumor invades muscularis propria,T2 = kasvain tunkeutuu lihaskudoskerroksiin  
+Phrase,p46,"New cases: 102,480 (colon cancer only)","uudet tapaukset：102,480 (vain paksusuolen syöpä)"
+Phrase,p47,AJCC Stage Groupings and TNM Definitions,AJCC-vaiheryhmittelyt ja TNM-määritelmät    
+Phrase,p48,Added Aflibercept as a new subsection,lisätty veren määrä verkkokalvolla uutena alakohtana
+Phrase,p49,Surgical resection of locally recurrent cancer,paikallisesti uusiutuvan syövän poistoleikkaus
+Phrase,p50,Other prognostic factors include the following:,muut ennustetekijät sisältävät seuraavaa：
+Phrase,p51,MAC is the modified Astler-Coller classification,MAC on muokattu Astler-Collerin luokittelu
+Phrase,p52,Stage IV and Recurrent Colon Cancer Treatment,vaihe IV ja uusiutuvan paksusuolen syövän hoito
+Phrase,p53,Table 4. Definitions of TNM Stage III,taulu 4. TNM:n vaiheen III määritelmät
+Phrase,p54,T0 = No evidence of primary tumor,T0 = ei todistetta ensisijaisesta kasvaimesta
+Phrase,p55,Table 1. Definitions of TNM Stage 0,taulu 1. TNM:n vaiheen O määritelmät
+Phrase,p56,Table 3. Definitions of TNM Stage II,taulu 3. TNM:n vaiheen II määritelmät
+Phrase,p57,Levamisole alone did not confer these benefits,ihosairauksien hoitoon käytetty lääke ei yksin tuonut näitä etuja
+Phrase,p58,"Deaths: 50,830 (colon and rectal cancers combined)","kuolemat：50,830 (paksusuolen ja peräsuolen syövät yhdistettynä)"
+Phrase,p59,The presence or absence of nodal involvement,imusolmukkeiden läsnäolo tai puuttuminen
+Phrase,p60,N0 = No regional lymph node metastasis,N0：ei alueellista imusolmukkeen etäpesäkettä
+Phrase,p61,Table 5. Definitions of TNM Stage IV,taulu 5. TNM:n vaiheen IV määritelmät
+Phrase,p62,TX = Primary tumor cannot be assessed,TX = ensisijaista kasvainta ei voida arvioida
+Phrase,p63,Table 2. Definitions of TNM Stage I,taulu 2. TNM:n vaiheen I määritelmät     
+Phrase,p64,Added Third-line chemotherapy as a new subsection,lisätty kolmilinjainen kemoterapia uutena alakohtana
+Phrase,p65,The presence or absence of distant metastases,etäisten etäpesäkkeiden läsnäolo tai puuttuminen
+Phrase,p1,Esophageal Cancer Screening,ruokatorven syövän seulonta
+Phrase,p2,Evidence of Harm,todiste haitasta
+Phrase,p3,Squamous Cell Cancer,levyepiteelisyöpä
+Phrase,p4,Esophageal Cancer (PDQ®): Screening,ruokatorven syöpä (PDQ®):seulonta
+Phrase,p5,Internal Validity : Fair,sisäinen luotettavuus：reilu
+Phrase,p6,Consistency : Multiple studies,johdonmukaisuus：moninaiset tutkimukset
+Phrase,p7,External Validity : Poor,ulkoinen luotettavuus：heikko
+Phrase,p8,"Natural History, Incidence, and Mortality","luonnonhistoria, ilmaantuvuus ja kuolleisuus"
+Phrase,p9,The epidemiology of these types varies markedly,näiden tyyppien epidemiologia vaihtelee huomattavasti
+Phrase,p1,"New cases: 2,240","uudet tapaukset：2,240"
+Phrase,p2,male breast cancer,miehen rintasyöpä
+Phrase,p3,Initial Surgical Management,alkuperäinen kirurginen hoito
+Phrase,p4,Locally Recurrent Disease,paikallisesti uusiutuva sairaus
+Phrase,p5,Trastuzumab (under clinical evaluation),trastutsumabi（kliinisen arvioinnin alla）
+Phrase,p6,Sexuality and Reproductive Issues,seksuaalisuuteen ja lisääntymiseen liittyvät kysymykset
+Phrase,p7,Sweats and Hot Flashes,hikoilut ja kuumat aallot
+Phrase,p8,Tamoxifen (under clinical evaluation),tamoksifeeni（kliinisen arvioinnin alla）
+Phrase,p9,Male Breast Cancer (PDQ®): Treatment,miehen rintasyöpä (PDQ®): hoito
+Phrase,p10,Tamoxifen for estrogen receptor–positive patients,tamoksifeeni estrogeenireseptoripositiivisille potilaille
+Phrase,p11,"Initially, hormonal therapy is recommended","aluksi suositellaan hormonaalista hoitoa"
+Phrase,p12,Male breast cancer is rare,miehen rintasyöpä on harvinainen
+Phrase,p13,CAF: cyclophosphamide plus doxorubicin plus fluorouracil,kemoterapiahoito-ohjelma：syklofosfamidi sekä doksorubisiini sekä fluorourasiili   
+Phrase,p14,CMF: cyclophosphamide plus methotrexate plus fluorouracil,kemoterapiahoito-ohjelma：syklofosfamidi sekä metotreksaatti sekä fluorourasiili  
+Phrase,p15,General Information About Male Breast Cancer,yleistieto miehen rintasyövästä
+Phrase,p16,Hormonal therapies may be used sequentially,hormonaalisia hoitoja voidaan käyttää vaiheittain
+Phrase,p17,Treatment Options for Male Breast Cancer,hoitovaihtoehdot miehen rintasyöpään
+Phrase,p18,Intraductal cancer has been described as well,myös rintatiehytsyöpä on kuvattu
+Phrase,p1,Nausea and Vomiting,pahoinvointi ja oksentaminen
+Phrase,p2,Benefit of chemotherapy,kemoterapian hyöty
+Phrase,p3,Docetaxel and capecitabine,doketakseli ja kapesitabiini     
+Phrase,p4,Adjuvant Systemic Therapy,hoidon tehokkuutta parantava systeeminen hoito
+Phrase,p5,Sentinel node biopsy,kehon kudosta poistava tutkimuskoepalan otto
+Phrase,p6,Docetaxel plus trastuzumab,doketakseli sekä trastutsumabi 
+Phrase,p7,Treatment Option Overview,hoitovaihtoehdon yleiskatsaus
+Phrase,p8,Lapatinib plus paclitaxel,lapatinibi sekä paklitakseli   
+Phrase,p9,Diagnostics and Survival,diagnostiikka ja selviytyminen
+Phrase,p10,Pertuzumab plus trastuzumab,pertutsumabi sekä trastutsumabi  
+Phrase,p11,"New cases: 235,030","​uudet tapaukset：235,030"
+Phrase,p12,None or tamoxifen,ei mitään tai tamoksifeeni   
+Phrase,p13,Triple-Negative Breast Cancer,kolminkertaisesti kielteinen rintasyöpä
+Phrase,p14,Preoperative neoadjuvant chemotherapy,ennen leikkausta annettava ennaltaehkäisevä kemoterapia
+Phrase,p15,Postoperative adjuvant chemotherapy,leikkauksen jälkeinen ennaltaehkäisevä kemoterapia
+Phrase,p16,Post-breast conservation surgery,rinnan suojeluleikkauksen jälkeinen
+Phrase,p17,Vinorelbine and epirubicin,vinorelbiini ja epirubisiini 
+Phrase,p18,triple-negative breast cancer,kolminkertaisesti kielteinen rintasyöpä
+Phrase,p19,Capecitabine and ixabepilone,kapesitabiini ja iksabepiloni    
+Phrase,p20,Tamoxifen toxic effects,tamoksifeenin myrkylliset vaikutukset    
+Phrase,p21,Docetaxel plus pertuzumab,doketakseli sekä pertutsumabi  
+Phrase,p22,recurrent breast cancer,uusiutuva rintasyöpä
+Phrase,p23,–M0 includes M0(i+),M0 sisältää M0(i+)n                                             
+Phrase,p24,inflammatory breast cancer,tulehduksellinen rintasyöpä
+Phrase,p25,Tamoxifen and chemotherapy,tamoksifeeni ja kemoterapia    
+Phrase,p26,Lapatinib plus capecitabine,lapatinibi sekä kapesitabiini   
+Phrase,p27,Docetaxel and doxorubicin,doketakseli ja doksorubisiini    
+Phrase,p28,Doxorubicin and paclitaxel,doksorubisiini ja paklitakseli  
+Phrase,p29,Timing of surgery,leikkauksen ajoitus
+Phrase,p30,Incidence and Mortality,ilmaantuvuus ja kuolleisuus
+Phrase,p31,Lapatinib plus trastuzumab,lapatinibi sekä trastutsumabi     
+Phrase,p32,Overview of Chemotherapy,kemoterapian yleiskatsaus
+Phrase,p33,Hormone Replacement Therapy,hormonikorvaushoito
+Phrase,p34,T1 includes T1mi,T1 sisältää T1mi:n             
+Phrase,p35,Docetaxel and cyclophosphamide,doketakseli ja syklofosfamidi  
+Phrase,p36,Positive axillary nodes,positiiviset kainalosolmukkeet
+Phrase,p37,"CMF: cyclophosphamide, methotrexate, 5-fluorouracil","kemoterapiahoito-ohjelma：syklofosfamidi, metotreksaatti, 5-fluorourasiili"   
+Phrase,p38,Large tumors (T2 lesions),suuret kasvaimet（T2-leesiot）
+Phrase,p39,"Premenopausal, ER-negative or PR-negative","ennen vaihdevuosia, ER-negatiivinen tai PR-negatiivinen"     
+Phrase,p40,stage IV breast cancer,vaiheen IV rintasyöpä
+Phrase,p41,Results have been inconsistent,tulokset ovat olleet epäjohdonmukaisia
+Phrase,p42,Adult Hodgkin Lymphoma Treatment,aikuisen Hodgkin-lymfooman hoito
+Phrase,p43,Axillary lymph node surgery,kainalon imusolmukkeen leikkaus
+Phrase,p44,Ductal Carcinoma In Situ,putkimainen alkuperäisessä kohteessa oleva syöpäsoluryhmä
+Phrase,p45,HER2/neu receptor status testing,ihmisen epidermaalisen kasvutekijän reseptori 2/valkosolureseptorin statuksen testaus      
+Phrase,p46,stage II breast cancer,vaiheen II rintasyöpä
+Phrase,p47,"Postmenopausal, ER-negative or PR-negative","vaihdevuosien jälkeinen，ER-negatiivinen tai PR-negatiivinen"   
+Phrase,p48,Observation after diagnostic biopsy,havainnointi diagnostisen tutkimuskoepalan jälkeen
+Phrase,p49,Sexuality and Reproductive Issues,seksuaalisuuteen ja lisääntymiseen liittyvät kysymykset
+Phrase,p50,stage I breast cancer,vaiheen I rintasyöpä
+Phrase,p51,"CAF: cyclophosphamide, doxorubicin, 5-fluorouracil","kemoterapiahoito-ohjelma：syklofosfamidi, doksorubisiini, 5-fluorourasiili"  
+Phrase,p52,Posttreatment yp M classification,jälkihoidon yp M-luokitus   
+Phrase,p53,ER or PR status,ER- tai PR-status        
+Phrase,p54,stage IIIB breast cancer,vaiheen IIIB rintasyöpä
+Phrase,p55,stage IIIC breast cancer,vaiheen IIIC rintasyöpä
+Phrase,p56,Lobular Carcinoma In Situ,lohkomainen alkuperäisessä kohteessa oleva syöpäsoluryhmä
+Phrase,p57,Prognostic and Predictive Factors,ennustetekijät
+Phrase,p58,Level of evidence: 1iiA,todistetaso：1iiA   
+Phrase,p59,BRCA1 and BRCA1 mutations,BRCA1- ja BRCA2-mutaatiot 
+Phrase,p60,Recurrent local-regional breast cancer,uusiutuva paikallis-alueellinen rintasyöpä
+Phrase,p61,Breast Cancer (PDQ®): Treatment,rintasyöpä (PDQ®): hoito
+Phrase,p62,stage IIIA breast cancer,vaiheen IIIA rintasyöpä
+Phrase,p63,Adjuvant radiation and chemotherapy,hoidon tehokkuutta parantava säteilytys ja kemoterapia
+Phrase,p64,CA: cyclophosphamide and doxorubicin,syöpä：syklofosfamidi ja doksorubisiini     
+Phrase,p65,Cardiac mortality decreased accordingly,sydänkuolleisuus laskenut vastaavasti
+Phrase,p66,Sweats and Hot Flashes,hikoilut ja kuumat aallot
+Phrase,p67,Both T4a and T4b,sekä T4a että T4b                                                                                   
+Phrase,p68,"Premenopausal, ER-positive or PR-positive","ennen vaihdevuosia，ER-positiivinen tai PR-positiivinen"  
+Phrase,p69,"Stroke RR, 1.06 (0.83–1.36)","aivoinfarkti RR，1.06 (0.83–1.36)"
+Phrase,p70,Chemotherapy and tamoxifen risks,kemoterapian ja tamoksifeenin riskit 
+Phrase,p71,Level of evidence: 1iDii,todistetaso：1iDii    
+Phrase,p72,"Postmenopausal, ER-positive or PR-positive","vaihdevuosien jälkeinen，ER-positiivinen tai PR-positiivinen"    
+Phrase,p73,ductal breast carcinoma in situ,putkimainen alkuperäisessä kohteessa oleva rinnan syöpäsoluryhmä
+Phrase,p74,Results are expected in 2016,tuloksia odotetaan vuonna 2016
+Phrase,p75,General Information About Breast Cancer,yleistieto rintasyövästä
+Phrase,p76,Stage Information for Breast Cancer,vaihetieto rintasyöpään
+Phrase,p77,Cellular Classification of Breast Cancer,rintasyövän soluluokittelu
+Phrase,p78,Adult Soft Tissue Sarcoma Treatment,aikuisen pehmytkudossarkooman hoito
+Phrase,p79,Genetic Characteristics and Risk Factors,perinnölliset ominaisuudet ja riskitekijät
+Phrase,p80,Stage IV and metastatic disease,vaihe IV ja etäpesäkesairaus
+Phrase,p81,"Carcinoma, NOS (not otherwise specified)","​syöpä，NOS (ei ole toisin määritelty)"   
+Phrase,p82,No regional lymph node metastases,ei alueellista imusolmukkeen etäpesäkettä
+Phrase,p83,Cycle Number and Duration (d),syklin määrä ja kesto（d）
+Phrase,p84,Late toxic effects of radiation,säteilytyksen myöhemmät myrkylliset vaikutukset
+Phrase,p85,lobular breast carcinoma in situ,lohkomainen alkuperäisessä kohteessä oleva rinnan syöpäsoluryhmä
+Phrase,p86,Docetaxel plus trastuzumab and pertuzumab,doketakseli sekä trastutsumabi ja pertutsumabi   
+Phrase,p87,"Dose-intensity, dose-density, and high-dose chemotherapy","annosintensiteetti, annostiheys ja suuriannoksinen kemoterapia"
+Phrase,p88,"Ovarian ablation, tamoxifen, and chemotherapy","munasolujen tuotantoon liittyvän elimen kirurginen poisto, tamoksifeeni ja kemoterapia"
+Phrase,p89,The stage of the disease,sairauden vaihe
+Phrase,p90,ER and PR status testing,ER- ja PR-statuksen testaus    
+Phrase,p91,Breast-conserving surgery without radiation therapy,​rintoja säästävä leikkaus ilman sädehoitoa
+Phrase,p92,Added Pertuzumab as a new subsection,lisätty pertutsumabi uutena alakohtana 
+Phrase,p93,Tumors with an extensive intraductal component,​​​kasvaimet pahanlaatuisen rintasyövän osatekijän kanssa
+Phrase,p94,Tumor >50 mm in greatest dimension,kasvain >50 mm suurimmassa ulottuvuudessa
+Phrase,p95,Total mastectomy with or without tamoxifen,kokonaisvaltainen rinnan poisto tamoksifeenin kanssa tai ilman   
+Phrase,p96,Cardiac toxic effects with adjuvant trastuzumab,sydämen myrkylliset vaikutukset hoidon tehokkuutta parantavan trastutsumabin kanssa
+Phrase,p97,No difference in OS was observed,eroa OS:ssä ei ole havaittu                                                        
+Phrase,p98,Shorter hypofractionation schemes achieve comparable results,lyhyempi sädehoidon antamisjärjestelmä saavuttaa vertailukelpoisia tuloksia
+Phrase,p99,Tumor ≤1 mm in greatest dimension,kasvain ≤1 mm suurimmassa ulottuvuudessa
+Phrase,p100,Metastases in ipsilateral infraclavicular lymph node(s),etäpesäkkeet solisluun yläpuolen imusolmukkeissa
+Phrase,p101,Treatment Options for Patients With DCIS,hoitovaihtoehdot DCIS-potilaille  
+Phrase,p102,Metastases in ipsilateral supraclavicular lymph node(s),etäpesäkkeet solisluun yläpuolen imusolmukkeissa
+Phrase,p103,Metastases in 4–9 axillary lymph nodes,etäpesäkkeet 4–9 kainalon imusolmukkeissa
+Phrase,p104,Metastases in 1–3 axillary lymph nodes,etäpesäkkeet 1-3 kainalon imusolmukkeissa
+Phrase,p105,Genetics of Breast and Ovarian Cancer,rinta- ja munasarjasyövän genetiikat
+Phrase,p106,Low Risk (Has All Listed Factors),alhainen riski（on kaikki listatut tekijät）
+Phrase,p107,Timing of Primary and Adjuvant Therapy,ensisijaisen ja liitännäishoidon ajoitus
+Phrase,p108,Metastases in ipsilateral supraclavicular lymph nodes,etäpesäkkeet solisluun yläpuolen imusolmukkeissa
+Phrase,p109,Treatment Options for Patients With LCIS,hoitovaihtoehdot LCIS-potilaille 
+Phrase,p110,Metastases in ≥10 axillary lymph nodes,etäpesäkkeet ≥10 kainalon imusolmukkeissa
+Phrase,p111,Tumor ≤20 mm in greatest dimension,kasvain ≤20 mm suurimmassa ulottuvuudessa
+Phrase,p112,Slightly more than 20% had received chemotherapy,vähän yli 20% oli saanut kemoterapiaa
+Phrase,p113,"Stage IV, Recurrent, and Metastatic Breast Cancer","vaihe IV, uusiutuva ja etäpesäkerintasyöpä"
+Phrase,p114,Final results of this trial are pending,tämän kokeen lopullisia tuloksia odotetaan
+Phrase,p115,No regional lymph node metastasis identified histologically,ei tunnistettu alueellista imusolmukkeen etäpesäkettä mikroskooppitutkimuksessa
+Phrase,p116,Oral Complications of Chemotherapy and Head/Neck Radiation,kemoterapian ja pää/kaulan säteilytyksen suun sivuvaikutukset
+Phrase,p117,"Proliferative capacity of the tumor (e.g., Ki67)","kasvaimen lisääntymiskyky (esim. Ki67)"  
+Phrase,p1,Pylori infection eradication,Pylori-tartunnan hävittäminen
+Phrase,p2,H. pylori infection eradication,H. Pylori-tartunnan hävittäminen
+Phrase,p3,Stomach (Gastric) Cancer (PDQ®): Prevention,vatsasyöpä (vatsalaukku) (PDQ®): ehkäisy
+Phrase,p4,Consistency: Small number of studies,johdonmukaisuus：pieni määrä tutkimuksia 
+Phrase,p1,Okuda Staging System,Okudan vaiheistusjärjestelmä
+Phrase,p2,Treatment option overview--legacy,hoitovaihtoehdon yleiskatsaus--perintö
+Phrase,p3,Treatment by stage--legacy,vaiheittainen hoito--perintö
+Phrase,p4,Alpha-fetoprotein (AFP) levels,sikiön tuottaman proteiinin（alfafetoproteiini）tasot   
+Phrase,p5,adult primary liver cancer,aikuisen ensisijainen maksasyöpä
+Phrase,p6,Liver (Hepatocellular) Cancer Screening,maksasyövän（maksasolun）seulonta
+Phrase,p7,Multiple tumors >5 cm,moninaiset kasvaimet >5 cm
+Phrase,p8,Regional lymph node metastasis,alueellinen imusolmukkeen etäpesäke
+Phrase,p9,Histologic classification is as follows:,mikroskooppitutkimuksen luokittelu on seuraava：
+Phrase,p10,Table 1. Primary Tumor (T),taulu 1. ensisijainen kasvain（T）
+Phrase,p11,Table 4. Anatomic Stage/Prognostic Groups,taulu 4. anatominen vaihe/ennusteryhmät
+Phrase,p12,Hepatoblastoma rarely occurs in adults,maksakasvain esiintyy harvoin aikuisilla
+Phrase,p13,Natural History and Prognostic Factors,luonnonhistoria ja ennustetekijät
+Phrase,p14,Solitary tumor without vascular invasion,yksinäinen kasvain ilman verisuonen tunkeutumista
+Phrase,p15,Adult Primary Liver Cancer (PDQ®): Treatment,aikuisen ensisijainen maksasyöpä (PDQ®): hoito
+Phrase,p16,Table 2. Regional Lymph Nodes (N),taulu 2. alueelliset imusolmukkeet（N）
+Phrase,p17,The etiology of HCC is likely multifactorial,HCC-sairauden syy on todennäköisesti monitekijäinen
+Phrase,p18,Cellular Classification of Adult Primary Liver Cancer,aikuisen ensisijaisen maksasyövän soluluokittelu
+Phrase,p19,Barcelona Clinic Liver Cancer (BCLC) Staging System,Barcelonan klinikan maksasyövän（BCLC）vaiheistusjärjestelmä
+Phrase,p20,General Information About Adult Primary Liver Cancer,yleistieto aikuisen ensisijaisesta maksasyövästä
+Phrase,p21,Stage Information for Adult Primary Liver Cancer,vaihetieto aikuisen ensisijaiselle maksasyövälle
+Phrase,p1,Treatment by stage--legacy,vaiheittainen hoito--perintö
+Phrase,p2,Gastric adenomatous polyps,vatsalaukun rauhasperäiset polyypit
+Phrase,p3,"New cases: 21,600","uudet tapaukset：21,600"
+Phrase,p4,Definitions of TNM,TNM:n määritelmät
+Phrase,p5,Familial adenomatous polyposis,perhekohtainen kasvainpolyyppi
+Phrase,p6,Chronic atrophic gastritis,krooninen atrofinen vatsalaukun sairaus
+Phrase,p7,Helicobacter pylori gastric infection,helikobakteerin aiheuttama vatsalaukun infektio
+Phrase,p8,Stage II Gastric Cancer,vaiheen II vatsalaukun syöpä
+Phrase,p9,Further follow-up is anticipated,lisäseurantaa odotetaan
+Phrase,p10,Stage III Gastric Cancer,vaiheen III vatsalaukun syöpä
+Phrase,p11,stage I gastric cancer,vaiheen I vatsalaukun syöpä
+Phrase,p12,Stage I Gastric Cancer,vaiheen I vatsalaukun syöpä
+Phrase,p13,Table 3. Distant Metastasis,taulu 3. etäinen epäpesäke
+Phrase,p14,Gastrointestinal Stromal Tumors Treatment,ruoansulatuskanavan seinämän solukasvainten hoito
+Phrase,p15,stage 0 gastric cancer,vaiheen 0 vatsalaukun syöpä
+Phrase,p16,Stage 0 Gastric Cancer,vaiheen 0 vatsalaukun syöpä
+Phrase,p17,Tumor invades adjacent structures,kasvain tunkeutuu viereisiin rakenteisiin
+Phrase,p18,Tumor invades muscularis propria,kasvain tunkeutuu lihaskudoskerroksiin
+Phrase,p19,stage III gastric cancer,vaiheen III vatsalaukun syöpä
+Phrase,p20,stage IV gastric cancer,vaiheen IV vatsalaukun syöpä
+Phrase,p21,stage II gastric cancer,vaiheen II vatsalaukun syöpä
+Phrase,p22,Gastric Cancer (PDQ®): Treatment,vatsalaukun syöpä (PDQ®): hoito
+Phrase,p23,Tumor invades serosa (visceral peritoneum),kasvain tunkeutuu vatsaontelon ulkokuoreen（vatsan ulkopinnan kudoskerrokset）
+Phrase,p24,Table 4. Anatomic Stage/Prognostic Groups,taulu 4. anatominen vaihe/ennusteryhmät
+Phrase,p25,General Information About Gastric Cancer,yleistieto vatsalaukun syövästä
+Phrase,p26,Stage Information for Gastric Cancer,vaihetieto vatsalaukun syöpään
+Phrase,p27,Table 1. Primary Tumor (T),taulu 1. ensisijainen kasvain（T）        
+Phrase,p28,Menetrier disease (giant hypertrophic gastritis),vatsan ja ruoansulatuskanavan sairaus（pahanlaatuinen vatsalaukun sairaus）
+Phrase,p29,Cellular Classification of Gastric Cancer,vatsalaukun syövän soluluokittelu
+Phrase,p30,Family history of gastric cancer,vatsalaukun syövän perhehistoria
+Phrase,p31,No evidence of primary tumor,ei todistetta ensisijaisesta kasvaimesta
+Phrase,p32,No regional lymph node metastasis,ei alueellista imusolmukkeen etäpesäkettä
+Phrase,p33,Regional lymph node(s) cannot be assessed,alueellista imusolmuketta ei voida arvioida
+Phrase,p34,Diet low in fruits and vegetables,vähän hedelmiä ja vihanneksia sisältävä ruokavalio
+Phrase,p35,Metastases in ≥16 regional lymph nodes,etäpesäkkeet ≥16 alueellisissa imusolmukkeissa
+Phrase,p36,Stage IV and Recurrent Gastric Cancer,vaihe IV ja uusiutuva vatsalaukun syöpä
+Phrase,p37,Metastases in 7–15 regional lymph nodes,etäpesäkkeet 7-15 alueellisissa imusolmukkeissa
+Phrase,p38,Table 2. Regional Lymph Nodes (N),taulu 2. alueelliset imusolmukkeet（N）              
+Phrase,p39,Ongoing studies are evaluating these newer regimens,meneillään olevat tutkimukset arvioivat näitä uudempia hoito-ohjelmia
+Phrase,p40,Patients were randomized in a 1:1 fashion,potilaat satunnaistettiin suhteessa 1:1
+Phrase,p41,Tumor invades lamina propria or muscularis mucosae,kasvain tunkeutuu limakalvon peittävän kudoskerroksen alle tai limakalvon ohueen lihaskerrokseen
+Phrase,p42,An American series has confirmed these results,amerikkalainen sarja on vahvistanut nämä tulokset
+Phrase,p43,Time-to-treatment progression (TTP) was the primary endpoint,aika hoidon aloittamisesta taudin etenemiseen(TTP)oli ensisijainen päätepiste  
+Phrase,p1,Hepatitis C virus,maksatulehduksen C-virus
+Phrase,p2,Rationale for Screening,seulonnan järkevyys
+Phrase,p3,Dominant Geographical Area,hallitseva maantieteellinen alue
+Phrase,p4,Hepatitis B virus,maksatulehduksen B-virus
+Phrase,p5,Evidence of Harms,todiste haitoista
+Phrase,p6,Likely Etiology of HCC,maksasolusyövän todennäköinen syy                                     
+Phrase,p7,Liver (Hepatocellular) Cancer Screening,maksasyövän（maksasolun）seulonta
+Phrase,p8,Study Design: Randomized controlled trials,tutkimussuunnitelma：satunnaistetut kontrolloidut kokeet
+Phrase,p9,The CI was near 1.0,C1 oli lähellä 1.0
+Phrase,p10,"Incidence, Mortality, and Risk Factors","ilmaantuvuus, kuolleisuus ja riskitekijät"
+Phrase,p11,Intention-to-treat analysis was not used,tulosten analysointimenetelmää satunnaistetussa tutkimuksessa ei ollut käytetty
+Phrase,p12,Liver (Hepatocellular) Cancer (PDQ®): Screening,maksasyöpä（maksasolu）(PDQ®): seulonta
+Phrase,p13,Assessment of outcome was not blinded,tuloksen arviointia ei ollut pimitetty
+Phrase,p14,The results varied in different publications,tulokset vaihtelivat eri julkaisuissa
+Phrase,p15,Efficacy of Screening and Surveillance Programs,seulonta- ja valvontaohjelmien tehokkuus
+Phrase,p16,Generalizability to other populations is uncertain,yleistettävyys muuhun väestöön on epävarmaa
+Phrase,p17,"Consistency: Multiple studies, large number of participants","johdonmukaisuus：moninaiset tutkimukset, suuri osallistujamäärä"
+Phrase,p18,The comparison group was not actively followed,vertailuryhmää ei seurattu aktiivisesti 
+Phrase,p19,"The PPVs were 14% and 73%","positiiviset ennustearvot olivat 14% ja 73%"               
+Phrase,p1,Digital Rectal Examination,digitaalinen peräsuolen tutkimus
+Phrase,p2,Levels of Evidence,todistetasot
+Phrase,p3,Studies in progress,tutkimukset meneillään
+Phrase,p4,Reviewers and Updates,​arvioijat ja päivitykset
+Phrase,p5,Relative Mortality Reduction,suhteellisen kuolleisuuden väheneminen
+Phrase,p6,Randomized controlled studies,satunnaistetut kontrolloidut tutkimukset
+Phrase,p7,Digital Rectal Exam,digitaalinen peräsuolen tutkimus
+Phrase,p8,Evidence of Harms,todiste haitoista
+Phrase,p9,Magnitude of Effects,vaikutusten suuruus
+Phrase,p10,Positivity Rate (%),myönteisyysaste（%）
+Phrase,p11,Fecal Occult Blood Test,ulosteen selittämätön veritesti
+Phrase,p12,Colorectal Cancer (PDQ®): Screening,paksusuolen ja peräsuolen syöpä (PDQ®): seulonta
+Phrase,p13,N/A = not available,N/A = ei käytettävissä oleva
+Phrase,p14,Computed Tomographic (CT) Colonography,tietokonekuvantaminen（CT）paksusuolen röntgenkuvaus
+Phrase,p15,Stool DNA Mutation Tests,ulosteen DNA-mutaatiotestit
+Phrase,p16,Ecologic and descriptive studies,ekologiset ja kuvailevat tutkimukset
+Phrase,p17,Fecal Occult Blood Test (FOBT),ulosteen selittämätön veritesti（FOBT）
+Phrase,p18,Fecal Occult Blood Testing (FOBT),ulosteen selittämätön veritestaus（FOBT）
+Phrase,p19,About 60%–70% for left colon,noin 60%-70% vasemmalle paksusuolelle
+Phrase,p20,"be discussed at a meeting,",​"keskustellaan kokouksessa"
+Phrase,p21,"Case-control studies, RCTs in progress","tapauskontrolloidut tutkimukset, satunnaistetut kontrolloidut tutkimukset meneillään"    
+Phrase,p22,RCT = randomized controlled trial,RCT = satunnaistettu kontrolloitu tutkimus
+Phrase,p23,Evidence about lesion detection rate,todiste vaurioituneen kudoksen havaitsemisasteesta
+Phrase,p24,Evidence about colorectal cancer reduction,todiste paksusuolen ja peräsuolen syövän pienenemisestä
+Phrase,p25,Combination of FOBT and Flexible Sigmoidoscopy,FOBT:n ja joustavan paksusuolen tähystyksen yhdistelmä
+Phrase,p26,Evidence about colorectal cancer mortality reduction,todiste paksusuolen ja peräsuolen syöpäkuolleisuuden vähenemisestä
+Phrase,p27,The primary endpoint was CRC-specific mortality,ensisijainen päätepiste oli CRC-spesifinen kuolleisuus   
+Phrase,p28,Nearly 92% of tests were rehydrated,lähes 92% testeistä oli nesteytetty
+Phrase,p29,Specificity declined from 97.8% to 96%,tarkkuus laski 97.8%:sta 96%:iin
+Phrase,p30,Magnitude of Effects on Surrogate Endpoints,vaikutusten suuruus sijaispäätepisteissä
+Phrase,p31,Attendance in this study was 65%,osallistuminen tähän tutkimukseen oli 65%
+Phrase,p32,Newer FOBTs: Nonrandomized Controlled Trial Evidence,uudemmat ulosteen veritestit：ei-satunnaistettu kontrolloitu koetodiste 
+Phrase,p33,Virtual Colonoscopy (Computed Tomographic [CT] Colonography),virtuaalinen paksusuolen tähystys（tietokonekuvantaminen [CT] paksusuolen röntgenkuvaus）
+Phrase,p34,Results were summarized in two systematic reviews,tulokset oli koottu kahteen systemaattiseen katsaukseen
+Phrase,p35,Extracolonic abnormalities are common in CT colonography,paksusuolen ylimääräiset ​poikkeavuudet ovat yleisiä paksusuolen CT-kuvantamisessa
+Phrase,p36,iFOBT detects >60% and ≤90% of CRCs,iFOBT havaitsee >60% ja ≤90% selittämättömistä kontrolloiduista tutkimuksista
+Phrase,p37,There was no effect on all-cause mortality,ei ollut vaikutusta kaiken aiheuttavaan kuolleisuuteen 
+Phrase,p38,Detection of DNA Mutations in the Stool,DNA-mutaatioiden havaitseminen ulosteessa
+Phrase,p39,Follow-up ranged from 6 to 13 years,seuranta vaihteli 6 vuodesta 13 vuoteen
+Phrase,p40,Specificity was 86% and PPV was 23%,tarkkuus oli 86% ja PPV  oli 23%                    
+Phrase,p1,External Validity: Poor,ulkoinen oikeellisuus：heikko
+Phrase,p2,Barium-meal gastric photofluorography,ohutsuolen röntgenkuvantaminen 
+Phrase,p3,Internal Validity : Fair,sisäinen oikeellisuus：reilu
+Phrase,p4,External Validity : Poor,ulkoinen oikeellisuus：heikko
+Phrase,p5,Stomach (Gastric) Cancer Screening,vatsasyövän (vatsalaukun) seulonta
+Phrase,p6,Consistency : Inadequate evidence,johdonmukaisuus：riittämätön todiste
+Phrase,p7,Stomach (Gastric) Cancer (PDQ®): Screening,vatsasyöpä (vatsalaukku) (PDQ®): seulonta
+Phrase,p8,Evidence of Harm Associated With Screening,todiste seulontaan liittyvästä haitasta
+Phrase,p9,Clinical considerations for high risk groups,kliiniset harkinnat korkean riskin ryhmille
+Phrase,p10,Consistency : Poor in prospective studies,johdonmukaisuus：heikko tulevaisuuden tutkimuksissa
+Phrase,p1,False positive exams,väärin myönteiset kokeet
+Phrase,p2,Lung Cancer Screening,keuhkosyövän seulonta
+Phrase,p3,Lung Cancer (PDQ®): Screening,keuhkosyöpä (PDQ®): seulonta​
+Phrase,p4,Description of the Evidence,todisteen kuvaus
+Phrase,p5,Study Design : Randomized controlled trials,tutkimussuunnitelma：satunnaistetut kontrolloidut kokeet
+Phrase,p6,Evidence of Benefit Associated With Screening,todiste seulontaan liittyvästä hyödystä
+Phrase,p7,Two included sputum cytology as well,kaksi sisälsi ysköksen yksittäisen solutyypin tutkimuksen yhtä hyvin
+Phrase,p8,Screening by low-dose helical computed tomography,seulonta pienellä annoksella kierteistä tietokonekuvantamista
+Phrase,p9,Evidence of No Benefit Associated With Screening,todiste seulontaan liittymättömästä hyödystä
+Phrase,p10,Evidence of no benefit associated with screening,todiste seulontaan liittymättömästä hyödystä
+Phrase,p11,Screening by chest x-ray and/or sputum cytology,seulonta rintakehän röntgenkuvauksella ja/tai ysköksen yksittäisen solutyypin tutkimuksella
+Phrase,p1,Mammography and CAD,mammografia ja sepelvaltimotauti 
+Phrase,p2,Magnetic Resonance Imaging,​magneettisesti värähtelevä kuvantaminen
+Phrase,p3,Compliance: 89% participation,suostuvaisuus：osallistuminen 89%
+Phrase,p4,Control: Usual care,kontrolli：tavallinen hoito
+Phrase,p5,External audit: None,ulkoinen arviointi：ei mitään
+Phrase,p6,Screening With Mammography,seulonta mammografialla
+Phrase,p7,Compliance: 61% screened,suostuvaisuus：61% seulottu
+Phrase,p8,Compliance: 89% screened,suostuvaisuus：89% seulottu
+Phrase,p9,Randomized controlled trials,satunnaistetut kontrolloidut kokeet
+Phrase,p10,Compliance: 82% screened,suostuvaisuus：82% seulottu
+Phrase,p11,Consistency : Fair,johdonmukaisuus: reilu
+Phrase,p12,Summary of RCTs,satunnaistettujen kontrolloitujen tutkimusten yhteenveto
+Phrase,p13,Dense breast tissue,tiheä rintakudos
+Phrase,p14,External audit: No,ulkoinen arviointi：ei
+Phrase,p15,Prior radiation therapy,aikaisempi sädehoito
+Phrase,p16,Clinical Breast Examination,​kliininen rinnan tutkimus
+Phrase,p17,Benefit of Mammography,mammografian hyöty
+Phrase,p18,BCSC Web site,BCSC:n verkkosivusto                                
+Phrase,p19,Control: Annual CBE,kontrolli：vuosittainen CBE 
+Phrase,p20,Exclusions: Inconsistently reported,poikkeukset：epäjohdonmukaisesti raportoitu
+Phrase,p21,External audit: Yes,ulkoinen arviointi：kyllä
+Phrase,p22,Mammography—Variables Associated with Accuracy,mammografian tarkkuusmuuttujat
+Phrase,p23,Follow-up duration: 12 years,seurannan kesto：12 vuotta
+Phrase,p24,External Validity : Poor,ulkoinen oikeellisuus：heikko
+Phrase,p25,Follow-up duration: 8 years,seurannan kesto：8 vuotta
+Phrase,p26,Breast Cancer Screening Modalities—Mammography,rintasyövän seulontamenetelmät—mammografia
+Phrase,p27,Consistency of reports: Good,raporttien johdonmukaisuus: hyvä
+Phrase,p28,Ductal Carcinoma In Situ,alkuperäisessä kohteessa olevan rintasyövän syöpäsoluryhmä
+Phrase,p29,Consistency of reports: Variable,raporttien johdonmukaisuus：muuttuja
+Phrase,p30,Current Age (in Years),nykyinen ikä（vuosina）
+Phrase,p31,Follow-up duration: 18 years,seurannan kesto：18 vuotta
+Phrase,p32,Evaluation of Breast Symptoms,​rinnan oireiden arviointi
+Phrase,p33,Breast Cancer (PDQ®): Screening,rintasyöpä (PDQ®): seulonta​
+Phrase,p34,Breast Cancer Surveillance Consortium,rintasyövän seurantaryhmittymä
+Phrase,p35,Specificity and false-positive rate,tarkkuus ja väärän positiivisuuden määrä
+Phrase,p36,Description of the Evidence,todisteen kuvaus
+Phrase,p37,Breast Cancer Screening Concepts,rintasyövän seulontakonseptit
+Phrase,p38,Internal Validity : Good,sisäinen oikeellisuus：hyvä
+Phrase,p39,Follow-up duration: 10 years,seurannan kesto：10 vuotta
+Phrase,p40,Mammography Description and Background,mammografian kuvaus ja tausta
+Phrase,p41,Follow-up duration: 13 years,seurannan kesto：13 vuotta
+Phrase,p42,Harms of Screening Mammography,mammografiaseulonnan haitat
+Phrase,p43,Follow-up duration: 10.7 years,seurannan kesto：10.7 vuotta
+Phrase,p44,Personal history of breast cancer,rintasyövän henkilökohtainen historia
+Phrase,p45,Comments: Randomization process was flawed,kommentit：satunnaistamisprosessi oli virheellinen
+Phrase,p46,Breast cancer incidence and mortality,rintasyövän ilmaantuvuus ja kuolleisuus
+Phrase,p47,Seventeen studies met inclusion criteria,seitsemäntoista tutkimusta täytti osallistumiskriteerin
+Phrase,p48,Appendix of Randomized Controlled Trials,satunnaistettujen kontrolloitujen kokeiden liite 
+Phrase,p49,"Exclusions: Few, balanced between groups","poikkeukset：harvat，tasapainoinen ryhmien välillä"
+Phrase,p50,Effectiveness of Population-Based Screening Programs,väestöpohjaisten seulontaohjelmien tehokkuus
+Phrase,p51,Randomization: Individual volunteer (see NBSS-1),satunnaistaminen：yksittäinen vapaaehtoinen（ks. NBSS-1） 
+Phrase,p52,Breast Cancer Screening Modalities—Beyond Mammography,rintasyövän seulontamenetelmät—mammografian lisäksi
+Phrase,p53,Follow-up duration: 12 to14 years,seurannan kesto：12-14 vuotta
+Phrase,p54,Women with limited life expectancy,naiset rajallisen elinajanodotteen kanssa
+Phrase,p55,Study design : Descriptive population-based,tutkimussuunnitelma：kuvaava väestöpohjainen
+Phrase,p56,Adapted from Altekruse et al.,muokattu Altekruse et al.:lta
+Phrase,p57,Breast Cancer Diagnosis and Pathology,rintasyövän diagnoosi ja tautioppi
+Phrase,p58,Assessment of Performance and Accuracy,suorituskyvyn ja tarkkuuden arviointi
+Phrase,p59,Risk Factors for Breast Cancer,​riskitekijät rintasyövälle
+Phrase,p60,Risk in Next 10 Years,riski seuraavien 10 vuoden aikana
+Phrase,p61,Study Design : Two RCTs,​tutkimussuunnitelma: kaksi satunnaistettua kontrolloitua tutkimusta
+Phrase,p62,Pathologic Diagnosis of Breast Cancer,​rintasyövän tautiopillinen diagnoosi
+Phrase,p63,Breast Cancer Treatment and Pregnancy,rintasyövän hoito ja raskaus
+Phrase,p64,Randomization: Cluster by birth date,satunnaistaminen：klusteri syntymäajan mukaan
+Phrase,p65,Control: MMG at year 5,kontrolli：mekanomyografia 5 vuoden iässä  
+Phrase,p66,Consistency of reports: Not applicable,raporttien johdonmukaisuus：ei sovellettavissa oleva
+Phrase,p67,Medullary carcinomas may be similarly missed,kilpirauhasssyövät voidaan samalla tavalla jättää huomiotta 
+Phrase,p68,Magnitude of Effect : No effect,vaikutuksen suuruus：ei vaikutusta
+Phrase,p69,Consistency and External Validity: Poor,​johdonmukaisuus ja ulkoinen oikeellisuus：heikko
+Phrase,p70,"Single-read first three rounds, then double-read","ensimmäiset kolme kierrosta kertalukemalla, sitten kaksoislukemalla"
+Phrase,p71,Women who have received thoracic radiation,rintakehän säteilytystä saaneet naiset
+Phrase,p72,False-Positives Leading to Possible Additional Interventions,​väärin positiiviset johtavat mahdollisiin lisäväliintuloihin
+Phrase,p73,Other research on BSE is limited,muut BSE-tutkimukset ovat rajallisia  
+Phrase,p74,Internal Validity and Consistency: Fair,sisäinen oikeellisuus ja johdonmukaisuus：reilu
+Phrase,p75,Contamination: 26.4% in usual care group,saastuminen：26.4% tavallisessa hoitoryhmässä
+Phrase,p76,Such results have not been observed,tällaisia tuloksia ei ole havaittu
+Phrase,p77,Intervention: Annual two-view MMG and CBE,interventio: vuosittainen kaksikerroksinen MMG ja CBE 
+Phrase,p78,Several CAD systems are in use,useita CAD-järjestelmiä on käytössä 
+Phrase,p79,Positioning of the woman is important,naisen asento on tärkeä
+Phrase,p80,Analysis: Both evaluation and follow-up methods,analyysi：sekä arviointi- että seurantamenetelmät
+Phrase,p81,Age at entry: 45 to 64 years,ikä tulohetkellä：45-64 vuotta
+Phrase,p82,Contamination: 16.9% of the CBE only group,saastuminen：vain 16.9% CBE-ryhmästä                                    
+Phrase,p83,The Swedish meta-analysis resolved these questions appropriately,ruotsalainen meta-analyysi ratkaisi nämä kysymykset asianmukaisesti
+Phrase,p84,Breast Cancer Surveillance Consortium (BCSC) Web site,rintasyövän seurantaryhmittymän（BSCS）verkkosivusto 
+Phrase,p85,Age at entry: 39 to 59 years,ikä tulohetkellä：39-59 vuotta
+Phrase,p86,Lifetime Risk of a Breast Cancer Diagnosis,rintasyöpädiagnoosin elinikäinen riski
+Phrase,p87,Age at entry: 50 to 59 years,ikä tulohetkellä：50-59 vuotta
+Phrase,p88,Age at entry: 45 to 69 years,ikä tulohetkellä：45-69 vuotta
+Phrase,p89,Age at entry: 40 to 64 years,ikä tulohetkellä：40-64 vuotta
+Phrase,p90,"Sample size: 23,226 study and 21,904 control","näytekoko：23,226 tutkimusta ja 21,904 kontrollia"
+Phrase,p91,Age at entry: 39 to 41 years,ikä tulohetkellä：39-41 vuotta
+Phrase,p92,"Sample size: 21,088 study and 21,195 control","näytekoko：21,088 tutkimusta ja 21,195 kontrollia"
+Phrase,p93,"Study Design : Two RCTs, cohort studies",​​"tutkimussuunnitelma：kaksi satunnaistettua kontrolloitua tutkimusta"
+Phrase,p94,Linked to Swedish Cause of Death Registry,linkitetty ruotsalaiseen kuolinsyyrekisteriin
+Phrase,p95,Characteristics of Cancers Detected by Screening Mammography,seulontamammografialla havaittujen syöpien ominaisuudet
+Phrase,p96,Other risk factors and risk prediction models,muut riskitekijät ja riskien ennustemallit
+Phrase,p97,Age at entry: 40 to 74 years,ikä tulohetkellä：40-74 vuotta
+Phrase,p98,DCIS is most often diagnosed by mammography,DCIS on useimmiten diagnostisoitu mammografialla                     
+Phrase,p99,"Mammography screening rates, however, were generally low","mammografiaseulonnan luvut olivat kuitenkin yleensä alhaiset"
+Phrase,p100,Treatment of these cancers would constitute overtreatment,näiden syöpien hoito olisi ylihoitoa
+Phrase,p101,Table 1. Risk of Breast Cancer Diagnosis,taulu 1. rintasyöpädiagnoosin riski
+Phrase,p102,One Sv is equivalent to 200 mammograms,yksi Sv vastaa 200 mammografiaa
+Phrase,p103,Age at entry: 40 to 49 years,ikä tulohetkellä：40-49 vuotta
+Phrase,p104,Cause of death attribution: Cancer Registry Data,kuolinsyy：syöpärekisterin tiedot
+Phrase,p105,Individuals With Little to Gain from Screening,vähän hyötyä seulonnasta saavat yksilöt
+Phrase,p1,Gastroesophageal reflux/Barrett esophagus,ruokatorven refluksi/ruokatorven solurakenteen muutos
+Phrase,p2,Esophageal Cancer Screening,ruokatorven syövän seulonta
+Phrase,p3,Esophageal Cancer Prevention,ruokatorven syövän ehkäisy
+Phrase,p4,Squamous Cell Carcinoma,levyepiteelisyöpä
+Phrase,p5,Esophageal Cancer (PDQ®): Prevention,ruokatorven syöpä (PDQ®): ehkäisy
+Phrase,p6,Internal Validity : Fair,sisäinen oikeellisuus：reilu
+Phrase,p7,Consistency : Large study,johdonmukaisuus：suuri tutkimus
+Phrase,p8,Consistency : Multiple studies,johdonmukaisuus：moninaiset tutkimukset
+Phrase,p9,Consistency : Single study,johdonmukaisuus：yksittäinen tutkimus
+Phrase,p10,Aspirin and nonsteroidal anti-inflammatory drugs,aspiriini ja ei-steroidiset tulehduslääkkeet
+Phrase,p11,"Tobacco, Alcohol, and Dietary Factors","tupakka,alkoholi ja ruokavaliotekijät"
+Phrase,p12,Avoidance of tobacco and alcohol,tupakan ja alkoholin välttäminen
+Phrase,p13,Consistency : Good; multiple studies,johdonmukaisuus：hyvä; moninaiset tutkimukset
+Phrase,p14,Radiofrequency Ablation in Dysplastic Barrett Esophagus,kasvaimen kokoa minimaalisesti pienentävä poistaminen epänormaalissa Barrettin ruokatorven limakalvon vauriossa 
+Phrase,p15,Aspirin and nonsteroidal anti-inflammatory drug use,aspiriinin ja ei-steroidisen tulehduslääkkeen käyttö 
+Phrase,p16,The risk declines with smoking cessation,riski pienenee tupakoinnin lopettamisen kanssa
+Phrase,p17,Ablation of Barrett Esophagus With Dysplasia,Barrettin ruokatorven limakalvon poistaminen dysplasian kanssa 
+Phrase,p18,Helicobacter pylori infection and gastric atrophy,helikobakteeri-infektio ja vatsalaukun atrofia
+Phrase,p19,The epidemiology of these types varies markedly,näiden tyyppien epidemiologia vaihtelee huomattavasti
+Phrase,p20,Study Design : Ecologic and descriptive studies,tutkimussuunnitelma：ekologiset ja kuvailevat tutkimukset
+Phrase,p1,Recurrent Esophageal Cancer,uusiutuva ruokatorven syöpä
+Phrase,p2,"New cases: 17,990","uudet tapaukset：17,990"
+Phrase,p3,Tumor invades adventitia,kasvain tunkeutuu vatsalaukun ulompaan kerrokseen
+Phrase,p4,Preoperative Chemotherapy Alone,leikkausta edeltävä kemoterapia yksin
+Phrase,p5,Metaplastic columnar epithelium,solujen korvautuminen epiteelisoluilla
+Phrase,p6,recurrent esophageal cancer,uusiutuva ruokatorven syöpä
+Phrase,p7,Preoperative Chemoradiation Therapy,leikkausta edeltävä kemosäteilytyshoito
+Phrase,p8,Tumor invades submucosa,kasvain tunkeutuu limakalvon alla olevaan tukikudokseen
+Phrase,p9,Esophageal Cancer Treatment,ruokatorven syövän hoito
+Phrase,p10,stage II esophageal cancer,vaiheen II ruokatorven syöpä
+Phrase,p11,stage IV esophageal cancer,vaiheen IV ruokatorven syöpä
+Phrase,p12,Tumor invades adjacent structures,kasvain tunkeutuu viereisiin rakenteisiin
+Phrase,p13,stage I esophageal cancer,vaiheen I ruokatorven syöpä
+Phrase,p14,Esophageal Cancer (PDQ®): Treatment,ruokatorven syöpä (PDQ®): hoito​
+Phrase,p15,Nutrition in Cancer Care,ravitsemus syöpähoidossa
+Phrase,p16,Stage III Esophageal Cancer,vaiheen III ruokatorven syöpä
+Phrase,p17,Stage II Esophageal Cancer,vaiheen II ruokatorven syöpä
+Phrase,p18,Stage I Esophageal Cancer,vaiheen I ruokatorven syöpä
+Phrase,p19,Stage IV Esophageal Cancer,vaiheen IV ruokatorven syöpä
+Phrase,p20,Tumor invades muscularis propria,kasvain tunkeutuu lihaskudoskerroksiin
+Phrase,p21,Chemoradiation with subsequent surgery,kemosäteilytys sitä seuraavan leikkauksen kanssa
+Phrase,p22,Stage 0 Esophageal Cancer,vaiheen 0 ruokatorven syöpä
+Phrase,p23,HGD = high-grade dysplasia,HGD = korkea-asteinen dysplasia
+Phrase,p24,stage III esophageal cancer,vaiheen III ruokatorven syöpä
+Phrase,p25,stage 0 esophageal cancer,vaiheen 0 ruokatorven syöpä
+Phrase,p26,Table 4. Anatomic Stage/Prognostic Groups,taulu 4. anatominen vaihe/ennusteryhmät
+Phrase,p27,Table 3. Distant Metastasis (M),taulu 3. etäinen etäpesäke（M）        
+Phrase,p28,OS was the primary outcome,OS oli ensisijainen tulos
+Phrase,p29,Stage Information for Esophageal Cancer,vaihetieto ruokatorven syöpään
+Phrase,p30,Cellular Classification of Esophageal Cancer,ruokatorven syövän soluluokittelu
+Phrase,p31,General Information About Esophageal Cancer,yleistieto ​ruokatorven syövästä
+Phrase,p32,Table 1. Primary Tumor (T),taulu 1. ensisijainen kasvain（T）                  
+Phrase,p33,The optimal surgical procedure is controversial,optimaalinen kirurginen toimenpide on kiistanalainen
+Phrase,p34,Table 2. Regional Lymph Nodes (N),taulu 2. alueelliset imusolmukkeet（N）      
+Phrase,p35,Nd:YAG endoluminal tumor destruction or electrocoagulation,Nd:YAG solukalvokasvaimen tuhoutuminen tai sähkökoagulaatio    
+Phrase,p36,Endoscopic-placed stents to provide palliation of dysphagia,endoskoopilla asennettu putki tuottaa nielemisvaikeuden lieventymisen
+Phrase,p37,Clinical trials evaluating single-agent or combination chemotherapy,kliiniset kokeet arvioivat yhtä ainetta tai yhdistelmäkemoterapiaa
+Phrase,p38,Metaplastic intestinal epithelium with typical goblet cells,suoliston epiteelisolujen korvautuminen tyypillisillä ohutsuolen soluilla
+Phrase,p39,Many agents are active in esophageal cancer,monet aineet vaikuttavat ruokatorven syöpään
+Phrase,p40,"Resectable tumor invading pleura, pericardium, or diaphragm","leikkauksella poistettavissa oleva kasvain tunkeutuu keuhkoputkeen, sydänpussiin tai palleaan"
+Phrase,p41,Intraluminal brachytherapy to provide palliation of dysphagia,ruokatorven sisäinen sädehoito nielemisvaikeuden lievittämiseksi
+Phrase,p42,Tumor invades lamina propria or muscularis mucosae,kasvain tunkeutuu limakalvon peittävän kudoskerroksen alle tai limakalvon ohueen lihaskerrokseen
+Phrase,p1,PRETEXT stage 4,esihoidon laajuus vaihe 4
+Phrase,p2,PRETEXT stage 2,esihoidon laajuus vaihe 2
+Phrase,p3,PRETEXT stage 3,esihoidon laajuus vaihe 3
+Phrase,p4,Tumor marker–related factors,kasvaimen merkkiaineeseen liittyvät tekijät
+Phrase,p5,Childhood Rhabdomyosarcoma Treatment,lapsuuden pehmytkudossyövän hoito
+Phrase,p6,Recurrent Hepatocellular Carcinoma,uusiutuva maksasolusyöpä
+Phrase,p7,childhood liver cancer,lapsuuden maksasyöpä
+Phrase,p8,Other Treatment Approaches,muut hoidon lähestymistavat
+Phrase,p9,Biliary Tract Rhabdomyosarcoma,sappitien pehmytkudossyöpä
+Phrase,p10,Orthotopic liver transplantation,ortotooppinen maksansiirto
+Phrase,p11,PRETEXT stage 1,esihoidon laajuus vaihe 1
+Phrase,p12,Age at Diagnosis,ikä diagnoosissa
+Phrase,p13,Familial adenomatous polyposis,perinnöllinen suolistokanavan sairaus
+Phrase,p14,Treatment of Hepatoblastoma,maksakasvaimen hoito
+Phrase,p15,childhood hepatocellular carcinoma,lapsuuden maksasolusyöpä
+Phrase,p16,Surgery and chemotherapy,leikkaus ja kemoterapia
+Phrase,p17,Median age 3.4 y,mediaani-ikä：3.4 vuotta
+Phrase,p18,Beckwith-Wiedemann syndrome and hemihyperplasia,Beckwith-Wiedemannin oireyhtymä ja kehon toisen puoliskon epänormaali kasvu
+Phrase,p19,Stage IV (distant metastases),vaihe IV（etäiset etäpesäkkeet）
+Phrase,p20,"Trisomy 18, other trisomies","trisomia 18, muut trisomiat"
+Phrase,p21,Transitional liver cell tumor,siirtymävaiheen maksasolukasvain
+Phrase,p22,Intratumoral injection of alcohol,alkoholiruiske kasvaimeen
+Phrase,p23,Pure fetal histology hepatoblastoma,pelkän sikiön maksakasvaimen mikroskooppitutkimus 
+Phrase,p24,Median age 10.5 y,mediaani-ikä 10.5 vuotta
+Phrase,p25,recurrent childhood liver cancer,uusiutuva lapsuuden maksasyöpä
+Phrase,p26,Chemotherapy and metastatic disease,kemoterapia ja etäpesäkesairaus
+Phrase,p27,Hepatitis B and C,maksatulehdus B ja C
+Phrase,p28,Glycogen storage diseases I–IV,glykoosin varastointisairaudet I-IV
+Phrase,p29,Small cell undifferentiated hepatoblastoma,pienisoluinen erilaistumaton maksakasvain
+Phrase,p30,Hepatoblastoma and Hepatocellular Carcinoma,maksakasvain ja maksasolusyöpä
+Phrase,p31,Treatment of Hepatocellular Carcinoma,maksasolusyövän hoito
+Phrase,p32,Stages I and II,vaiheet I ja II
+Phrase,p33,Progressive familial intrahepatic cholestasis,kehittyvä perinnöllinen sapen virtauksen estyminen  
+Phrase,p34,25% for patients with metastasis,25% etäpesäkepotilaille
+Phrase,p35,Adapted from Nicol et al,muokattu Nicol et al.:lta
+Phrase,p36,68% for PRETEXT stage 3,68% esihoidon laajuuteen vaiheessa 3
+Phrase,p37,Treatment Options for Stage IV,hoitovaihtoehdot vaiheelle IV
+Phrase,p38,57% for PRETEXT stage 4,57% esihoidon laajuuteen vaiheessa 4
+Phrase,p39,Treatment options by cell type,hoitovaihtoehdot solutyypin mukaan
+Phrase,p40,22% for PRETEXT stage 3,22% esihoidon laajuuteen vaiheessa 3
+Phrase,p41,Surgical resection for metastatic disease,kirurginen poistoleikkaus etäpesäkesairaudelle
+Phrase,p42,61% for PRETEXT stage 4,61% esihoidon laajuuteen vaiheessa 4
+Phrase,p43,Microscopic residual disease after resection,mikroskooppisen vähäinen sairaus poistoleikkauksen jälkeen
+Phrase,p44,The chemotherapy was well tolerated,kemoterapia oli hyvin siedetty
+Phrase,p45,Limited Role for Radiation Therapy,rajoitettu rooli sädehoidossa
+Phrase,p46,Treatment Options for Stage III,hoitovaihtoehdot vaiheelle III
+Phrase,p47,Childhood Liver Cancer (PDQ®): Treatment,lapsuuden maksasyöpä (PDQ®): hoito
+Phrase,p48,There are positive lymph nodes,siellä on positiivisia imusolmukkeita
+Phrase,p49,91% for PRETEXT stage 2,91% esihoidon laajuuteen vaiheessa 2
+Phrase,p50,Infantile Choriocarcinoma of the Liver,maksan kehittymätön syöpä
+Phrase,p51,Size of the primary tumor,ensisijaisen kasvaimen koko
+Phrase,p52,44% for PRETEXT stage 1,44% esihoidon laajuuteen vaiheessa 1
+Phrase,p53,Hepatoblastoma prognosis by postsurgical stage,maksakasvaimen ennuste leikkauksen jälkeisessä vaiheessa
+Phrase,p54,8% for PRETEXT stage 4,8% esihoidon laajuuteen vaiheessa 4
+Phrase,p55,Presence of multifocal hepatic disease,multifokaalisen maksasairauden läsnäolo
+Phrase,p56,95% for PRETEXT stage 2,95% esihoidon laajuuteen vaiheessa 2
+Phrase,p57,84% for PRETEXT stage 3,84% esihoidon laajuuteen vaiheessa 3
+Phrase,p58,44% for PRETEXT stage 2,44% esihoidon laajuuteen vaiheessa 2
+Phrase,p59,Special considerations for surgical resection,erityiset harkinnat kirurgiseen poistoleikkaukseen
+Phrase,p60,100% for PRETEXT stage 1,100% esihoidon laajuuteen vaiheessa 1
+Phrase,p61,Postsurgical Staging for Childhood Liver Cancer,leikkauksen jälkeinen vaiheistus lapsuuden maksasyöpään
+Phrase,p62,P—Main portal or portal bifurcation vein,P-pääportti tai päälaskimoportti
+Phrase,p63,High risk Any patient with metastases,kuka tahansa korkean riskin potilas etäpesäkkeillä
+Phrase,p64,Treatment of Recurrent Childhood Liver Cancer,uusiutuvan lapsuuden maksasyövän hoito
+Phrase,p65,Any stage may have involvement of:,mikä tahansa vaihe voi olla mukana：
+Phrase,p66,Hepatitis B and hepatitis C infection,maksatulehduksen B- ja maksatulehduksen C-tartunta
+Phrase,p67,Cytotrophoblasts and syncytiotrophoblasts are both present,istukan ohut solukerros ja istukan ulkokerros ovat molemmat läsnä
+Phrase,p68,Undifferentiated Embryonal Sarcoma of the Liver,maksan erilaistumaton alkiosarkooma
+Phrase,p69,"Of these 11 patients, 9 survived","näistä 11 potilaasta 9 selvisi"
+Phrase,p70,Late Effects of Treatment for Childhood Cancer,hoidon myöhäiset vaikutukset lapsuuden syöpään
+Phrase,p71,Survival was 100% with no chemotherapy given,eloonjääminen oli 100% ilman kemoterapiaa
+Phrase,p72,Chemotherapy followed by reassessment of surgical resectability,kemoterapiaa seuraava kirurgisen leikkauksen uudelleenarviointi
+Phrase,p73,Stages III and IV are usually fatal,vaiheet III ja IV ovat yleensä kohtalokkaita
+Phrase,p74,Presurgical Staging for Hepatoblastoma and Hepatocellular Carcinoma,maksakasvaimen ja maksasolusyövän leikkausta edeltävä vaiheistus
+Phrase,p75,Treatment Options for Postsurgically Staged Stage IV,hoitovaihtoehdot leikkauksen jälkeiselle vaiheelle IV
+Phrase,p76,Treatment of Infantile Choriocarcinoma of the Liver,istukasta sikiöön leviävän maksasyövän hoito
+Phrase,p77,V—Vena cava or all three hepatic veins,suuri laskimo tai kaikki kolme maksalaskimoa
+Phrase,p78,Several studies have tested different chemotherapy regimens,useat tutkimukset ovat testanneet erilaisia kemoterapian hoito-ohjelmia
+Phrase,p79,Treatment Options for Stages I and II,hoitovaihtoehdot vaiheille I ja II
+Phrase,p80,Delayed surgical resection (chemotherapy followed by surgery),viivästynyt kirurginen poistoleikkaus（leikkauksen jälkeinen kemoterapia）
+Phrase,p81,Frequently; jaundice is a common presenting symptom,usein; keltaisuus on yleisesti esiintyvä oire
+Phrase,p1,Diet and vitamins,ruokavalio ja vitamiinit
+Phrase,p2,Description of Evidence,todisteen kuvaus
+Phrase,p3,Prophylactic mastectomy: Harms,ennaltaehkäisevä rinnan poisto：haitat
+Phrase,p4,Prophylactic mastectomy: Benefits,ennaltaehkäisevä rinnan poisto：hyödyt
+Phrase,p5,Major inheritance susceptibility,suuri perinnöllisyysalttius
+Phrase,p6,Invasive breast cancer,leviävä rintasyöpä
+Phrase,p7,Noninvasive breast cancer,leviämätön rintasyöpä
+Phrase,p8,Bladder control symptoms,virtsarakon hallinnan oireet
+Phrase,p9,Ionizing radiation exposure,altistuminen ionisoivalle säteilylle
+Phrase,p10,Combination hormone therapy,yhdistelmähormonihoito
+Phrase,p11,Study Design: RCTs,tutkimussuunnitelma：satunnaistetut kontrolloidut tutkimukset 
+Phrase,p12,Aromatase inhibition or inactivation,aaromataasi-entsyymin estäjä tai inaktivaatio
+Phrase,p13,Breast Cancer (PDQ®): Prevention,rintasyöpä (PDQ®): ehkäisy
+Phrase,p14,Study Design: One RCT,tutkimussuunnitelma：yksi satunnaistettu kontrolloitu tutkimus
+Phrase,p15,Study Design: Observational study,tutkimussuunnitelma：havainnointitutkimus
+Phrase,p16,Study Design: Convenience sample,tutkimussuunnitelma：sopivuusnäyte
+Phrase,p17,Selective estrogen receptor modulators (SERMs),valikoivat estrogeenireseptorin modulaattorit (valikoivat naishormoonin tuotantoa aktivoivat reseptoriaineet)
+Phrase,p18,Aromatase inhibitors or inactivators: Benefits,aromataasi-entsyymin estäjät tai ei-aktivoijat：hyödyt
+Phrase,p19,Breast Cancer Treatment and Pregnancy,rintasyövän hoito ja raskaus
+Phrase,p20,Active and passive cigarette smoking,aktiivinen ja passiivinen tupakanpoltto
+Phrase,p21,Incidence of Symptoms (0–4 scale),oireiden ilmaantuvuus（asteikko 0-4）
+Phrase,p22,Aromatase inhibitors or inactivators: Harms,aromataasi-entsyymin estäjät tai ei-aktivoijat：haitat
+Phrase,p23,"Incidence of Outcomes Per 1,000 Women","tulosten ilmaantuvuus 1,000 naista kohti"
+Phrase,p24,Study Design: Cohort and case-control studies,tutkimussuunnitelma：kohortti- ja tapauskontrolloidut tutkimukset
+Phrase,p25,Genetics of Breast and Ovarian Cancer,rinta- ja munasarjasyövän genetiikat
+Phrase,p26,Selective estrogen receptor modulators (SERMs): Benefits,valikoivat estrogeenireseptorin modulaattorit (valikoivat naishormoonin tuotantoa aktivoivat reseptoriaineet): edut   
+Phrase,p27,Study Design: Case-control and cohort studies,tutkimussuunnitelma：tapauskontrolloidut ja kohorttitutkimukset
+Phrase,p28,Selective estrogen receptor modulators (SERMs): Harms,valikoivat estrogeenireseptorin modulaattorit (valikoivat naishormoonin tuotantoa aktivoivat reseptoriaineet): haitat    
+Phrase,p29,ER–positive tumors were reduced by 48%,ER-positiiviset kasvaimet vähenivät 48%
+Phrase,p30,Study Design: RCT and cohort studies,tutkimussuunnitelma：satunnaistettu kontrolloitu tutkimus ja kohorttitutkimukset                        
+Phrase,p31,Factors of Unproven or Disproven Association,todistamattomat ja kiistämättömät yhteen liittävät tekijät
+Phrase,p32,Prophylactic oophorectomy or ovarian ablation: Harms,munasarjojen poistoleikkaus tai munasarjojen naishormoonin tuotantoa vähentävä hoito：haitat
+Phrase,p33,Etiology and pathogenesis of breast cancer,rintasyövän etiologia ja patogeneesi
+Phrase,p34,Prophylactic oophorectomy or ovarian ablation: Benefits,munasarjojen poistoleikkaus tai munasarjojen naishormoonin tuotantoa vähentävä hoito：hyödyt
+Phrase,p35,"A total of 8,171 women were enrolled","ilmoittautuneita oli yhteensä 8,171 naista"
+Phrase,p36,"Study Design: Observational, case-control, and cohort studies","tutkimussuunnitelma：havainnoivat, tapauskontrolloidut ja kohorttitutkimukset"
+Phrase,p37,"Study Design: Case-control, cohort, and observational studies","tutkimussuunnitelma：tapauskontrolloidut, kohortti- ja havainnoivat tutkimukset"
+Phrase,p38,A second trial (IBIS-2) is under way,toinen koe（IBIS-2）on meneillään
+Phrase,p39,Estrogen-only use among women with a hysterectomy,vain naishormoonia käyttävillä naisilla kohdunpoiston kanssa
+Phrase,p40,Study Design: Prospective observational and case-control studies,tutkimussuunnitelma：tulevat havainnoivat ja tapauskontrolloidut tutkimukset
+Phrase,p41,Results of case-control studies have been mixed,tapauskontrolloitujen tutkimusten tulokset ovat olleet ristiriitaisia
+Phrase,p42,Follow-up continued for up to 16 years,seuranta jatkunut jopa 16 vuotta
+Phrase,p1,Vitamin E supplementation,E-vitamiinilisä
+Phrase,p2,Smoke-free workplace legislation,savuton työpaikkalaki
+Phrase,p3,Beta-carotene in nonsmokers,beetakaroteeni tupakoimattomilla
+Phrase,p4,Smoking cessation guidelines,tupakoinnin lopettamisen ohjeet
+Phrase,p5,Secondhand tobacco smoke,toisen käden tupakansavu
+Phrase,p6,Eliminating secondhand smoke,toisen käden savun poistaminen
+Phrase,p7,Lung Cancer Screening,keuhkosyövän seulonta
+Phrase,p8,Vitamin E (Tocopherol),E-vitamiini（tokoferoli）
+Phrase,p9,Pharmacotherapy for smoking cessation,lääkehoito tupakoinnin lopettamiseen
+Phrase,p10,Exposure to secondhand smoke,altistuminen toisen käden savulle
+Phrase,p11,Beta-carotene supplementation in nonsmokers,beetakaroteenilisä tupakoimattomilla
+Phrase,p12,Lung Cancer (PDQ®): Prevention,keuhkosyöpä (PDQ®): ehkäisy
+Phrase,p13,Smoking avoidance and cessation,tupakoinnin välttäminen ja lopettaminen
+Phrase,p14,Beta-carotene supplementation in smokers,beetakaroteenilisä tupakoitsijoilla
+Phrase,p15,The biology of carcinogenesis,syövän muodostumisen biologia
+Phrase,p16,Skills training/problem solving (cessation/abstinence techniques),taitojen koulutus/ongelmanratkaisu（lopetus-/kohtuullisuustekniikat）
+Phrase,p17,Occupational exposures to lung carcinogens,työperäiset altistumiset keuhkosyöpää aiheuttaville aineille
+Phrase,p18,Beta-carotene supplementation in current smokers,beetakaroteenilisä nykyisillä tupakoitsijoilla
+Phrase,p19,Human immunodeficiency virus (HIV) infection,immuunikadon aiheuttavan viruksen（HIV）tartunta
+Phrase,p20,Lung cancer in never smokers,keuhkosyöpä ei koskaan tupakoineilla
+Phrase,p21,Occupational exposure to lung carcinogens,työperäinen altistuminen keuhkosyöpää aiheuttaville aineille
+Phrase,p22,Reducing or eliminating exposure to radon,radonille altistumisen vähentäminen tai poistaminen
+Phrase,p23,Factors of uncertain association with risk,epävarmaan riskiin liittyvät tekijät
+Phrase,p24,Other environmental causes of lung cancer,muut keuhkosyövän ympäristösyyt
+Phrase,p25,Preventing occupational exposure to lung carcinogens,estää työperäinen altistuminen keuhkosyöpää aiheuttaville aineille
+Phrase,p26,"Magnitude of Effect: Increased risk, small magnitude","vaikutuksen merkitys：kasvanut riski，pieni merkitys"
+Phrase,p27,The primary endpoint was lung cancer incidence,ensisijainen päätepiste oli keuhkosyövän ilmaantuvuus
+Phrase,p28,Overcoming nicotine dependence is often extremely difficult,nikotiiniriippuvuuden voittaminen on usein erittäin vaikeaa
+Phrase,p29,Cigarette smoking is the primary risk factor,tupakan polttaminen on ensisijainen riskitekijä
+Phrase,p1,Evidence (CT/FDG-PET scan):,todiste (CT/FDG-PET-skannaus):
+Phrase,p2,stage 0 NSCLC,vaiheen 0 ei-pienisoluinen keuhkosyöpä   
+Phrase,p3,stage IV NSCLC,vaiheen IV ei-pienisoluinen keuhkosyöpä   
+Phrase,p4,Involvement of pleura,keuhkopussin osallistuminen
+Phrase,p5,Giant cell carcinoma,jättisolusyöpä
+Phrase,p6,Evidence (combination chemotherapy):,todiste (yhdistelmäkemoterapia):
+Phrase,p7,Evidence (chemoradiation therapy):,todiste (kemosäteilytyshoito):
+Phrase,p8,Evidence (neoadjuvant chemotherapy):,todiste (ennaltaehkäisevä kemoterapia):
+Phrase,p9,Signet ring adenocarcinoma,harvinaisen rauhaskudossyövän alatyyppi
+Phrase,p10,Combined modality approaches,yhdistetyt mahdolliset lähestysmistavat
+Phrase,p11,stage IV disease,vaiheen IV sairaus
+Phrase,p12,Factors influencing treatment,hoitoon vaikuttavat tekijät
+Phrase,p13,Occult NSCLC Treatment,selittämätön ei-pienisoluisen keuhkosyövän hoito
+Phrase,p14,Well-differentiated fetal adenocarcinoma,hyvin erilaistunut sikiön rauhaskudossyöpä
+Phrase,p15,T4 (pleural effusion),hyvin laajalle levinnyt syöpä（nesteen kertyminen keuhkopussiin）
+Phrase,p16,Age versus comorbidity,ikä vastaan rinnakkaissairaus
+Phrase,p17,M1 (ipsilateral lung),etäinen etäpesäke（samanpuoleinen keuhko）
+Phrase,p18,occult lung cancer,selittämätön keuhkosyöpä
+Phrase,p19,Adjuvant chemoradiation therapy,hoidon tehokkuutta parantava kemosäteilytyshoito
+Phrase,p20,Evidence (radiation therapy):,todiste (sädehoito):
+Phrase,p21,Superior sulcus tumors,keuhkojen yläosan kasvaimet
+Phrase,p22,New chemotherapy regimens,uudet kemoterapian hoito-ohjelmat
+Phrase,p23,M1 (contralateral lung),etäinen etäpesäke（toisenpuoleinen keuhko）
+Phrase,p24,Clear cell adenocarcinoma,selkeä solukudossyöpä
+Phrase,p25,Evidence (FDG-PET scan):,todiste (FDG-PET-skannaus):         
+Phrase,p26,New fractionation schedules,uudet annosaikataulut
+Phrase,p27,"New cases: 224,210","uudet tapaukset：224,210"
+Phrase,p28,Evidence (endobronchial therapies):,todiste (hengitysteiden hoidot):
+Phrase,p29,Other systemic agents,muut systeemiset aineet
+Phrase,p30,Spindle cell carcinoma,sukkulamainen solusyöpä
+Phrase,p31,Extracapsular tumor spread,kasvain levinnyt imusolmukekapselin ulkopuolelle
+Phrase,p32,Large cell carcinoma,suurisoluinen syöpä
+Phrase,p33,stages IIA NSCLC,vaiheiden IIA ei-pienisoluinen keuhkosyöpä   
+Phrase,p34,Stage IIIB NSCLC,vaiheen IIIB ei-pienisoluinen keuhkosyöpä   
+Phrase,p35,stage IIIA NSCLC,vaiheen IIIA ei-pienisoluinen keuhkosyöpä   
+Phrase,p36,Evidence (radical surgery):,todiste (radikaali leikkaus):
+Phrase,p37,Adenoid cystic carcinoma,harvinainen pään ja kaulan alueen rauhaskudossyöpä
+Phrase,p38,Stage IV NSCLC,vaiheen IV ei-pienisoluinen keuhkosyöpä   
+Phrase,p39,Evidence (CT scan):,todiste (CT-skannaus):                  
+Phrase,p40,Stage 0 NSCLC,vaiheen 0 ei-pienisoluinen keuhkosyöpä   
+Phrase,p41,Vocal cord paralysis,äänihuulten halvaus
+Phrase,p42,stage IA NSCLC,vaiheen IA ei-pienisoluinen keuhkosyöpä   
+Phrase,p43,Clear cell carcinoma,selkeä solusyöpä
+Phrase,p44,Performance status (PS),suorituskykytila（PS）              
+Phrase,p45,Seventh Edition T/M,seitsemäs painos T/M   
+Phrase,p46,Recurrent NSCLC Treatment,uusiutuvan ei-pienisoluisen keuhkosyövän hoito
+Phrase,p47,Radiation therapy alone,sädehoito yksin
+Phrase,p48,stage IIIB NSCLC,vaiheen IIIB ei-pienisoluinen keuhkosyöpä   
+Phrase,p49,Evidence (nodal status):,todiste (solmukkeen tila):
+Phrase,p50,Squamous cell carcinoma,levyepiteelisyöpä
+Phrase,p51,For palliative treatment,palliatiiviseen hoitoon
+Phrase,p52,Stage IIIA NSCLC,vaiheen IIIA ei-pienisoluinen keuhkosyöpä   
+Phrase,p53,Stage IIIA NSCLC Treatment,vaiheen IIIA ei-pienisoluisen keuhkosyövän hoito
+Phrase,p54,Stage Information for NSCLC,vaihetieto ei-pienisoluiselle keuhkosyövälle 
+Phrase,p55,Radiation therapy (for palliation),sädehoito（lievitykseen）
+Phrase,p56,Treatment of brain metastases,aivojen etäpesäkkeiden hoito
+Phrase,p57,Evidence (age vs. comorbidity):,todiste (ikä vastaan rinnakkaissairaus):
+Phrase,p58,Surgery and radiation therapy,leikkaus ja sädehoito
+Phrase,p59,Combining local treatment (surgery),paikallisen hoidon (leikkauksen) yhdistäminen
+Phrase,p60,non-small cell lung cancer,ei-pienisoluinen keuhkosyöpä
+Phrase,p61,Stage 0 NSCLC Treatment,vaiheen 0 ei-pienisoluisen keuhkosyövän hoito
+Phrase,p62,Evidence (adjuvant chemoradiation therapy):,todiste (hoidon tehokkuutta parantava kemosäteilytyshoito):
+Phrase,p63,Sites of tumor involvement,kasvaimen sijaintipaikat
+Phrase,p64,Limitations of evidence (surgery):,todisteen rajoitukset (leikkaus):
+Phrase,p65,T4 (same lobe nodules),hyvin laajalle levinnyt syöpä（saman elimen kyhmyt）                             
+Phrase,p66,Knowledge of histologic type,mikroskooppitutkimuksen tyypin tuntemus
+Phrase,p67,M1b designates distant metastasis,M1b tarkoittaa etäistä etäpesäkettä
+Phrase,p68,Radiation therapy and surgery,sädehoito ja leikkaus
+Phrase,p69,Evaluation of brain metastasis,aivojen etäpesäkkeen arviointi
+Phrase,p70,Tumor size and location,kasvaimen koko ja sijainti
+Phrase,p71,Stage IV NSCLC Treatment,vaiheen IV ei-pienisoluisen keuhkosyövän hoito
+Phrase,p72,Early eradication of micrometastases,mikroetäpesäkkeiden varhainen hävittäminen
+Phrase,p73,Smoking in Cancer Care,tupakointi syövän hoidossa
+Phrase,p74,Continuing only single-agent chemotherapy,jatketaan vain yhden aineen kemoterapiaa
+Phrase,p75,Superior vena cava syndrome,veren virtaamaa hidastava oireyhtymä 
+Phrase,p76,Resected or resectable disease,leikkauksella poistettu tai poistettava sairaus
+Phrase,p77,M1 = Distant metastasis,M1 = etäinen etäpesäke
+Phrase,p78,Presence of pulmonary symptoms,keuhko-oireiden läsnäolo
+Phrase,p79,Solid adenocarcinoma with mucin,kiinteä rauhassyöpä liman kanssa
+Phrase,p80,Adenocarcinoma with mixed subtypes,rauhassyöpä sekalaisten alatyyppien kanssa
+Phrase,p81,Examination of the tumor,kasvaimen tutkimus
+Phrase,p82,Regional treatment (radiation therapy),alueellinen hoito（sädehoito）
+Phrase,p83,Cellular Classification of NSCLC,ei-pienisoluisen keuhkosyövän soluluokittelu   
+Phrase,p84,Stage IIIB NSCLC Treatment,vaiheen IIIB ei-pienisoluisen keuhkosyövän hoito
+Phrase,p85,recurrent non-small cell lung cancer,uusiutuva ei-pienisoluinen keuhkosyöpä
+Phrase,p86,Evidence (drug and dose schedule):,todiste (lääke- ja annosaikataulu):
+Phrase,p87,Evidence (chemotherapy and targeted therapy):,todiste (kemoterapia ja kohdennettu hoito):
+Phrase,p88,Surgery alone (for selected patients),leikkaus yksin（valituille potilaille）
+Phrase,p89,Maintenance therapy following first-line chemotherapy,ylläpitohoito ensilinjaisen kemoterapian jälkeen
+Phrase,p90,Sixth Edition T/M Descriptor (cm),kuudes painos T/M-kuvaaja（cm）
+Phrase,p91,Cost effectiveness of FDG-PET scanning,FDG-PET-skannauksen kustannustehokkuus                
+Phrase,p92,Treatment of second primary tumor,toisen ensisijaisen kasvaimen hoito
+Phrase,p93,Cytotoxic combination chemotherapy (first line),sytotoksinen yhdistelmäkemoterapia（ensimmäinen linja）
+Phrase,p94,WHO/IASLC Histologic Classification of NSCLC,ei-pienisoluisen keuhkosyövän WHO/IASLC-mikroskooppitutkimusluokittelu  
+Phrase,p95,Treatment Option Overview for NSCLC,hoitovaihtoehdon yleiskatsaus ei-pienisoluiselle keuhkosyövälle
+Phrase,p96,The primary endpoint was PFS,ensisijainen päätepiste oli etenemisvapaa selviytyminen  
+Phrase,p97,The study reported the following,tutkimus kertoi seuraavaa
+Phrase,p98,M0 = No distant metastasis,M0 = ei etäistä etäpesäkettä
+Phrase,p99,Tis = Carcinoma in situ,Tis = alkuperäisessä kohteessa oleva syöpäsoluryhmä
+Phrase,p100,Carcinomas of salivary gland type,sylkirauhassyöpien tyyppi
+Phrase,p101,Stages IA and IB NSCLC,vaiheiden IA ja IB ei-pienisoluinen keuhkosyöpä   
+Phrase,p102,Developing more effective systemic therapy,tehokkaamman systeemisen hoidon kehittäminen
+Phrase,p103,"Tracheal, esophageal, or bronchial compression","henkitorven, ruokatorven tai keuhkoputken puristus"
+Phrase,p104,Involvement of multiple nodal stations,useiden solmukeasemien osallistuminen
+Phrase,p105,Concurrent versus sequential chemoradiation therapy,samanaikainen vastaan peräkkäinen kemosäteilytyshoito
+Phrase,p106,occult non-small cell lung cancer,selittämätön ei-pienisoluinen keuhkosyöpä
+Phrase,p107,PIK3 catalytic protein alpha (PI3KCA),PIK3-entsyymi（PI3KCA）
+Phrase,p108,Chemotherapy or kinase inhibitors alone,kemoterapia tai kinaasinestäjät yksin 
+Phrase,p109,Stages IIA and IIB NSCLC,vaiheiden IIA ja IIB ei-pienisoluinen keuhkosyöpä   
+Phrase,p110,Fluorodeoxyglucose-positron emission tomography (FDG-PET) scanning,kasvaimen kuvantamismenetelmän（FDG-PET）skannaus    
+Phrase,p111,Epidermoid or squamous cell carcinoma,ihokudoksen ulompi epiteelikerros tai levyepiteelisolusyöpä
+Phrase,p112,Evidence (EGFR tyrosine kinase inhibitors):,todiste (EGFR-entsyymin estäjät): 
+Phrase,p113,Anaplastic lymphoma kinase receptor (ALK),anaplastisen imukudossyövän entsyyminen reseptori（anaplastinen imukudossyöpä）
+Phrase,p114,Large tumor size (>3 cm),suuren kasvaimen koko（>3 cm）
+Phrase,p115,"Cigarette, pipe, or cigar smoking","tupakan, piipun tai sikarin polttaminen"
+Phrase,p116,The patient's performance status (PS),potilaan suorituskykytila（PS）                
+Phrase,p117,Large cell neuroendocrine carcinoma (LCNEC),suurisoluinen hermojärjestelmäsyöpä（suurisoluinen neuroendokriininen syöpä）     
+Phrase,p118,Adenocarcinoma (40% of lung cancers),rauhassyöpä（40% keuhkosyövistä）
+Phrase,p119,Evidence (concurrent vs. sequential chemoradiation therapy):,todiste (samanaikainen vastaan peräkkäinen kemosäteilytyshoito):
+Phrase,p120,Carcinomas with spindle and/or giant cells,syövät kara- ja/tai jättisolujen kanssa
+Phrase,p121,"Sixty-five trials (13,601 patients) were identified","kuusikymmentäviisi tutkimusta (13,601 potilasta) tunnistettiin"
+Phrase,p122,Combination chemotherapy with bevacizumab or cetuximab,yhdistelmäkemoterapia bevasitsumabin tai setuksimabin kanssa
+Phrase,p123,Continuing the initial combination chemotherapy regimen,jatkaa alkuperäistä yhdistelmäkemoterapiahoito-ohjelmaa
+Phrase,p124,Stages IA and IB NSCLC Treatment,vaiheiden IA ja IB ei-pienisoluisen keuhkosyövän hoito
+Phrase,p125,Kirsten rat sarcoma viral oncogene (KRAS),Kirsten-rottasarkoomavirus（KRAS）                 
+Phrase,p126,MAPK kinase 1 (MAP2K1 or MEK1),MAPK-kinaasi 1（MAP2K1 tai MEK1）
+Phrase,p127,stage 0 non-small cell lung cancer,vaiheen 0 ei-pienisoluinen keuhkosyöpä
+Phrase,p128,Large cell carcinoma with rhabdoid phenotype,suuri solusyöpä munuaisten kasvainten kanssa
+Phrase,p129,"Introducing a new agent as ""maintenance.""","esittelyssä uusi aine "ylläpitona"
+Phrase,p130,"HER2, present in 2% of tumors","HER2 esiintyy 2% kasvaimista"
+Phrase,p131,Tumors that invade the chest wall,rintakehään tunkeutuvat kasvaimet
+Phrase,p132,Standard Treatment Options for Occult NSCLC,vakiohoitovaihtoehdot selittämättömälle ei-pienisoluiselle keuhkosyövälle
+Phrase,p134,stage II non-small cell lung cancer,vaiheen II ei-pienisoluinen keuhkosyöpä
+Phrase,p135,Stage ( TNM Staging Criteria ),vaihe（TNM-vaiheistuksen kriteerit）
+Phrase,p136,stage IIIB non-small cell lung cancer,vaiheen IIIB ei-pienisoluinen keuhkosyöpä
+Phrase,p137,Close or microscopically positive resection margins,läheiset tai mikroskooppisesti positiiviset leikkausreunat
+Phrase,p138,stage IIIA non-small cell lung cancer,vaiheen IIIA ei-pienisoluinen keuhkosyöpä
+Phrase,p139,AJCC Stage Groupings and TNM Definitions,AJCC-vaiheryhmittelyt ja TNM-määritelmät
+Phrase,p140,"PI3KCA, present in 2% of tumors","PI3KCAesiintyy 2% kasvaimista"
+Phrase,p141,Non-Small Cell Lung Cancer (PDQ®): Treatment,ei-pienisoluinen keuhkosyöpä (PDQ®): hoito
+Phrase,p142,Standard Treatment Options for Recurrent NSCLC,vakiohoitovaihtoehdot uusiutuvalle ei-pienisoluiselle keuhkosyövälle
+Phrase,p143,Evidence (maintenance therapy following first-line chemotherapy):,todiste (ylläpitohoito ensilinjan kemoterapian jälkeen):
+Phrase,p144,Evidence (radiation therapy for palliative treatment):,todiste (sädehoito palliatiiviseen hoitoon):
+Phrase,p145,EGFR tyrosine kinase inhibitors (first line),EGFR-entsyyminestäjät（ensimmäinen linja）                    
+Phrase,p146,"AKT1, present in 1% of tumors",AKT1，esiintyy 1% kasvaimista                         
+Phrase,p147,stage I non-small cell lung cancer,vaiheen I ei-pienisoluinen keuhkosyöpä
+Phrase,p148,Stages IIA and IIB NSCLC Treatment,vaiheiden IIA ja IIB ei-pienisoluisen keuhkosyövän hoito
+Phrase,p149,Evaluation of mediastinal lymph node metastasis,välikarsinan imusolmukkeiden etäpesäkkeen arviointi
+Phrase,p150,Patients with adenocarcinoma may benefit from pemetrexed,rauhassyöpäpotilaat voivat hyötyä pemetreksedistä 
+Phrase,p151,Evidence (maintenance erlotinib following platinum-based doublet chemotherapy):,todiste (erlotinibi-ylläpitohoito platinapohjaisen kaksoiskemoterapian jälkeen)   
+Phrase,p152,T0 = No evidence of primary tumor,T0 = ei todistetta ensisijaisesta kasvaimesta
+Phrase,p153,Radiation therapy to the breast or chest,sädehoito rintaan tai rintalihakseen
+Phrase,p154,Table 5. Definitions of TNM Stage IB,taulu 5. TNM-vaiheen IB määritelmät    
+Phrase,p155,Table 3. Definitions of TNM Stage 0,taulu 3. TNM-vaiheen 0 määritelmät           
+Phrase,p156,N0 = No regional lymph node metastasis,N0 = ei alueellista imusolmukkeen etäpesäkettä
+Phrase,p157,EML4-ALK inhibitors in patients with EML-ALK translocations,EML4-ALK-estäjät EML-ALK-translokaatioissa   
+Phrase,p158,Table 9. Definitions of TNM Stage IIIB,taulu 9. TNM-vaiheen IIIB määritelmät                
+Phrase,p159,This is a group of rare tumors,tämä on ryhmä harvinaisia ​​kasvaimia
+Phrase,p160,Chemotherapy combined with radiation therapy and/or surgery,kemoterapia yhdistettynä sädehoidon ja/tai leikkauksen kanssa
+Phrase,p161,MET oncogene encodes hepatocyte growth factor receptor,MET-muutos koodaa maksasolujen kasvutekijän reseptorin    
+Phrase,p162,NSCLC is a heterogeneous aggregate of histologies,ei-pienisoluinen keuhkosyöpä on mikroskooppitutkimusten heterogeeninen yhdistelmä   
+Phrase,p163,Pathological staging of NSCLC requires the following:,ei-pienisoluisen keuhkosyövän patologinen vaiheistus edellyttää seuraavaa：    
+Phrase,p164,Combination of CT imaging and FDG-PET scanning,CT-kuvantamisen ja FDG-PET-skannauksen yhdistelmä    
+Phrase,p165,Table 2. Definitions of TNM Occult Carcinoma,taulu 2. TNM:n selittämättömän syövän määritelmät                
+Phrase,p166,Table 10. Definitions of TNM Stage IV,taulu 10. TNM-vaiheen IV määritelmät                           
+Phrase,p167,Concurrent chemotherapy with radiation therapy and surgery,yhtäaikainen kemoterapia sädehoidon ja leikkauksen kanssa
+Phrase,p168,Standard Treatment Options for Stage IIIB NSCLC,vakiohoitovaihtoehdot vaiheen IIIB ei-pienisoluiselle keuhkosyövälle
+Phrase,p169,Smoking-related lung carcinogenesis is a multistep process,tupakointiin liittyvä keuhkojen terveiden solujen muuttuminen syöpäsoluiksi on monivaiheinen prosessi
+Phrase,p170,Evidence (combination chemotherapy with bevacizumab or cetuximab):,todiste (yhdistelmäkemoterapia bevasitsumabin tai setuksimabin kanssa):  
+Phrase,p171,Evidence (adjuvant chemotherapy for stage IB NSCLC):,todiste (hoidon tehokkuutta parantava kemoterapia vaiheen IB ei-pienisoluiselle keuhkosyövälle):    
+Phrase,p172,"Systemic treatments (chemotherapy, immunotherapy, and targeted agents)","systeemiset hoidot (kemoterapia, immunoterapia ja kohdennetut aineet)"
+Phrase,p173,For treatment of locally advanced unresectable tumor,paikallisesti edenneen ei-leikattavan kasvaimen hoitoon
+Phrase,p174,Table 7. Definitions of TNM Stage IIB,taulu 7. TNM-vaiheen IIB määritelmät                           
+Phrase,p175,Large cell carcinoma (10% of lung cancers),suurisoluinen syöpä（10% keuhkosyövistä）
+Phrase,p176,Evidence (adjuvant chemotherapy for stage I NSCLC):,todiste (hoidon tehokkuutta parantava kemoterapia vaiheen I ei-pienisoluiselle keuhkosyövälle):   
+Phrase,p177,Preoperative chemotherapy may also provide survival benefit,ennen leikkausta annettava kemoterapia voi myös tuottaa eloonjäämisetua
+Phrase,p178,The most common histologies include the following:,yleisimmät mikroskooppitutkimukset sisältävät seuraavaa：
+Phrase,p179,Standard Treatment Options for Stage IV NSCLC,vakiohoitovaihtoehdot vaiheen IV ei-pienisoluiselle keuhkosyövälle     
+Phrase,p180,The value of PORT has been assessed,PORT:n arvo on arvioitu                                
+Phrase,p181,Chemotherapy followed by surgery (for selected patients),kemoterapiaa seuraava leikkaus（valituille potilaille）
+Phrase,p182,Chemotherapy-related toxicities were greater with prolonged chemotherapy,kemoterapiaan liittyvät myrkyllisyydet olivat suurempia pitkäaikaisessa kemoterapiassa
+Phrase,p183,Human epidermal growth factor receptor 2 (HER2),ihmisen epidermaalisen kasvutekijän reseptori 2 (HER2)   
+Phrase,p184,Standard Treatment Options for Stage 0 NSCLC,vakiohoitovaihtoehdot vaiheen 0 ei-pienisoluiselle keuhkosyövälle         
+Phrase,p185,Squamous cell carcinoma (25% of lung cancers),levyepiteelisyöpä（25% keuhkosyövistä）
+Phrase,p186,"Carcinomas with pleomorphic, sarcomatoid, or sarcomatous elements","syövät pleomorfisten, sarkomatoidisten tai sarkomatoidisten elementtien kanssa"
+Phrase,p187,Stereotactic radiation surgery (for highly selected patients),stereotaktinen sädetysleikkaus（erittäin valituille potilaille）
+Phrase,p188,Sequential or concurrent chemotherapy and radiation therapy,jaksoittainen tai samanaikainen kemoterapia ja sädehoito
+Phrase,p189,Table 8. Definitions of TNM Stage IIIA,taulu 8. TNM-vaiheen IIIA määritelmät     
+Phrase,p190,M1b = Distant metastasis (in extrathoracic organs),M1b = etäinen etäpesäke（rintakehän ulkopuolisissa elimissä）
+Phrase,p191,Table 11. Standard Treatment Options for NSCLC,taulu 11. vakiohoitovaihtoehdot ei-pienisoluiselle keuhkosyövälle  
+Phrase,p192,Similar benefit may be achieved with erlotinib,samanlainen hyöty voidaan saavuttaa erlotinibin kanssa
+Phrase,p193,Locally (T3–T4) and/or regionally (N2–N3) advanced disease,paikallisesti（T3-T4）ja/tai alueellisesti（N2-N3）edennyt sairaus    
+Phrase,p194,Table 4. Definitions of TNM Stage IA,taulu 4. TNM-vaiheen IA määritelmät            
+Phrase,p195,Table 6. Definitions of TNM Stage IIA,taulu 6. TNM-vaiheen IIA määritelmät            
+Phrase,p1,Etoposide + cisplatin,etoposidi + sisplatiini             
+Phrase,p2,Cisplatin + irinotecan,sisplatiini + irinotekaani        
+Phrase,p3,Prophylactic cranial irradiation,pään sädehoito
+Phrase,p4,Lambert-Eaton myasthenic syndrome,Lambert-Eatonin lihasheikkouden oireyhtymä
+Phrase,p5,"New cases: 224,210","uudet tapaukset：224,210"
+Phrase,p6,New drug regimens,uudet lääkehoito-ohjelmat
+Phrase,p7,Frequent nuclear molding,usein toistuva tuman muovautuminen
+Phrase,p8,Etoposide + carboplatin,etoposidi + karboplatiini
+Phrase,p9,Intermediate-grade atypical carcinoid,keskiasteen epätyypillinen syöpä
+Phrase,p10,Paraneoplastic cerebellar degeneration,syöpäsolujen aiheuttama pikkuaivojen rappeuma
+Phrase,p11,Combination chemotherapy alone,yhdistelmäkemoterapia yksin
+Phrase,p12,Dose and timing,annos ja ajoitus
+Phrase,p13,Evidence (standard regimens):,todiste (vakiohoito-ohjelmat):
+Phrase,p14,Low-grade typical carcinoid,matala-asteinen tyypillinen syöpä
+Phrase,p15,Length of treatment,hoidon kesto
+Phrase,p16,Evidence (combined modality treatment):,todiste (yhdistetty hoitomuoto):
+Phrase,p17,Inappropriate antidiuretic hormone secretion,riittämätön antidiureettisen hormonin eritys
+Phrase,p18,Absent or inconspicuous nucleoli,puuttuva tai huomaamaton nukleoli
+Phrase,p19,Chemotherapy and radiation therapy,kemoterapia ja sädehoito
+Phrase,p20,A high mitotic count,korkea jakautuvien solujen määrä
+Phrase,p21,A thorough physical examination,perusteellinen fyysinen tutkimus
+Phrase,p22,Evidence (role of PCI):,todiste (perkutaanisen sepelvaltimointervention rooli):               
+Phrase,p23,Prophylactic cranial irradiation (PCI),aivojen sädehoito（perkutaaninen sepelvaltimointerventio）       
+Phrase,p24,Evidence (role of surgery):,todiste (leikkauksen rooli):
+Phrase,p25,A radionuclide bone scan,säteilyä vapauttava luuskannaus
+Phrase,p26,small cell lung cancer,pienisoluinen keuhkosyöpä
+Phrase,p27,IASLC-AJCC TNM Staging System,IASLC-AJCC TNM-vaiheistusjärjestelmä    
+Phrase,p28,Cyclophosphamide + doxorubicin + vincristine,syklofosfamidi + doksorubisiini + vinkristiini   
+Phrase,p29,Treatment Options Under Clinical Evaluation,hoitovaihtoehdot kliinisen arvionnin alla
+Phrase,p30,Factors influencing treatment with chemotherapy,kemoterapiahoitoon vaikuttavat tekijät
+Phrase,p31,Treatment options for recurrent cancer,hoitovaihtoehdot uusiutuvalle syövälle
+Phrase,p32,Combination chemotherapy and radiation therapy,yhdistelmäkemoterapia ja sädehoito
+Phrase,p33,Alternative drug doses and schedules,vaihtoehtoiset lääkeannokset ja aikataulut
+Phrase,p34,Cyclophosphamide + doxorubicin + etoposide,syklofosfamidi + doksorubisiini + etoposidi     
+Phrase,p35,Treatment options for older patients,hoitovaihtoehdot vanhemmille potilaille
+Phrase,p36,Ifosfamide + cisplatin + etoposide,ifosfamidi + sisplatiini + etoposidi     
+Phrase,p37,Neuroendocrine tumors include the following:,solukasvaimet sisältävät seuraavaa：
+Phrase,p38,Cyclophosphamide + etoposide + vincristine,syklofosfamidi + etoposidi + vinkristiini   
+Phrase,p39,recurrent small cell lung cancer,uusiutuvan pienisoluinen keuhkosyöpä
+Phrase,p40,Evidence (other combination chemotherapy regimens):,todiste (muut yhdistelmäkemoterapian hoito-ohjelmat):
+Phrase,p41,Surgical resection of the primary tumor,ensisijaisen kasvaimen kiruginen poistoleikkaus
+Phrase,p42,Surgery followed by chemotherapy or chemoradiotherapy,kemoterapiaa tai kemosäteilytyshoitoa seuraava leikkaus
+Phrase,p43,Recurrent Small Cell Lung Cancer Treatment,toistuva pienisoluisen keuhkosyövän hoito
+Phrase,p44,"Finely granular ""salt and pepper"" chromatin","hienorakeinen ""suola ja pippuri"" kromatiini"
+Phrase,p45,Small Cell Lung Cancer (PDQ®): Treatment,pienisoluinen keuhkosyöpä (PDQ®): hoito
+Phrase,p46,These studies have yielded conflicting results,nämä tutkimukset ovat tuottaneet ristiriitaisia tuloksia
+Phrase,p47,Limited-Stage Small Cell Lung Cancer Treatment,rajoitetun vaiheen pienisoluisen keuhkosyövän hoito
+Phrase,p48,limited stage small cell lung cancer,rajoitetun vaiheen pienisoluinen keuhkosyöpä
+Phrase,p49,extensive stage small cell lung cancer,laaja-alainen pienisoluinen keuhkosyöpä
+Phrase,p50,Veterans Administration Lung Study Group (VALG),veteraanihallinnon keuhkojen tutkimusryhmä (VALG)    
+Phrase,p51,Routine blood counts and serum chemistries,rutiiniverimäärät ja seerumikemiat
+Phrase,p52,Standard staging procedures include the following:,vakiovaiheistusmenettelyt sisältävät seuraavaa：
+Phrase,p53,Extensive-Stage Small Cell Lung Cancer Treatment,laaja-alaisen pienisoluisen keuhkosyövän hoito
+Phrase,p54,Cushing syndrome from secretion of adrenocorticotropic hormone,aivolisäkehormoonin erityksen hormonaalinen häiriö
+Phrase,p55,Surgery followed by chemotherapy or chemoradiation therapy,kemoterapiaa tai kemosäteilytyshoitoa seuraava leikkaus
+Phrase,p56,Stage Information for Small Cell Lung Cancer,vaihetieto pienisoluiselle keuhkosyövälle
+Phrase,p57,and offers palliation of symptomatic metastatic disease,ja tarjoaa lievityksen oireiselle etäpesäkkeiselle sairaudelle
+Phrase,p58,General Information About Small Cell Lung Cancer,yleistieto pienisoluisesta keuhkosyövästä
+Phrase,p59,Cellular Classification of Small Cell Lung Cancer,pienisoluisen keuhkosyövän soluluokittelu
+Phrase,p60,Topotecan is standard chemotherapy for recurrent SCLC,topotekaani on vakiokemoterapia uusiutuvalle pienisoluiselle keuhkosyövälle

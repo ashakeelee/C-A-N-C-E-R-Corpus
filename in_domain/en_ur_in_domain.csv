@@ -1,0 +1,1496 @@
+type,id,en_description,ur_description
+Word,w15,AFP levels,اے ایف پی کی سطحیں
+Word,w15,AND/OR,اور/یا
+Word,w33,Abdominal pain,پیٹ درد
+Word,w3,Ablation Techniques,مٹانے کے طریقے
+Word,w5,Abortion,اسقاط حمل
+Word,w7,Acinar,غدود نما
+Word,w16,Acute hepatitis,تیز جگر کی سوزش
+Word,w26,Adjuvant oxaliplatin,مددگار آکسیلپلاٹین
+Word,w10,Advanced age,عمر رسیدگی
+Word,w6,Aflibercept,افلیبرسپٹ
+Word,w6,Air pollution,فضائی آلودگی
+Word,w20,Alagille syndrome,الجیل سنڈروم
+Word,w1,Alcohol,شراب
+Word,w1,Alpha-fetoprotein,الفا فیٹو پروٹین
+Word,w21,Analysis: Evaluation,تجزیہ: تشخیص  
+Word,w13,Analysis: Follow-up,تجزیہ: پیروی
+Word,w7,Anastrozole,اناسٹروزول (دوا)  
+Word,w5,Anatomy,تشریح الاعضا  
+Word,w15,Annual,سالانہ  
+Word,w2,Anorexia,بھوک کی کمی  
+Word,w1,Anxiety,بے چینی / اضطراب  
+Word,w2,Any,کوئی  
+Word,w1,Aspirin,اسپرین  
+Word,w17,Associated Disorder,متعلقہ عارضہ  
+Word,w50,Atypical carcinoid,غیر معمولی کارسینوائڈ  
+Word,w6,Authors,مصنفین  
+Word,w12,Background,پس منظر
+Word,w35,Barium Enema,بیریم انیمہ (ٹیسٹ)
+Word,w2,Basal-like,بنیادی نوعیت کا  
+Word,w18,Basaloid,خلیاتی ساخت  
+Word,w56,Basaloid carcinoma,بیسلوئڈ کارسینوما (سرطان کی قسم)  
+Word,w3,Beckwith-Wiedemann,بیکوتھ وائیڈمین سنڈروم (جینیٹک عارضہ)  
+Word,w7,Benefits,فوائد  
+Word,w24,Better tolerability,بہتر برداشت (علاج)  
+Word,w4,Bevacizumab,بیواسيزوماب (اینٹی سرطان دوا)  
+Word,w8,Bias,تعصب (تحقیقی تناظر میں)
+Word,w1,Biennial,دو سالہ  
+Word,w10,Bile acids,بائل ایسڈز (صفرا کا جز)  
+Word,w29,Biliary Obstruction,بلیئری رکاوٹ (پت کی نالی)  
+Word,w8,Bisphosphonates,بسفوسفونیٹس (دوا)  
+Word,w47,Breast Reconstruction,بریسٹ ری کنسٹرکشن (سرجری)  
+Word,w16,Breast Self-examination,چھاتی کا خود معائنہ  
+Word,w29,Breast reconstruction,بریسٹ ری کنسٹرکشن (سرجری)  
+Word,w4,Breast-feeding,دودھ پلانا  
+Word,w57,Bronchioloalveolar carcinoma,برونکائیولوا لیولر کارسنوما
+Word,w20,Burkitt lymphoma,برکِٹ لیمفوما
+Word,w22,CT Colonography,تصویری تشخیص
+Word,w43,CT imaging,تصویری تشخیص
+Word,w5,Calcium,کیلشیم
+Word,w15,Calcium supplementation,کیلشیم کی فراہمی
+Word,w13,Capecitabine,کیپیسیٹابین
+Word,w1,Capecitabine,کیپیسیٹابین
+Word,w61,Carcinoid tumor,کرسینوئڈ رسولی
+Word,w12,Carcinosarcoma,کارسینو سارکومہ
+Word,w25,Case-control studies,کیس-کنٹرول مطالعے
+Word,w2,Cataracts,موہریہ
+Word,w27,Cellular Classification,خلیاتی درجہ بندی
+Word,w4,Cellular classification--legacy,خلیاتی درجہ بندی - ورثہ
+Word,w24,Cellular classification--legacy,خلیاتی درجہ بندی - ورثہ
+Word,w9,Cetuximab,سیٹکسماب
+Word,w3,Cetuximab,سیٹکسماب
+Word,w6,Chemoradiation alone,کیمیائی ریڈی ایشن اکیلے
+Word,w58,Chemoradiation therapy,کیمیائی اور تابکاری علاج
+Word,w54,Chemotherapy risks,کیمیائی علاج کے خطرات
+Word,w20,Chest pain,سینے کا درد
+Word,w27,Chest x-ray,سینے کا ایکس رے
+Word,w23,Chest x-ray,سینے کا ایکس رے
+Word,w2,China,چین
+Word,w46,Clear cell,صاف خلیہ
+Word,w14,Clinical Consequences,طبی نتائج
+Word,w9,Clinical trials,طبی تجربات
+Word,w16,Colonoscopy,طبی معائنۂ قولون
+Word,w14,Combination chemotherapy,مجموعی کیمیائی علاج
+Word,w45,Combined LCNEC,مشترکہ بڑے خلیاتی نیورو اینڈوکرائن کارسینوما
+Word,w3,Computed Tomography,مخطط شدہ طبقی تصویری
+Word,w13,Consistency,یکسانیت
+Word,w13,Consistency: Consistent, استحکام: یکسانیت
+Word,w7,Consistency: Fair, درمیانی یکسانیت
+Word,w26,Consistency: Mixed,غیر یکساں یکسانیت
+Word,w16,Consistency: N/A,استحکام: قابل اطلاق نہیں
+Word,w17,Contamination: None,آلودگی: کوئی نہیں
+Word,w42,Contralateral Disease,مخالف طرفی بیماری
+Word,w14,Control,قابو 
+Word,w32,Cytotoxic chemotherapy,خلیاتی زہریلا کیمیائی علاج
+Word,w20,Cytoxan (mg/m²),سائٹوکسین (mg/m²)
+Word,w2,C—Caudate,سی—ذیلی دماغی حصہ
+Word,w3,"Deaths: 10,990","اموات: 10,990"
+Word,w4,"Deaths: 15,210","اموات: 15,210"
+Word,w40,"Deaths: 159,260","اموات: 159,260"
+Word,w17,"Deaths: 159,260","اموات: 159,260"
+Word,w35,"Deaths: 40,430","اموات: 40,430"
+Word,w4,Deaths: 410,4اموات: 10
+Word,w8,Denmark,ڈنمارک
+Word,w2,Description,تفصیل
+Word,w8,Description,تفصیل
+Word,w6,Diagnostic imaging,تشخیصی امیجنگ
+Word,w1,Diet,غذا
+Word,w11,Diet modification,غذائی ترمیم
+Word,w2,Dietary supplements,غذائی تکمیلات
+Word,w2,Diffuse,منتشر
+Word,w27,Digital Mammography,ڈیجیٹل میموگرافی
+Word,w2,Disclaimer,دستبرداری
+Word,w4,Discomfort,تکلیف
+Word,w3,Distant Metastases,دور دراز میٹاسٹیسیس
+Word,w27,Dose-dense AC-T,AC-T خوراک-گاڑھی 
+Word,w8,Dose/Trial Drug,خوراک/آزمائشی دوا
+Word,w33,Doxorubicin (mg/m²),ڈوکسوروبیسن (mg/m²)
+Word,w9,Dyspareunia,ڈیسپیرونیا
+Word,w1,Dysplasia,ڈسپلیسیا
+Word,w14,Dyspnea,ڈسپنیا
+Word,w19,Early pregnancy,ابتدائی حمل
+Word,w15,Elderly women,معمر خواتین
+Word,w44,Endobronchial therapies,انڈوبرونکیل علاج
+Word,w10,Endogenous estrogen,اندونی ایسٹروجن
+Word,w16,Environmental factors,ماحولیاتی عوامل
+Word,w12,Epidemiology,وبائیات
+Word,w32,Epithelial Tumors,اپتھیلیل رسولیاں
+Word,w16,Epithelioid Hemangioendothelioma,اپتھیلیوئڈ ہیمینجیواینڈوتھیلیوما
+Word,w12,Estrogen-only therapy,صرف ایسٹروجن علاج
+Word,w25,Evidence (PCI):,شواہد (PCI)
+Word,w19,Evidence (bevacizumab):,شواہد (بیواسیزوماب)
+Word,w14,Evidence (capecitabine):,شواہد (کیپسیٹابین)
+Word,w25,Evidence (cetuximab):,شواہد (سیٹکسماب):  
+Word,w16,Evidence (irinotecan):,شواہد (آئرینوٹیکن):  
+Word,w10,Evidence (oxaliplatin):,شواہد (آکسیلی پلاٹینم):  
+Word,w17,Evidence (panitumumab):,شواہد (پینیٹوموماب):  
+Word,w53,Evidence (surgery):,شواہد (جراحی):  
+Word,w11,Evidence (topotecan):,شواہد (ٹوپوٹیکن):  
+Word,w14,Exemestane,ایکسیمسٹین  
+Word,w3,Exercise,ورزش  
+Word,w8,Extensive-Stage Disease,وسیع مرحلے کی بیماری  
+Word,w36,External Validity,خارجی توثیق  
+Word,w30,E—Extrahepatic contiguous,ای—جگر سے باہر متصل  
+Word,w51,FDG-PET scanning,ایف ڈی جی-پی ای ٹی اسکیننگ  
+Word,w27,FOBT/ Sigmoidoscopy,ایف او بی ٹی/ سگموئیڈوسکوپی  
+Word,w19,Facility Characteristics,سہولیات کی خصوصیات  
+Word,w5,Fair,منصفانہ  
+Word,w12,Familial polyposis,خاندانی پولیپوسس  
+Word,w9,Family history,خاندانی تاریخ  
+Word,w23,Favor Raloxifene,رالوکسفین کو ترجیح  
+Word,w22,Favor Tamoxifen,ٹاموکسفین کو ترجیح  
+Word,w8,Fenretinide,فینریٹینائیڈ  
+Word,w24,Fibrolamellar carcinoma,فائبرولیمیلر کارسینوما  
+Word,w3,Find Publications,اشاعتیں تلاش کریں  
+Word,w30,Fluorouracil (5-FU),فلوروراسل (5-ایف یو)  
+Word,w1,Food,خوراک  
+Word,w1,Gastric endoscopy,معدہ اینڈوسکوپی  
+Word,w46,Gastrointestinal Complications,معدہ و آنت کی پیچیدگیاں  
+Word,w23,Gastrointestinal bleeding,معدہ و آنت سے خون بہنا  
+Word,w26,General Information,عمومی معلومات  
+Word,w13,Genetic mutations,جینیاتی میوٹیشنز  
+Word,w11,Good,اچھا  
+Word,w1,Grade,گریڈ  
+Word,w17,Gynecologic problems,نسوانی امراض کے مسائل  
+Word,w13,HER2+,ایچ ای آر 2+ (HER2 پازیٹو)  
+Word,w9,Harms,نقصانات  
+Word,w2,Hepatic Ultrasound,جگر کا الٹراساؤنڈ  
+Word,w7,Hepatitis A,جگر کی سوزش اے
+Word,w9,Hepatitis B,جگر کی سوزش بی
+Word,w12,Hepatitis C,جگر کی سوزش سی
+Word,w18,Hepatitis D,جگر کی سوزش ڈی
+Word,w6,Hepatitis E,جگر کی سوزش ای
+Word,w11,Hepatitis F,جگر کی سوزش ایف
+Word,w5,Hepatitis G,جگر کی سوزش جی
+Word,w4,Hepatoblastoma,ہیپاٹوبلاسٹوما  
+Word,w7,Hepatocellular Carcinoma,ہیپاٹوسیلولر کارسینوما  
+Word,w19,High Risk,اعلیٰ خطرہ  
+Word,w5,High-grade dysplasia,اعلیٰ درجے کی ڈسپلازیہ  
+Word,w11,Histology,ہسٹالوجی (نسیجیات)  
+Word,w15,Hoarseness,آواز کا بیٹھ جانا  
+Word,w3,Hoarseness,آواز کا بیٹھ جانا  
+Word,w19,Hyperplasia,ہائپرپلازیہ  
+Word,w52,IB NSCLC,آئی بی این ایس سی ایل سی  
+Word,w55,IIB NSCLC,آئی آئی بی این ایس سی ایل سی  
+Word,w12,Ill-defined borders,غیر واضح حدود  
+Word,w16,Illustration,تشریحی خاکہ  
+Word,w7,Illustration,تشریحی خاکہ  
+Word,w30,Immunochemical FOBT,امونوکیمیکل ایف او بی ٹی  
+Word,w2,Indication,اشارہ  
+Word,w51,Inflammatory carcinoma,انفلامیٹری کارسینوما  
+Word,w31,Intermediate Risk,درمیانہ خطرہ  
+Word,w19,Internal Validity,داخلی توثیق  
+Word,w22,International Comparisons,بین الاقوامی موازنہ  
+Word,w18,Interval cancers,انٹرول سرطان  
+Word,w1,Intestinal,آنتوں کا  
+Word,w5,Intestinal metaplasia,آنتوں کی میٹاپلازیا  
+Word,w27,Intestinal obstruction,آنتوں کی رکاوٹ  
+Word,w21,Intra-arterial chemotherapy,انٹرا آرٹیریل کیمیائیعلاج  
+Word,w5,Introduction,تعارف  
+Word,w25,Ionizing radiation,آیونائزنگ تابکاری  
+Word,w8,Irinotecan,آئرینوٹیکن  
+Word,w17,Kaposi sarcoma,کاپوسی سارکوما  
+Word,w10,LCNEC,ایل سی این ای سی  
+Word,w9,Lapatinib,لیپٹینب  
+Word,w12,Leg cramps,ٹانگ میں اینٹھن  
+Word,w6,Leiomyoma,لیومیوما  
+Word,w10,Leiomyosarcoma,لیومیوسارکوما  
+Word,w27,Limited-Stage Disease,محدود مرحلے کی بیماری  
+Word,w1,Lipoma,لیپوما  
+Word,w8,Liver Transplantation,جگر کی پیوند کاری  
+Word,w9,Liver biopsy,جگر کی بائیوپسی  
+Word,w29,Liver metastases,جگر کی میٹاسٹیسیز  
+Word,w24,Lobular histology,لوبیولر ہسٹالوجی  
+Word,w22,Local ablation,مقامی ایبلشن  
+Word,w36,Local-regional treatment,مقامی-علاقائی علاج  
+Word,w39,Low Risk,کم خطرہ  
+Word,w25,Low-birth-weight infants,کم پیدائشی وزن کے نوزائیدہ  
+Word,w10,"Lower, X","نیچے والا، ایکس"  
+Word,w41,Luminal A,لومینل اے  
+Word,w40,Luminal B,لومینل بی  
+Word,w22,Lymph nodes,لمف نوڈس  
+Word,w10,Lymphedema,لمفیڈیما  
+Word,w23,Lymphoepithelioma-like carcinoma,لمفوایپی تھیلیوما لائیک کارسینوما  
+Word,w32,Lymphovascular invasion,لمفوواسکولر حملہ  
+Word,w49,M1 (distant),ایم 1 (دور)  
+Word,w4,Male gender,مرد جنس  
+Word,w3,Mediterranean,میڈیٹرینین  
+Word,w21,Medullary carcinoma,میڈولری کارسینوما  
+Word,w2,Melanoma,میلانوما  
+Word,w21,Melanoma Treatment,میلانوما کا علاج  
+Word,w3,Men,مرد  
+Word,w13,Metaplasia,میٹاپلازیا  
+Word,w1,Micrometastases,مائیکرو میٹاسٹیسیز  
+Word,w9,Minnesota,منیسوٹا  
+Word,w20,Molecular Features,مالیکیولر خصوصیات  
+Word,w44,Monoclonal antibodies,مونوکلونل اینٹی باڈیز  
+Word,w2,Mucinous,میوسینس  
+Word,w19,Mucinous adenocarcinoma,میوسینس ایڈینوکارسینوما  
+Word,w41,Mucinous cystadenocarcinoma,میوسینس سسٹ ایڈینوکارسینوما  
+Word,w62,Mucoepidermoid carcinoma,میوکوایپیڈرموئڈ کارسینوما  
+Word,w14,Musculoskeletal problems,عضلاتی و ہڈیوں کے مسائل  
+Word,w28,M—Distant metastatic,ایم—دور میٹاسٹیٹک  
+Word,w59,Neoadjuvant therapy,نیوایڈجوینٹ علاج  
+Word,w33,Neuroendocrine tumors,نیوروانڈوکرائن رسولیاں  
+Word,w16,Neurologic sequelae,اعصابی نتائج  
+Word,w32,No effect,کوئی اثر نہیں  
+Word,w33,No metastases,کوئی میٹاسٹیسیز نہیں  
+Word,w25,Nonepithelial Tumors,نانایپی تھیلیئل رسولیاں  
+Word,w3,Nonmucinous,نانمیوسینس  
+Word,w47,Nonsquamous histology,نانسکوامس ہسٹالوجی  
+Word,w17,Normal,عام  
+Word,w17,Northern Europe,شمالی یورپ  
+Word,w38,Occult NSCLC,پوشیدہ این ایس سی ایل سی  
+Word,w60,Occult carcinoma,پوشیدہ کارسینوما  
+Word,w18,Oral contraceptives,زبانی مانع حمل ادویات  
+Word,w2,Orchiectomy,اورکیکٹومی (خصیے کی سرجری)  
+Word,w6,Other regimens,دیگر علاج کے طریقے  
+Word,w1,Overdiagnosis,ضرورت سے زیادہ تشخیص  
+Word,w10,Overdiagnosis,ضرورت سے زیادہ تشخیص  
+Word,w2,Overview,جائزہ  
+Word,w3,Oxaliplatin,آکسیلی پلاٹینم  
+Word,w4,Oxaliplatin,آکسیلی پلاٹینم  
+Word,w8,PRETEXT designations,پری ٹیکسٹ تقسیم  
+Word,w11,PRETEXT stage,پری ٹیکسٹ مرحلہ  
+Word,w5,Paclitaxel,پاکلیٹیکسل  
+Word,w22,Paclitaxel/Docetaxel (mg/m²),پاکلیٹیکسل/ڈوکیٹیکسل (ملی گرام/مربع میٹر)  
+Word,w28,Palliative chemoradiation,تسکینی  کیمیائی ریڈی ایشن  
+Word,w20,Palliative chemotherapy,تسکینی  کیمیائی علاج  
+Word,w31,Palliative chemotherapy,تسکینی  کیمیائی علاج  
+Word,w10,Palliative therapy,تسکینی علاج  
+Word,w52,Palpable tumors,محسوس ہونے والے رسولیاں  
+Word,w5,Panitumumab,پینیٹوموماب  
+Word,w11,Panitumumab,پینیٹوموماب  
+Word,w17,Papillary,حُلیمی  
+Word,w18,Pathologic Classification,مرضیاتی درجہ بندی  
+Word,w5,Pathology,مرضیاتی   
+Word,w25,Patient Characteristics,مریض کی خصوصیات  
+Word,w50,Patient Evaluation,مریض کا جائزہ  
+Word,w45,Patient Group,مریضوں کا گروپ  
+Word,w21,Performance status,کارکردگی کی حالت  
+Word,w7,Perioperative chemotherapy,گرد عملی جراحی  کیمیائی علاج   
+Word,w11,Pernicious anemia,مہلک خون کی کمی   
+Word,w11,Pertuzumab,پرٹوزوماب  
+Word,w37,Phyllodes tumor,پتوں نما رسولی  
+Word,w9,Physical activity,جسمانی سرگرمی  
+Word,w5,Physical activity,جسمانی سرگرمی  
+Word,w26,Physician Characteristics,ڈاکٹر کی خصوصیات  
+Word,w14,Polyp removal,پولپ کا خاتمہ  
+Word,w6,Poor,خراب  
+Word,w18,Population Size,آبادی کی تعداد
+Word,w7,Population-level interventions,آبادی کی سطح پر مداخلت
+Word,w6,Postmastectomy,ماسٹیکٹومی کے بعد  
+Word,w8,Postoperative chemotherapy,آپریشن کے بعد کی  کیمیائی علاج  
+Word,w34,Postsurgical chemotherapy,سرجری کے بعد کی  کیمیائی علاج  
+Word,w38,Posttreatment ypN,علاج کے بعد وائی پی این  
+Word,w21,Presurgical chemotherapy,سرجری سے پہلے کی  کیمیائی علاج  
+Word,w25,Primary Therapy,بنیادی علاج  
+Word,w34,Primary lymphoma,بنیادی لیمفوما  
+Word,w28,Primary therapy,بنیادی علاج  
+Word,w1,Progesterone,پروجیسٹرون  
+Word,w1,Prognosis,پیش گوئی  
+Word,w2,Prognosis--legacy,پیش گوئی (پرانا)  
+Word,w4,Prognosis:,پیش گوئی:  
+Word,w24,Prophylactic mastectomy,احتیاطی ماسٹیکٹومی  
+Word,w11,Prophylactic oophorectomy,احتیاطی اووفوریکٹومی  
+Word,w54,Pulmonary blastoma,پلمونری بلاسٹوما  
+Word,w4,RCTs,آر سی ٹیز (رینڈمائزڈ کنٹرول تجربہ)  
+Word,w2,Race,نسل  
+Word,w20,Radiation Exposure,تابکاری کا ایکسپوژر  
+Word,w9,Radical surgery,ریڈیکل سرجری  
+Word,w6,Radiosensitizers,ریڈیوسینسٹائزرز  
+Word,w1,Radon,ریڈون  
+Word,w3,Radon exposure,ریڈون کا ایکسپوژر  
+Word,w7,Raloxifene,رالوکسفین  
+Word,w9,Recurrent Hepatoblastoma,بار بار ہونے والا ہیپاٹوبلاسٹوما  
+Word,w29,Recurrent NSCLC,بار بار ہونے والا این ایس سی ایل سی  
+Word,w9,Recurrent disease,بار بار ہونے والی بیماری  
+Word,w16,Regimen,طریقہ علاج  
+Word,w4,Region,علاقہ  
+Word,w34,Rehydrated: 5.8%,ری ہائیڈریٹڈ: 5.8%  
+Word,w33,Rehydrated: 9.8%,ری ہائیڈریٹڈ: 9.8%  
+Word,w34,Resection margins,ریسکشن مارجنز  
+Word,w3,Risk,خطرہ  
+Word,w22,Scant cytoplasm,کم سائٹوپلازم  
+Word,w23,Scirrhous tumors,سکررس رسولیاں  
+Word,w12,Screened,اسکرین شدہ  
+Word,w23,Screening Intervention,اسکریننگ مداخلت  
+Word,w18,Second-line chemotherapy,دوسری سطر کی  کیمیائی علاج  
+Word,w5,Sensitivity,حساسیت  
+Word,w14,Serrated,دندانے دار  
+Word,w2,Serum pepsinogen,سیرم پپسینوجن  
+Word,w7,Sigmoidoscopy,سگموئیڈوسکوپی  
+Word,w3,Site,مقام  
+Word,w25,Small cell,چھوٹی خلیہ   
+Word,w4,Smoking avoidance,تمباکو نوشی سے پرہیز
+Word,w8,South America,جنوبی امریکہ
+Word,w14,Special Populations,مخصوص آبادی
+Word,w13,Stage III,III مرحلہ 
+Word,w18,Stage IV,IV مرحلہ
+Word,w14,Stage Information,مرحلہ کی معلومات
+Word,w6,Stage explanation--legacy,مرحلے کی وضاحت (پرانا)  
+Word,w26,Stage explanation--legacy,مرحلے کی وضاحت (پرانا)  
+Word,w10,Stage explanation--legacy,مرحلے کی وضاحت (پرانا)  
+Word,w31,Stage explanation--legacy,مرحلے کی وضاحت (پرانا)  
+Word,w48,Staging Evaluation,مرحلے کی تشخیص  
+Word,w15,Staging Systems,مرحلے کے نظام  
+Word,w7,Standard treatment,معیاری علاج  
+Word,w21,Study Design,مطالعہ کا ڈیزائن  
+Word,w8,Surgery alone,سرجری اکیلے  
+Word,w19,Surgical Approaches,سرجیکل طریقے  
+Word,w7,Surgical Resection,سرجیکل ریسکشن  
+Word,w28,Surgical evaluation,سرجری کا جائزہ  
+Word,w31,Surgical margins,سرجیکل مارجنز  
+Word,w1,Surveillance,نگرانی  
+Word,w1,Survival,بقا / زندہ رہنے کی شرح  
+Word,w17,Sweden,سویڈن  
+Word,w5,Systemic Chemotherapy,سسٹمک  کیمیائی علاج  
+Word,w48,Systemic Therapy,سسٹمک علاج  
+Word,w23,Systemic disease,سسٹمک بیماری  
+Word,w21,T3 invasion,T3 حملہ  
+Word,w37,T4 (extension),T4 (توسیع)  
+Word,w13,T4 disease,T4 بیماری  
+Word,w28,Testing Interval,ٹیسٹنگ وقفہ  
+Word,w6,Thermography,تھرموگرافی  
+Word,w24,Third-line chemotherapy,تھرڈ لائن  کیمیائی علاج  
+Word,w4,Topotecan,ٹوپوٹیکن  
+Word,w10,Transarterial chemoembolization,ٹرانس آرٹیریل  کیمیائی ایمبولائزیشن  
+Word,w18,Trastuzumab,ٹراسٹوزوماب  
+Word,w15,Treatment Options,علاج کے اختیارات  
+Word,w22,Treatment Toxicity,علاج کا زہریلا پن  
+Word,w22,Treatment-related factors,علاج سے متعلقہ عوامل  
+Word,w3,Treatments,علاج  
+Word,w9,Tubular,نلی دار  
+Word,w15,Tubulovillous,نلکی و پُرزیہ دار
+Word,w23,Tumor Characteristics,رسولی کی خصوصیات
+Word,w3,Tumor Location,رسولی کا مقام  
+Word,w23,Tumor Location,رسولی کا مقام  
+Word,w30,Tumor size,رسولی کا سائز  
+Word,w26,Typical carcinoid,عام کارسینوائڈ  
+Word,w5,Tyrosinemia,ٹائروسینیمیا  
+Word,w11,Ultrasonography,الٹراسونوگرافی  
+Word,w35,Unclassified carcinoma,غیر درجہ بند کارسینوما  
+Word,w24,Undifferentiated carcinoma,غیر متعین کارسینوما  
+Word,w24,United Kingdom,برطانیہ  
+Word,w15,United States,ریاستہائے متحدہ  
+Word,w10,Unknown,نامعلوم  
+Word,w20,Unrehydrated: 1.0%,ان ری ہائیڈریٹڈ: 1.0%  
+Word,w31,Unrehydrated: 1.9%,ان ری ہائیڈریٹڈ: 1.9%  
+Word,w26,Unrehydrated: 2.1%,ان ری ہائیڈریٹڈ: 2.1%  
+Word,w29,Unrehydrated: 2.4%,ان ری ہائیڈریٹڈ: 2.4%  
+Word,w39,Unresectable disease,غیر قابل سرجری بیماری  
+Word,w6,Unusual,غیر معمولی  
+Word,w7,"Upper, middle","اوپر، درمیان"  
+Word,w20,Uterine cancer,بچہ دانی کا سرطان  
+Word,w6,VTE,وی ٹی ای (وینس تھرومبوایمبولزم)  
+Word,w9,Variants,ورژنز/متبادل شکلیں  
+Word,w42,Vascular invasion,واسکولر حملہ  
+Word,w12,Vascular involvement,واسکولر ملوثیت  
+Word,w15,Vasomotor symptoms,واسوموٹر علامات  
+Word,w7,Villous,ولس  
+Word,w4,Vitamins,وٹامنز  
+Word,w8,Weakness,کمزوری  
+Word,w21,Weight gain,وزن میں اضافہ  
+Word,w18,Weight loss,وزن میں کمی  
+Word,w10,Western Africa,مغربی افریقہ  
+Word,w24,Young women,جوان خواتین  
+Word,w8,cancer prevention,سرطان کی روک تھام  
+Word,w32,childhood hepatoblastoma,بچپن کا ہیپاٹوبلاسٹوما  
+Word,w11,colon cancer,قولون سرطان  
+Word,w13,drinking water,پینے کا پانی  
+Word,w19,extensive-stage SCLC,وسیع مرحلے کا ایس سی ایل سی  
+Word,w43,grade 1,گریڈ 1  
+Word,w49,grade 1–2,گریڈ 1–2  
+Word,w55,grade 2–3,گریڈ 2–3  
+Word,w13,limited-stage SCLC,محدود مرحلے کا ایس سی ایل سی  
+Word,w26,mTOR Inhibitors,ایم ٹی او آر انہیبیٹرز  
+Word,w53,metastatic cancer,میٹاسٹیٹک سرطان  
+Word,w4,negative,منفی  
+Word,w30,occult NSCLC,پوشیدہ این ایس سی ایل سی  
+Word,w12,positive,مثبت  
+Word,w16,rectal cancer,مستقیمی سرطان  
+Word,w36,recurrent NSCLC,بار بار ہونے والا این ایس سی ایل سی  
+Phrase,p1,Rofecoxib 25 mg/qd,روفی کوکسیب 25 ملی گرام/روزانہ  
+Phrase,p2,Chemoprevention sporadic adenoma, کیمیائی پریوینشن اتفاقی غدودی رسولی  
+Phrase,p3,Nonsteroidal anti-inflammatory drugs,نان اسٹیرایڈل سوزش کی دوائیں  
+Phrase,p4,Definition of prevention,روک تھام کی تعریف  
+Phrase,p5,Use of statins,سٹیٹنز کا استعمال  
+Phrase,p6,External Validity: N/A,خارجی توثیق: لاگو نہیں  
+Phrase,p7,Excessive alcohol use,ضرورت سے زیادہ شراب کا استعمال  
+Phrase,p8,Risk increases with age,خطرہ عمر کے ساتھ بڑھتا ہے  
+Phrase,p9,Naproxen seemed least harmful,نیپروکسن سب سے کم نقصان دہ لگا  
+Phrase,p10,Study Design: Cohort studies,مطالعہ کا ڈیزائن: کوہورٹ مطالعہ  
+Phrase,p11,Postmenopausal female hormone supplements,پوسٹ مینوپازل خواتین کے ہارمون تکمیلات  
+Phrase,p12,RCTs have been consistent,آر سی ٹیز مسلسل رہے ہیں  
+Phrase,p13,Colorectal Cancer (PDQ®): Prevention,قولون و مستقیمی سرطان (PDQ®): روک تھام  
+Phrase,p14,Who is at Risk,خطرے میں کون ہے  
+Phrase,p15,Study Design: Evidence from RCTs,مطالعہ کا ڈیزائن: آر سی ٹیز سے شواہد  
+Phrase,p16,Hormone therapy (estrogen plus progestin),ہارمون علاج (ایسٹروجن + پروجیسٹرون)  
+Phrase,p17,Internal Validity: Not applicable (N/A),(N/A) داخلی توثیق: لاگو نہیں   
+Phrase,p18,Nested case-control study all users,گنجان شدہ کیس کنٹرول مطالعہ (تمام صارفین)  
+Phrase,p19,"Dietary fiber, vegetables, and fruit","غذائی ریشہ، سبزیاں اور پھل"  
+Phrase,p20,Study Design: Cohort and RCTs,مطالعہ کا ڈیزائن: کوہورٹ اور آر سی ٹیز  
+Phrase,p21,Dietary fat and meat intake,غذائی چربی اور گوشت کا استعمال  
+Phrase,p22,Validity of dietary questionnaires used,غذائی سوالناموں کی توثیق  
+Phrase,p23,Study Design: Large cohort studies,مطالعہ کا ڈیزائن: بڑے کوہورٹ مطالعہ  
+Phrase,p24,Study Design: Meta-analyses of RCTs,مطالعہ کا ڈیزائن: آر سی ٹیز کا میٹا تجزیہ  
+Phrase,p25,Study Design: One-hundred six observational studies,مطالعہ کا ڈیزائن: 106 مشاہداتی مطالعہ  
+Phrase,p26,Etiology and pathogenesis of colorectal cancer,قولون و مستقیمی سرطان کی اسباب اور بیماری کی تشکیل  
+Phrase,p27,Study Design: Cohort studies and meta-analysis,مطالعہ کا ڈیزائن: کوہورٹ مطالعہ اور میٹا تجزیہ  
+Phrase,p28,Study Design: One randomized controlled trial,مطالعہ کا ڈیزائن: ایک رینڈمائزڈ کنٹرول تجربہ  
+Phrase,p29,Rofecoxib <25 mg/qd; rofecoxib >25 mg/qd,روفی کوکسیب <25 ملی گرام/روزانہ؛ روفی کوکسیب >25 ملی گرام/روزانہ  
+Phrase,p30,"Sporadic adenoma prevention trial (N = 2035)",(N = 2035) اتفاقی غدودی رسولی کی روک تھام تجربہ   
+Phrase,p31,Study Design: Evidence obtained from large databases,مطالعہ کا ڈیزائن: بڑے ڈیٹا بیس سے حاصل شواہد  
+Phrase,p32,The overall 5-year survival rate is 64%,کل 5 سالہ بقا کی شرح 64% ہے  
+Phrase,p33,Study Design: Evidence from retrospective cohort studies,مطالعہ کا ڈیزائن: ریٹروسپیکٹو کوہورٹ مطالعہ سے شواہد  
+Phrase,p34,Celecoxib 200 mg/qd vs 400 mg bid,سیلیکوکسیب 200 ملی گرام/روزانہ بمقابلہ 400 ملی گرام/دن میں دو بار  
+Phrase,p35,"External Validity: Good, data from national databases","خارجی توثیق: اچھی، قومی ڈیٹا بیس سے ڈیٹا"  
+Phrase,p36,Study Design: Extended follow-up of four RCTs, مطالعہ کا ڈیزائن: چار آر سی ٹیز کا توسیعی پیروی    
+Phrase,p37,The analysis did not include fiber supplements,تجزیہ میں ریشہ تکمیلات شامل نہیں تھے  
+Phrase,p1,Arm B: fluoropyrimidine/oxaliplatin/cetuximab,بازو بی: فلوروپیریمڈین/آکسیلی پلاٹینم/سیٹکسماب  
+Phrase,p2,Endocavitary radiation therapy,اینڈوکیوٹری ریڈی ایشن علاج  
+Phrase,p3,Definitions of TNM,کی تعریفات TNM
+Phrase,p4,Gastrointestinal stromal tumor,معدہ و آنت کا سٹرومل رسولی  
+Phrase,p5,Arm A: fluoropyrimidine/oxaliplatin,بازو اے: فلوروپیریمڈین/آکسیلی پلاٹینم  
+Phrase,p6,Incidence and Mortality,واقعات اور اموات  
+Phrase,p7,Local radiation therapy,مقامی ریڈی ایشن علاج  
+Phrase,p8,Mantle cell lymphoma,مینٹل سیل لیمفوما  
+Phrase,p9,Preoperative Chemoradiation Therapy,سرجری سے پہلے کی  کیمیائی ریڈی ایشن علاج  
+Phrase,p10,recurrent rectal cancer,بار بار ہونے والا مستقیمی سرطان  
+Phrase,p11,Burkitt-like/atypical Burkitt lymphoma,برکٹ جیسا/غیر معمولی برکٹ لیمفوما  
+Phrase,p12,Metastatic Rectal Cancer,میٹاسٹیٹک مستقیمی سرطان  
+Phrase,p13,Change in appetite,بھوک میں تبدیلی  
+Phrase,p14,Genetic risk factors,جینیاتی خطرے کے عوامل  
+Phrase,p15,First-line multiagent chemotherapy,پہلی لائن کثیر ادویہ  کیمیائی علاج  
+Phrase,p16,A clinical trial,ایک کلینیکل ٹرائل  
+Phrase,p17,Prone patient positioning,مریض کو پیٹ کے بل لٹانا  
+Phrase,p18,Palliative radiation therapy,تسکینی ریڈی ایشن علاج  
+Phrase,p19,Signet-ring cell carcinoma,سگنٹ-رنگ سیل کارسینوما  
+Phrase,p20,Other risk factors,دیگر خطرے کے عوامل  
+Phrase,p21,Rectal Cancer (PDQ®): Treatment,مستقیمی سرطان (PDQ®): علاج  
+Phrase,p22,stage III rectal cancer,مرحلہ III مستقیمی سرطان  
+Phrase,p23,stage I rectal cancer,مرحلہ I مستقیمی سرطان  
+Phrase,p24,Hereditary mixed polyposis syndrome,خاندانی مخلوط پولیپوسس سنڈروم  
+Phrase,p25,Stage II Rectal Cancer,مرحلہ II مستقیمی سرطان  
+Phrase,p26,Clinical Presentation and Symptoms,کلینیکل پیشکش اور علامات  
+Phrase,p27,Capecitabine with radiation therapy,کیپیسیٹابین کے ساتھ ریڈی ایشن علاج  
+Phrase,p28,Systemic chemotherapy (see below),سسٹمک  کیمیائی علاج (نیچے ملاحظہ کریں)  
+Phrase,p29,Locally Recurrent Rectal Cancer,مقامی طور پر بار بار ہونے والا مستقیمی سرطان  
+Phrase,p30,Stage I Rectal Cancer,مرحلہ I مستقیمی سرطان  
+Phrase,p31,Change in bowel habits,پاخانے کی عادات میں تبدیلی  
+Phrase,p32,Clinical Evaluation and Staging,کلینیکل تشخیص اور مرحلہ بندی  
+Phrase,p33,Arm C: intermittent fluoropyrimidine/oxaliplatin,آرم سی: انٹرمیٹنٹ فلوروپیریمڈین/آکسیلی پلاٹینم  
+Phrase,p34,Cowden syndrome: PTEN gene,کاؤڈن سنڈروم: پی ٹی ای این جین  
+Phrase,p35,stage IV rectal cancer,مرحلہ IV مستقیمی سرطان  
+Phrase,p36,Low-grade glandular intraepithelial neoplasia,کم گریڈ غدودی انٹراایپی تھیلیئل نیوپلازیا  
+Phrase,p37,Cetuximab/Panitumumab and Second-Line Chemotherapy,سیٹکسماب/پینیٹوموماب اور دوسری لائن  کیمیائی علاج  
+Phrase,p38,Table 1. Primary Tumor,ٹیبل 1۔ پرائمری رسولی  
+Phrase,p39,stage II rectal cancer,مرحلہ II مستقیمی سرطان  
+Phrase,p40,stage 0 rectal cancer,مرحلہ 0 مستقیمی سرطان  
+Phrase,p41,Genetics of Colorectal Cancer,قولون و مستقیمی سرطان کی جینیات  
+Phrase,p42,High-grade glandular intraepithelial neoplasia,اعلیٰ گریڈ غدودی انٹراایپی تھیلیئل نیوپلازیا  
+Phrase,p43,Stage 0 Rectal Cancer,مرحلہ 0 مستقیمی سرطان  
+Phrase,p44,Ruvalcaba–Myhre–Smith syndrome: PTEN gene,روالکابا–مائیر–سمتھ سنڈروم: پی ٹی ای این جین  
+Phrase,p45,Tumor invades muscularis propria,رسولی نے عضلہ پروپریا پر حملہ کیا  
+Phrase,p46,Addition of radiation therapy,ریڈی ایشن علاج کا اضافہ  
+Phrase,p47,Diffuse large B-cell lymphoma,ڈفیوز لارج بی سیل لیمفوما  
+Phrase,p48,Stage III Rectal Cancer,مرحلہ III مستقیمی سرطان  
+Phrase,p49,"Enterochromaffin (EC)-cell, serotonin-producing neoplasm","اینٹروکرومافن (EC) سیل، سیروٹونن بنانے والا نیوپلازما"  
+Phrase,p50,Oxaliplatin with chemoradiation therapy,آکسیلی پلاٹینم کے ساتھ  کیمیائی ریڈی ایشن علاج  
+Phrase,p51,General Information About Rectal Cancer,مستقیمی سرطان کے بارے میں عمومی معلومات  
+Phrase,p52,Polypectomy for select T1 cancers,مخصوص T1 سرطان کے لیے پولپیکٹومی  
+Phrase,p53,No regional lymph node metastasis,علاقائی لمف نوڈس کا میٹاسٹیسیز نہیں  
+Phrase,p54,Clinical trials evaluating new drugs,نئی ادویات کا جائزہ لینے والے کلینیکل تجربہ  
+Phrase,p55,Table 4. Anatomic Stage/Prognostic Groups,ٹیبل 4۔ اناٹومک مرحلہ/پیش گوئی گروپس  
+Phrase,p56,Chemotherapy alone for local control,مقامی کنٹرول کے لیے صرف  کیمیائی علاج  
+Phrase,p57,Stage Information for Rectal Cancer,مستقیمی سرطان کی مرحلہ وار معلومات  
+Phrase,p58,German Rectal Cancer Study Group,جرمن مستقیمی سرطان اسٹڈی گروپ  
+Phrase,p59,Local excision or simple polypectomy,مقامی استصال یا سادہ پولپیکٹومی  
+Phrase,p60,Peutz-Jeghers syndrome: STK11 / LKB1 gene,پیوٹز جیگرز سنڈروم: ایس ٹی کے 11 / ایل کے بی 1 جین  
+Phrase,p61,Turcot syndrome: APC gene; MMR genes,ٹرکوٹ سنڈروم: اے پی سی جین؛ ایم ایم آر جینز  
+Phrase,p62,Metastases in 4–6 regional lymph nodes,4–6 علاقائی لمف نوڈس میں میٹاسٹیسیز  
+Phrase,p63,Metastases in ≥7 regional lymph nodes,≥7 علاقائی لمف نوڈس میں میٹاسٹیسیز  
+Phrase,p64,The use of high-energy radiation machines,اعلی توانائی تابکاری مشینوں کا استعمال  
+Phrase,p65,Familial adenomatous polyposis (FAP): APC gene,خاندانی ایڈینومیٹس پولیپوسس (FAP): اے پی سی جین  
+Phrase,p66,Metastases in 1–3 regional lymph nodes,1–3 علاقائی لمف نوڈس میں میٹاسٹیسیز  
+Phrase,p67,Metastases in ≥4 regional lymph nodes,≥4 علاقائی لمف نوڈس میں میٹاسٹیسیز  
+Phrase,p68,The use of multiple pelvic fields,کئی پیلوک فیلڈز کا استعمال  
+Phrase,p69,"New cases: 40,340 (rectal cancer only)","نئے کیسز: 40,340 (صرف مستقیمی سرطان)"  
+Phrase,p70,MAC is the modified Astler-Coller classification,ایم اے سی ترمیم شدہ اسٹلر کولر درجہ بندی ہے  
+Phrase,p71,Metastasis in 1 regional lymph node,1 علاقائی لمف نوڈ میں میٹاسٹیسیز  
+Phrase,p72,"Palliative, endoscopic-placed stents to relieve obstruction","تسکینی، رکاوٹ دور کرنے کے لیے اینڈوسکوپک اسٹینٹس"  
+Phrase,p73,To detect new or metachronous malignancies,نئے یا میٹاکرونس میلگنینسیز کا پتہ لگانا  
+Phrase,p74,Metastases in 2–3 regional lymph nodes,2–3 علاقائی لمف نوڈس میں میٹاسٹیسیز  
+Phrase,p75,Perforation or obstruction of the bowel,آنتوں میں سوراخ یا رکاوٹ  
+Phrase,p76,Presence or absence of distant metastases,دور میٹاسٹیسیز کی موجودگی یا غیر موجودگی  
+Phrase,p77,Table 2. Regional Lymph Nodes (N),ٹیبل 2۔ علاقائی لمف نوڈس (این)  
+Phrase,p78,Patients receiving panitumumab experienced improved OS,پینیٹوموماب لینے والے مریضوں میں کل بقا بہتر ہوئی  
+Phrase,p79,Stage IV and Recurrent Rectal Cancer,مرحلہ IV اور بار بار ہونے والا مستقیمی سرطان  
+Phrase,p80,Cellular Classification and Pathology of Rectal Cancer,مستقیمی سرطان کی سیلولر درجہ بندی اور پیتھالوجی  
+Phrase,p81,Resection of isolated pulmonary or ovarian metastases,الگ تھلگ پھیپھڑوں یا بیضہ دانی کے میٹاسٹیسیز کی ریسکشن  
+Phrase,p82,Hyperplastic polyposis syndrome: BRAF and KRAS2 genes,ہائپرپلاسٹک پولیپوسس سنڈروم: بی آر اے ایف اور کے آر اے ایس 2 جینز  
+Phrase,p83,Adjuvant chemotherapy following chemoradiation therapy and surgery, کیمیائی ریڈی ایشن علاج اور سرجری کے بعد ایجوانٹ  کیمیائی علاج  
+Phrase,p84,Adherence to or invasion of adjacent organs,قریبی اعضاء سے چپکاؤ یا حملہ  
+Phrase,p85,Capecitabine plus weekly oxaliplatin with radiation therapy,کیپیسیٹابین کے ساتھ ہفتہ وار آکسیلی پلاٹینم اور ریڈی ایشن علاج  
+Phrase,p86,To assess the efficacy of initial therapy,ابتدائی علاج کی کارکردگی کا جائزہ لینا  
+Phrase,p87,"Deaths: 50,830 (colon and rectal cancers combined)","اموات: 50,830 (قولون اور مستقیمی سرطان ملا کر)"  
+Phrase,p88,Attenuated familial adenomatous polyposis (AFAP): APC gene,کم شدت خاندانی ایڈینومیٹس پولیپوسس (AFAP): اے پی سی جین  
+Phrase,p89,The Role of Oxaliplatin for Localized Disease,مقامی بیماری میں آکسیلی پلاٹینم کا کردار  
+Phrase,p90,Metastases in >1 organ/site or the peritoneum,>1 عضو/مقام یا پیٹ کی جھلی میں میٹاسٹیسیز  
+Phrase,p1,Infected drinking water,آلودہ پینے کا پانی  
+Phrase,p2,Hepatitis C virus,جگر کی سوزش سی کا وائرس
+Phrase,p3,Mode of Transmission,طریقہ انتقال  
+Phrase,p4,Hepatitis B virus,جگر کی سوزش بی کا وائرس
+Phrase,p5,Dominant Geographical Areas,غالب جغرافیائی علاقے  
+Phrase,p6,No virus confirmed,کوئی وائرس تصدیق شدہ نہیں  
+Phrase,p7,Full recovery (usually),مکمل صحتیابی (عام طور پر)  
+Phrase,p8,Hepatic Virus Types,جگر کے وائرس کی اقسام  
+Phrase,p9,To be determined,طے شدہ ہونا باقی  
+Phrase,p10,Evidence of Benefit,فائدے کے شواہد  
+Phrase,p11,Liver (Hepatocellular) Cancer Prevention,جگر (ہیپاٹوسیلولر) سرطان کی روک تھام  
+Phrase,p12,Liver (Hepatocellular) Cancer Screening,جگر (ہیپاٹوسیلولر) سرطان کی اسکریننگ  
+Phrase,p13,Hepatitis B and C,جگر کی سوزش بی اور سی کے وائرس
+Phrase,p14,Prevention of Hepatitis B,جگر کی سوزش بی کی روک تھام
+Phrase,p15,Cirrhosis and other factors,سروسس اور دیگر عوامل  
+Phrase,p16,"Incidence (per 100000 population)",واقعات (فی 100000 آبادی)  
+Phrase,p17,Adapted from Russo et al,روسو ایٹ ال سے ماخوذ  
+Phrase,p18,Liver (Hepatocellular) Cancer (PDQ®): Prevention,جگر (ہیپاٹوسیلولر) سرطان (PDQ®): روک تھام  
+Phrase,p19,"Body fluids, e.g., blood, semen","جسمانی رطوبتیں (مثلاً خون، منی)"  
+Phrase,p20,Little or no association with cancer,کم یا کوئی سرطان کے ساتھ تعلق  
+Phrase,p21,It is a sexually transmitted disease,یہ ایک جنسی طور پر منتقل ہونے والی بیماری ہے  
+Phrase,p22,Table 3. Likely Etiology of Hepatocellular Carcinoma,ٹیبل 3۔ ہیپاٹوسیلولر کارسینوما کے ممکنہ اسباب  
+Phrase,p23,Hepatitis B Vaccine to Prevent Hepatocellular Cancer,ہیپاٹائٹس بی ویکسین: ہیپاٹوسیلولر سرطان کی روک تھام  
+Phrase,p24,Viruses Associated With Hepatitis and/or Hepatocellular Cancer,وائرسز: ہیپاٹائٹس اور/یا ہیپاٹوسیلولر سرطان کے ساتھ منسلک  
+Phrase,p25,Hepatitis D causes swelling of the liver,ہیپاٹائٹس ڈی جگر کی سوجن کا سبب  
+Phrase,p1,Evidence (laparoscopic techniques):,شواہد (لیپروسکوپک ٹیکنالوجیز):  
+Phrase,p2,recurrent colon cancer,بار بار ہونے والا قولون سرطان  
+Phrase,p3,Standard Treatment Options,معیاری علاج کے اختیارات  
+Phrase,p4,Palliative radiation therapy,تسکینی ریڈی ایشن علاج  
+Phrase,p5,Signet ring adenocarcinoma,سگنٹ رنگ ایڈینوکارسینوما  
+Phrase,p6,stage IV colon cancer,مرحلہ IV قولون سرطان  
+Phrase,p7,Inadequate lymph node sampling,لمف نوڈس کا ناکافی نمونہ  
+Phrase,p8,stage 0 colon cancer,مرحلہ 0 قولون سرطان  
+Phrase,p9,A poorly differentiated histology,ناکافی تفریق شدہ ہسٹالوجی  
+Phrase,p10,Stage 0 colon cancer,مرحلہ 0 قولون سرطان  
+Phrase,p11,Chemotherapy regimens after 2000,2000 کے بعد کے  کیمیائی علاج طریقہ علاج  
+Phrase,p12,Stage II Colon Cancer,مرحلہ II قولون سرطان  
+Phrase,p13,stage II colon cancer,مرحلہ II قولون سرطان  
+Phrase,p14,stage I colon cancer,مرحلہ I قولون سرطان  
+Phrase,p15,Treatment options by stage,مرحلے کے لحاظ سے علاج کے اختیارات  
+Phrase,p16,Stage III colon cancer,مرحلہ III قولون سرطان  
+Phrase,p17,Stage IV colon cancer,مرحلہ IV قولون سرطان  
+Phrase,p18,stage III colon cancer,مرحلہ III قولون سرطان  
+Phrase,p19,Colon Cancer (PDQ®): Treatment,قولون سرطان (PDQ®): علاج  
+Phrase,p20,Treatment of Liver Metastasis,جگر کی میٹاسٹیسیز کا علاج  
+Phrase,p21,Stage I Colon Cancer,مرحلہ I قولون سرطان  
+Phrase,p22,Adenocarcinoma (most colon cancers),ایڈینوکارسینوما (زیادہ تر قولون سرطان)  
+Phrase,p23,Stage III Colon Cancer,مرحلہ III قولون سرطان  
+Phrase,p24,Stage 0 Colon Cancer,مرحلہ 0 قولون سرطان  
+Phrase,p25,Chemotherapy and targeted therapy, کیمیائی علاج اور ہدف شدہ علاج  
+Phrase,p26,Stage 0 Colon Cancer Treatment,مرحلہ 0 قولون سرطان کا علاج  
+Phrase,p27,Stage Information for Colon Cancer,قولون سرطان کی مرحلہ وار معلومات  
+Phrase,p28,T1 = Tumor invades submucosa,T1 = رسولی نے سب میوکوسا پر حملہ کیا  
+Phrase,p29,Cellular Classification of Colon Cancer,قولون سرطان کی سیلولر درجہ بندی  
+Phrase,p30,Chemotherapy regimens prior to 2000,2000 سے پہلے کے  کیمیائی علاج طریقہ علاج  
+Phrase,p31,Stage II Colon Cancer Treatment,مرحلہ II قولون سرطان کا علاج  
+Phrase,p32,These groups include the following:,ان گروپس میں مندرجہ ذیل شامل ہیں:  
+Phrase,p33,Wide surgical resection and anastomosis,وسیع سرجیکل ریسکشن اور انسٹاموسس  
+Phrase,p34,Involvement of the visceral peritoneum,حشوی پیٹ کی جھلی کی ملوثیت  
+Phrase,p35,Stage III Colon Cancer Treatment,مرحلہ III قولون سرطان کا علاج  
+Phrase,p36,Treatment Options Under Clinical Evaluation,کلینیکل تشخیص میں زیرِ غور علاج کے اختیارات  
+Phrase,p37,"Any T, Any N, M1b","کوئی بھی T، کوئی بھی N، M1b"  
+Phrase,p38,Treatment options for recurrent cancer,بار بار ہونے والے سرطان کے لیے علاج کے اختیارات  
+Phrase,p39,Stage I Colon Cancer Treatment,مرحلہ I قولون سرطان کا علاج  
+Phrase,p40,M0 = No distant metastasis,M0 = دور میٹاسٹیسیز نہیں  
+Phrase,p41,General Information About Colon Cancer,قولون سرطان کے بارے میں عمومی معلومات  
+Phrase,p42,"Any T, Any N, M1a","کوئی بھی T، کوئی بھی N، M1a"  
+Phrase,p43,Evidence (5-FU alone and 5-FU-semustine):,شواہد (5-ایف یو اکیلے اور 5-ایف یو-سیموسٹین):  
+Phrase,p44,Treatment Option Overview for Colon Cancer,قولون سرطان کے علاج کے اختیارات کا جائزہ  
+Phrase,p45,T2 = Tumor invades muscularis propria,T2 = رسولی نے عضلہ پروپریا پر حملہ کیا  
+Phrase,p46,"New cases: 102480 (colon cancer only)","نئے کیسز: 102480 (صرف قولون سرطان)"  
+Phrase,p47,AJCC Stage Groupings and TNM Definitions,AJCC مرحلہ گروپس اور TNM تعریفات  
+Phrase,p48,Added Aflibercept as a new subsection,نیا ذیلی عنوان: افلیبرسیپٹ کا اضافہ  
+Phrase,p49,Surgical resection of locally recurrent cancer,مقامی طور پر بار بار ہونے والے سرطان کی سرجیکل ریسکشن  
+Phrase,p50,Other prognostic factors include the following:,دیگر پیش گوئی کے عوامل میں مندرجہ ذیل شامل ہیں:  
+Phrase,p51,MAC is the modified Astler-Coller classification,MAC ترمیم شدہ اسٹلر-کولر درجہ بندی ہے  
+Phrase,p52,Stage IV and Recurrent Colon Cancer Treatment,مرحلہ IV اور بار بار ہونے والے قولون سرطان کا علاج  
+Phrase,p53,Table 4. Definitions of TNM Stage III,ٹیبل 4۔ ٹی این ایم مرحلہ III کی تعریفات  
+Phrase,p54,T0 = No evidence of primary tumor,T0 = پرائمری رسولی کا کوئی ثبوت نہیں  
+Phrase,p55,Table 1. Definitions of TNM Stage 0,ٹیبل 1۔ ٹی این ایم مرحلہ 0 کی تعریفات  
+Phrase,p56,Table 3. Definitions of TNM Stage II,ٹیبل 3۔ ٹی این ایم مرحلہ II کی تعریفات  
+Phrase,p57,Levamisole alone did not confer these benefits,لیوامیسول اکیلے نے یہ فوائد نہیں دیے  
+Phrase,p58,"Deaths: 50830 (colon and rectal cancers combined)","اموات: 50830 (قولون اور مستقیمی سرطان ملا کر)"  
+Phrase,p59,The presence or absence of nodal involvement,لمف نوڈس کی ملوثیت کی موجودگی یا عدم موجودگی  
+Phrase,p60,N0 = No regional lymph node metastasis,N0 = علاقائی لمف نوڈ میٹاسٹیسیز نہیں  
+Phrase,p61,Table 5. Definitions of TNM Stage IV,ٹیبل 5۔ ٹی این ایم مرحلہ IV کی تعریفات  
+Phrase,p62,TX = Primary tumor cannot be assessed,TX = پرائمری رسولی کا جائزہ نہیں لیا جا سکتا  
+Phrase,p63,Table 2. Definitions of TNM Stage I,ٹیبل 2۔ ٹی این ایم مرحلہ I کی تعریفات  
+Phrase,p64,Added Third-line chemotherapy as a new subsection,نیا ذیلی عنوان: تھرڈ لائن  کیمیائی علاج کا اضافہ  
+Phrase,p65,The presence or absence of distant metastases,دور میٹاسٹیسیز کی موجودگی یا عدم موجودگی  
+Phrase,p1,Esophageal Cancer Screening,غذائی نالی کے سرطان کی اسکریننگ  
+Phrase,p2,Evidence of Harm,نقصان کے شواہد  
+Phrase,p3,Squamous Cell Cancer,سکوامس سیل سرطان  
+Phrase,p4,Esophageal Cancer (PDQ®): Screening,غذائی نالی کا سرطان (PDQ®): اسکریننگ  
+Phrase,p5,Internal Validity : Fair,داخلی توثیق: معتدل  
+Phrase,p6,Consistency : Multiple studies,استحکام: متعدد مطالعہ  
+Phrase,p7,External Validity : Poor,خارجی توثیق: کم  
+Phrase,p8,"Natural History, Incidence, and Mortality","طبی تاریخ، واقعات، اور اموات"  
+Phrase,p9,The epidemiology of these types varies markedly,ان اقسام کی ایپیڈیمولوجی نمایاں طور پر مختلف ہے  
+Phrase,p1,"New cases: 2240","نئے کیسز: 2240"  
+Phrase,p2,male breast cancer,مردوں کے چھاتی کا سرطان  
+Phrase,p3,Initial Surgical Management,ابتدائی سرجیکل انتظام  
+Phrase,p4,Locally Recurrent Disease,مقامی طور پر بار بار ہونے والی بیماری  
+Phrase,p5,Trastuzumab (under clinical evaluation),ٹراسٹوزوماب (کلینیکل تشخیص میں)  
+Phrase,p6,Sexuality and Reproductive Issues,جنسیت اور تولیدی مسائل  
+Phrase,p7,Sweats and Hot Flashes,پسینہ اور گرم چمک  
+Phrase,p8,Tamoxifen (under clinical evaluation),ٹاموکسفین (کلینیکل تشخیص میں)  
+Phrase,p9,Male Breast Cancer (PDQ®): Treatment,مردوں کے چھاتی کے سرطان (PDQ®): علاج  
+Phrase,p10,Tamoxifen for estrogen receptor–positive patients,ایسٹروجن ریسیپٹر-پازیٹو مریضوں کے لیے ٹاموکسفین  
+Phrase,p11,"Initially, hormonal therapy is recommended","ابتدائی طور پر ہارمونل علاج کی سفارش کی جاتی ہے"  
+Phrase,p12,Male breast cancer is rare,مردوں کے چھاتی کا سرطان نایاب ہے  
+Phrase,p13,CAF: cyclophosphamide plus doxorubicin plus fluorouracil,CAF: سائیکلوفاسفامائیڈ + ڈوکسوروبیسن + فلوروراسل  
+Phrase,p14,CMF: cyclophosphamide plus methotrexate plus fluorouracil,CMF: سائیکلوفاسفامائیڈ + میتھوٹریکسٹیٹ + فلوروراسل  
+Phrase,p15,General Information About Male Breast Cancer,مردوں کے چھاتی کے سرطان کے بارے میں عمومی معلومات  
+Phrase,p16,Hormonal therapies may be used sequentially,ہارمونل علاجات کو ترتیب سے استعمال کیا جا سکتا ہے  
+Phrase,p17,Treatment Options for Male Breast Cancer,مردوں کے چھاتی کے سرطان کے لیے علاج کے اختیارات  
+Phrase,p18,Intraductal cancer has been described as well,انٹرادکٹل سرطان بھی بیان کیا گیا ہے  
+Phrase,p1,Nausea and Vomiting,متلی اور الٹی  
+Phrase,p2,Benefit of chemotherapy, کیمیائی علاج کے فوائد  
+Phrase,p3,Docetaxel and capecitabine,ڈوکیٹیکسل اور کیپیسیٹابین  
+Phrase,p4,Adjuvant Systemic Therapy,ایجوانٹ سسٹمک علاج  
+Phrase,p5,Sentinel node biopsy,سینٹینل نوڈ بائیوپسی  
+Phrase,p6,Docetaxel plus trastuzumab,ڈوکیٹیکسل پلس ٹراسٹوزوماب  
+Phrase,p7,Treatment Option Overview,علاج کے اختیارات کا جائزہ  
+Phrase,p8,Lapatinib plus paclitaxel,لیپٹینب پلس پاکلیٹیکسل  
+Phrase,p9,Diagnostics and Survival,تشخیص اور بقا  
+Phrase,p10,Pertuzumab plus trastuzumab,پرٹوزوماب پلس ٹراسٹوزوماب  
+Phrase,p11,"New cases: 235030","نئے کیسز: 235030"  
+Phrase,p12,None or tamoxifen,کوئی نہیں یا ٹاموکسفین  
+Phrase,p13,Triple-Negative Breast Cancer,ٹرپل نیگیٹو چھاتی کا سرطان  
+Phrase,p14,Preoperative neoadjuvant chemotherapy,سرجری سے پہلے کی نیوایڈجوینٹ  کیمیائی علاج  
+Phrase,p15,Postoperative adjuvant chemotherapy,سرجری کے بعد کی ایجوانٹ  کیمیائی علاج  
+Phrase,p16,Post-breast conservation surgery,چھاتی کے تحفظ کی سرجری کے بعد  
+Phrase,p17,Vinorelbine and epirubicin,وینوریلبین اور ایپیروبیسن  
+Phrase,p18,triple-negative breast cancer,ٹرپل نیگیٹو چھاتی کا سرطان  
+Phrase,p19,Capecitabine and ixabepilone,کیپیسیٹابین اور ایکسابیپیلون  
+Phrase,p20,Tamoxifen toxic effects,ٹاموکسفین کے زہریلے اثرات  
+Phrase,p21,Docetaxel plus pertuzumab,ڈوکیٹیکسل پلس پرٹوزوماب  
+Phrase,p22,recurrent breast cancer,بار بار ہونے والا چھاتی کا سرطان  
+Phrase,p23,–M0 includes M0(i+),–M0 میں M0(i+) شامل ہے  
+Phrase,p24,inflammatory breast cancer,سوزش والا چھاتی کا سرطان  
+Phrase,p25,Tamoxifen and chemotherapy,ٹاموکسفین اور  کیمیائی علاج  
+Phrase,p26,Lapatinib plus capecitabine,لیپٹینب پلس کیپیسیٹابین  
+Phrase,p27,Docetaxel and doxorubicin,ڈوکیٹیکسل اور ڈوکسوروبیسن  
+Phrase,p28,Doxorubicin and paclitaxel,ڈوکسوروبیسن اور پاکلیٹیکسل  
+Phrase,p29,Timing of surgery,سرجری کا وقت  
+Phrase,p30,Incidence and Mortality,واقعات اور اموات  
+Phrase,p31,Lapatinib plus trastuzumab,لیپٹینب پلس ٹراسٹوزوماب  
+Phrase,p32,Overview of Chemotherapy, کیمیائی علاج کا جائزہ  
+Phrase,p33,Hormone Replacement Therapy,ہارمون ریپلیسمنٹ علاج  
+Phrase,p34,T1 includes T1mi,T1 میں T1mi شامل ہے  
+Phrase,p35,Docetaxel and cyclophosphamide,ڈوکیٹیکسل اور سائیکلوفاسفامائیڈ  
+Phrase,p36,Positive axillary nodes,مثبت بغلی لمف نوڈس  
+Phrase,p37,"CMF: cyclophosphamide, methotrexate, 5-fluorouracil","CMF: سائیکلوفاسفامائیڈ، میتھوٹریکسٹیٹ، 5-فلوروراسل"  
+Phrase,p38,Large tumors (T2 lesions),بڑے رسولیز (T2 لیژنز)  
+Phrase,p39,"Premenopausal, ER-negative or PR-negative","پری مینوپازل، ای آر-نیگیٹو یا پی آر-نیگیٹو"  
+Phrase,p40,stage IV breast cancer,مرحلہ IV چھاتی کا سرطان  
+Phrase,p41,Results have been inconsistent,نتائج غیر مسلسل رہے ہیں  
+Phrase,p42,Adult Hodgkin Lymphoma Treatment,بالغ ہاڈگکن لیمفوما کا علاج  
+Phrase,p43,Axillary lymph node surgery,بغلی لمف نوڈ کی سرجری  
+Phrase,p44,Ductal Carcinoma In Situ,ڈکٹل کارسینوما ان سیچو  
+Phrase,p45,HER2/neu receptor status testing,HER2/neu ریسیپٹر حالت کی جانچ  
+Phrase,p46,stage II breast cancer,مرحلہ II چھاتی کا سرطان  
+Phrase,p47,"Postmenopausal, ER-negative or PR-negative","پوسٹ مینوپازل، ای آر-نیگیٹو یا پی آر-نیگیٹو"  
+Phrase,p48,Observation after diagnostic biopsy,تشخیصی بائیوپسی کے بعد مشاہدہ  
+Phrase,p49,Sexuality and Reproductive Issues,جنسیت اور تولیدی مسائل  
+Phrase,p50,stage I breast cancer,مرحلہ I چھاتی کا سرطان  
+Phrase,p51,"CAF: cyclophosphamide, doxorubicin, 5-fluorouracil","CAF: سائیکلوفاسفامائیڈ، ڈوکسوروبیسن، 5-فلوروراسل"  
+Phrase,p52,Posttreatment yp M classification,پوسٹ ٹریٹمنٹ وائی پی ایم درجہ بندی  
+Phrase,p53,ER or PR status,ای آر یا پی آر کی حالت  
+Phrase,p54,stage IIIB breast cancer,مرحلہ IIIB چھاتی کا سرطان  
+Phrase,p55,stage IIIC breast cancer,مرحلہ IIIC چھاتی کا سرطان  
+Phrase,p56,Lobular Carcinoma In Situ,لوبیولر کارسینوما ان سیچو  
+Phrase,p57,Prognostic and Predictive Factors,پیش گوئی اور پیشین گوئی کے عوامل  
+Phrase,p58,Level of evidence: 1iiA,شواہد کی سطح: 1iiA  
+Phrase,p59,BRCA1 and BRCA1 mutations,BRCA1 اور BRCA1 میوٹیشنز  
+Phrase,p60,Recurrent local-regional breast cancer,بار بار ہونے والا مقامی-علاقائی چھاتی کا سرطان  
+Phrase,p61,Breast Cancer (PDQ®): Treatment,چھاتی کا سرطان (PDQ®): علاج  
+Phrase,p62,stage IIIA breast cancer,مرحلہ IIIA چھاتی کا سرطان  
+Phrase,p63,Adjuvant radiation and chemotherapy,ایجوانٹ ریڈی ایشن اور  کیمیائی علاج  
+Phrase,p64,CA: cyclophosphamide and doxorubicin,CA: سائیکلوفاسفامائیڈ اور ڈوکسوروبیسن  
+Phrase,p65,Cardiac mortality decreased accordingly,دل کی اموات اسی کے مطابق کم ہوئیں  
+Phrase,p66,Sweats and Hot Flashes,پسینہ اور گرم چمک  
+Phrase,p67,Both T4a and T4b,دونوں T4a اور T4b  
+Phrase,p68,"Premenopausal, ER-positive or PR-positive","پری مینوپازل، ای آر-پازیٹو یا پی آر-پازیٹو"  
+Phrase,p69,"Stroke RR, 1.06 (0.83–1.36)","سٹروک RR, 1.06 (0.83–1.36)"  
+Phrase,p70,Chemotherapy and tamoxifen risks, کیمیائی علاج اور ٹاموکسفین کے خطرات  
+Phrase,p71,Level of evidence: 1iDii,شواہد کی سطح: 1iDii  
+Phrase,p72,"Postmenopausal, ER-positive or PR-positive","پوسٹ مینوپازل، ای آر-پازیٹو یا پی آر-پازیٹو"  
+Phrase,p73,ductal breast carcinoma in situ,چھاتی کا ڈکٹل کارسینوما ان سیچو  
+Phrase,p74,Results are expected in 2016,2016 میں نتائج متوقع ہیں  
+Phrase,p75,General Information About Breast Cancer,چھاتی کے سرطان کے بارے میں عمومی معلومات  
+Phrase,p76,Stage Information for Breast Cancer,چھاتی کے سرطان کی مرحلہ وار معلومات  
+Phrase,p77,Cellular Classification of Breast Cancer,چھاتی کے سرطان کی سیلولر درجہ بندی  
+Phrase,p78,Adult Soft Tissue Sarcoma Treatment,بالغوں کے نرم ٹشو سارکوما کا علاج  
+Phrase,p79,Genetic Characteristics and Risk Factors,جینیاتی خصوصیات اور خطرے کے عوامل  
+Phrase,p80,Stage IV and metastatic disease,مرحلہ IV اور میٹاسٹیٹک بیماری  
+Phrase,p81,"Carcinoma, NOS (not otherwise specified)",کارسینوما، این او ایس (غیر متعین)  
+Phrase,p82,No regional lymph node metastases,علاقائی لمف نوڈ میٹاسٹیسیز نہیں  
+Phrase,p83,Cycle Number and Duration (d),سائیکل نمبر اور مدت (دن)  
+Phrase,p84,Late toxic effects of radiation,تابکاری کے دیرپا زہریلے اثرات  
+Phrase,p85,lobular breast carcinoma in situ,چھاتی کا لوبیولر کارسینوما ان سیچو  
+Phrase,p86,Docetaxel plus trastuzumab and pertuzumab,ڈوکیٹیکسل پلس ٹراسٹوزوماب اور پرٹوزوماب  
+Phrase,p87,"Dose-intensity, dose-density, and high-dose chemotherapy","خورہ کی شدت، کثافت، اور ہائی ڈوز  کیمیائی علاج"  
+Phrase,p88,"Ovarian ablation, tamoxifen, and chemotherapy","بیضہ دانی کی تخریب، ٹاموکسفین، اور  کیمیائی علاج"  
+Phrase,p89,The stage of the disease,بیماری کا مرحلہ  
+Phrase,p90,ER and PR status testing,ای آر اور پی آر کی حالت کی جانچ  
+Phrase,p91,Breast-conserving surgery without radiation therapy,ریڈی ایشن علاج کے بغیر چھاتی کے تحفظ کی سرجری  
+Phrase,p92,Added Pertuzumab as a new subsection,نیا ذیلی عنوان: پرٹوزوماب کا اضافہ  
+Phrase,p93,Tumors with an extensive intraductal component,وسیع انٹرادکٹل جزو والے رسولیز  
+Phrase,p94,Tumor >50 mm in greatest dimension,رسولی کا زیادہ سے زیادہ سائز >50 ملی میٹر  
+Phrase,p95,Total mastectomy with or without tamoxifen,مکمل ماسٹیکٹومی ٹاموکسفین کے ساتھ یا بغیر  
+Phrase,p96,Cardiac toxic effects with adjuvant trastuzumab,ایجوانٹ ٹراسٹوزوماب کے ساتھ دل کے زہریلے اثرات  
+Phrase,p97,No difference in OS was observed, کل بقا میں کوئی فرق نہیں دیکھا گیا   
+Phrase,p98,Shorter hypofractionation schemes achieve comparable results,چھوٹے ہائپوفرکشنیشن اسکیمز بھی اتنے ہی اچھے نتائج دیتے ہیں۔
+Phrase,p99,Tumor ≤1 mm in greatest dimension,رسولی کا سب سے بڑا قطر ≤1 ملی میٹر ہے۔
+Phrase,p100,Metastases in ipsilateral infraclavicular lymph node(s),متاستاسز ہم طرفی انفرایکلیویکولر لمف نوڈ میں۔
+Phrase,p101,Treatment Options for Patients With DCIS,ڈی سی آئی ایس والے مریضوں کے لیے علاج کے اختیارات۔
+Phrase,p102,Metastases in ipsilateral supraclavicular lymph node(s),متاستاسز ہم طرفی سپراکلیویکولر لمف نوڈ میں۔ 
+Phrase,p103,Metastases in 4–9 axillary lymph nodes,متاستاسز 4–9 ایکزیلری لمف نوڈز میں۔
+Phrase,p104,Metastases in 1–3 axillary lymph nodes,متاستاسز 1–3 ایکزیلری لمف نوڈز میں۔
+Phrase,p105,Genetics of Breast and Ovarian Cancer,چھاتی اور بیضہ دانی کے سرطان کی جینیات
+Phrase,p106,Low Risk (Has All Listed Factors),کم خطرہ (درج شدہ تمام عوامل موجود ہوں)
+Phrase,p107,Timing of Primary and Adjuvant Therapy,ابتدائی اور ضمنی علاج کا وقت۔
+Phrase,p108,Metastases in ipsilateral supraclavicular lymph nodes,متاستاسز ہم طرفی سپراکلیویکولر لمف نوڈز میں۔
+Phrase,p109,Treatment Options for Patients With LCIS,ایل سی آئی ایس والے مریضوں کے لیے علاج کے اختیارات۔
+Phrase,p110,Metastases in ≥10 axillary lymph nodes,متاستاسز ≥10 ایکزیلری لمف نوڈز میں۔
+Phrase,p111,Tumor ≤20 mm in greatest dimension,رسولی سب سے بڑی جہت میں ≤20 ملی میٹر ہے۔
+Phrase,p112,Slightly more than 20% had received chemotherapy, بیِس فیصد سے زیادہ مریضوں نے  کیمیائی علاج حاصل کی تھی۔
+Phrase,p113,"Stage IV, Recurrent, and Metastatic Breast Cancer",مرحلہ چار، دوبارہ ہونے والا، اور میٹاسٹیٹک چھاتی کا سرطان۔
+Phrase,p114,Final results of this trial are pending,اس آزمائش کے حتمی نتائج زیر التوا ہیں۔
+Phrase,p115,No regional lymph node metastasis identified histologically,کوئی علاقائی لمف نوڈ میٹاسٹاسز ہسٹولوجیکلی شناخت نہیں ہوا۔
+Phrase,p116,Oral Complications of Chemotherapy and Head/Neck Radiation, کیمیائی علاج اور سر/گردن کی شعاعوں کے منہ سے متعلق پیچیدگیاں۔
+Phrase,p117,"Proliferative capacity of the tumor (e.g., Ki67)",رسولی کی افزایشی صلاحیت (مثال کے طور پر، کے آئی 67)۔
+Phrase,p1,Pylori infection eradication,پائلوری انفیکشن کا خاتمہ۔
+Phrase,p2,H. pylori infection eradication,پائلوری انفیکشن کا مکمل خاتمہ۔
+Phrase,p3,Stomach (Gastric) Cancer (PDQ®): Prevention, معدے (گیسٹرک) کا سرطان (PDQ®): روک تھام۔
+Phrase,p4,Consistency: Small number of studies,مستقل مزاجی: کم تعداد میں مطالعات۔
+Phrase,p1,Okuda Staging System,اوکُودا اسٹیجنگ سسٹم۔
+Phrase,p2,Treatment option overview--legacy,علاج کے اختیارات کا جائزہ—روایتی۔
+Phrase,p3,Treatment by stage--legacy,مرحلہ کے مطابق علاج—روایتی۔
+Phrase,p4,Alpha-fetoprotein (AFP) levels,ا الفا فیٹو پروٹین (AFP) کی سطحیں۔
+Phrase,p5,adult primary liver cancer,بالغوں کا بنیادی جگر کا سرطان۔
+Phrase,p6,Liver (Hepatocellular) Cancer Screening,جگر (ہیپاٹوسیلولر) سرطان کی اسکریننگ۔
+Phrase,p7,Multiple tumors >5 cm,متعدد ٹیومر 5 سینٹی میٹر سے زیادہ۔
+Phrase,p8,Regional lymph node metastasis,علاقائی لمف نوڈ میٹاسٹاسز۔
+Phrase,p9,Histologic classification is as follows:,ہسٹولوجیکل درجہ بندی درج ذیل ہے:
+Phrase,p10,Table 1. Primary Tumor (T),جدول 1۔ بنیادی ٹیومر (ٹی)
+Phrase,p11,Table 4. Anatomic Stage/Prognostic Groups,جدول 4۔ تشریحی مرحلہ/پیشگوئی گروپس۔
+Phrase,p12,Hepatoblastoma rarely occurs in adults,ہیپاٹوبلاسٹوما شاذ و نادر ہی بالغوں میں ہوتا ہے۔
+Phrase,p13,Natural History and Prognostic Factors,قدرتی تاریخ اور پیشگوئی عوامل۔
+Phrase,p14,Solitary tumor without vascular invasion,وا سکولر حملے کے بغیر واحد ٹیومر۔
+Phrase,p15,Adult Primary Liver Cancer (PDQ®): Treatment,بالغوں کے بنیادی جگر کے سرطان (PDQ®): علاج۔
+Phrase,p16,Table 2. Regional Lymph Nodes (N),جدول 2۔ علاقائی لمف نوڈز (این)۔
+Phrase,p17,The etiology of HCC is likely multifactorial,ایچ سی سی کی وجوہات ممکنہ طور پر متعدد عوامل پر مشتمل ہیں۔
+Phrase,p18,Cellular Classification of Adult Primary Liver Cancer,بالغوں کے بنیادی جگر کے سرطان کی خلیاتی درجہ بندی۔
+Phrase,p19,Barcelona Clinic Liver Cancer (BCLC) Staging System,بارسلونا کلینک جگر سرطان (BCLC) اسٹیجنگ سسٹم۔
+Phrase,p20,General Information About Adult Primary Liver Cancer,بالغوں کے بنیادی جگر کے سرطان کے بارے میں عمومی معلومات۔
+Phrase,p21,Stage Information for Adult Primary Liver Cancer,بالغوں کے بنیادی جگر کے سرطان کے لیے مرحلہ کی معلومات۔
+Phrase,p1,Treatment by stage--legacy,مرحلہ کے مطابق علاج—روایتی۔
+Phrase,p2,Gastric adenomatous polyps,معدے کے ایڈینوماٹوس پولپس۔
+Phrase,p3,"New cases: 21600",نئے کیسز: 21600
+Phrase,p4,Definitions of TNM,TNM کی تعریفیں۔
+Phrase,p5,Familial adenomatous polyposis,خاندانی ایڈینوماٹوس پولیپوسس۔
+Phrase,p6,Chronic atrophic gastritis,دائمی ایٹروفک گیسٹرائٹس۔
+Phrase,p7,Helicobacter pylori gastric infection,ہیلی کوبیکٹر پائلوری معدے کا انفیکشن۔
+Phrase,p8,Stage II Gastric Cancer,مرحلہ دوم معدے کا سرطان۔
+Phrase,p9,Further follow-up is anticipated,مزید فالو اپ متوقع ہے۔
+Phrase,p10,Stage III Gastric Cancer,مرحلہ سوم معدے کا سرطان۔
+Phrase,p11,stage I gastric cancer,مرحلہ اوّل معدے کا سرطان۔
+Phrase,p12,Stage I Gastric Cancer,مرحلہ اول معدے کا سرطان۔
+Phrase,p13,Table 3. Distant Metastasis,جدول 3۔ دور دراز میٹاسٹاسز۔
+Phrase,p14,Gastrointestinal Stromal Tumors Treatment,گاسٹروانٹیسٹائنل اسٹرومل ٹیومرز کا علاج۔
+Phrase,p15,stage 0 gastric cancer,مرحلہ صفر معدے کا سرطان۔
+Phrase,p16,Stage 0 Gastric Cancer,مرحلہ صفر معدے کا سرطان۔
+Phrase,p17,Tumor invades adjacent structures,ٹیومر قریبی ساختوں پر حملہ کرتا ہے۔
+Phrase,p18,Tumor invades muscularis propria,ٹیومر مسکیولیرس پروپریا پر حملہ کرتا ہے۔
+Phrase,p19,stage III gastric cancer,مرحلہ سوم معدے کا سرطان۔
+Phrase,p20,stage IV gastric cancer,مرحلہ چہارم معدے کا سرطان۔
+Phrase,p21,stage II gastric cancer,مرحلہ دوم معدے کا سرطان۔
+Phrase,p22,Gastric Cancer (PDQ®): Treatment,معدے کا سرطان (PDQ®): علاج۔
+Phrase,p23,Tumor invades serosa (visceral peritoneum),ٹیومر سیروسا (ویسریل پیریٹونیم) پر حملہ کرتا ہے۔
+Phrase,p24,Table 4. Anatomic Stage/Prognostic Groups,جدول 4۔ تشریحی مرحلہ/پیشگوئی گروپس۔
+Phrase,p25,General Information About Gastric Cancer,معدے کے سرطان کے بارے میں عمومی معلومات۔
+Phrase,p26,Stage Information for Gastric Cancer,معدے کے سرطان کے لیے مرحلہ کی معلومات۔
+Phrase,p27,Table 1. Primary Tumor (T),جدول 1۔ بنیادی ٹیومر (ٹی)۔
+Phrase,p28,Menetrier disease (giant hypertrophic gastritis),مینٹریئر بیماری (دیو ہیکل ہائپرٹروفک گیسٹرائٹس)۔
+Phrase,p29,Cellular Classification of Gastric Cancer,معدے کے سرطان کی خلیاتی درجہ بندی۔
+Phrase,p30,Family history of gastric cancer,معدے کے سرطان کی خاندانی تاریخ۔
+Phrase,p31,No evidence of primary tumor,بنیادی ٹیومر کا کوئی ثبوت نہیں۔
+Phrase,p32,No regional lymph node metastasis,کوئی علاقائی لمف نوڈ میٹاسٹاسز نہیں۔
+Phrase,p33,Regional lymph node(s) cannot be assessed,علاقائی لمف نوڈز کا اندازہ نہیں لگایا جا سکتا۔
+Phrase,p34,Diet low in fruits and vegetables,پھلوں اور سبزیوں میں کم مقدار والی خوراک۔
+Phrase,p35,Metastases in ≥16 regional lymph nodes,علاقائی لمف نوڈز میں ≥16 میٹاسٹاسز۔
+Phrase,p36,Stage IV and Recurrent Gastric Cancer,مرحلہ چہارم اور دوبارہ ہونے والا معدے کا سرطان۔
+Phrase,p37,Metastases in 7–15 regional lymph nodes,علاقائی لمف نوڈز میں 7–15 میٹاسٹاسز۔
+Phrase,p38,Table 2. Regional Lymph Nodes (N),جدول 2۔ علاقائی لمف نوڈز (این)۔
+Phrase,p39,Ongoing studies are evaluating these newer regimens,جاری مطالعات ان نئے نسخوں کا جائزہ لے رہی ہیں۔
+Phrase,p40,Patients were randomized in a 1:1 fashion,مریضوں کو 1:1 کے تناسب میں تصادفی طور پر تقسیم کیا گیا۔
+Phrase,p41,Tumor invades lamina propria or muscularis mucosae,ٹیومر لامینا پروپر یا مسکیولیرس میوکوسا پر حملہ کرتا ہے۔
+Phrase,p42,An American series has confirmed these results,ایک امریکی سیریز نے ان نتائج کی تصدیق کی ہے۔
+Phrase,p43,Time-to-treatment progression (TTP) was the primary endpoint,علاج کی پیش رفت کا وقت (TTP) بنیادی اختتام تھا۔
+Phrase,p1,Hepatitis C virus,ہیپاٹائٹس سی وائرس۔
+Phrase,p2,Rationale for Screening,اسکریننگ کے لیے جواز۔
+Phrase,p3,Dominant Geographical Area,غالب جغرافیائی علاقے۔
+Phrase,p4,Hepatitis B virus,ہیپاٹائٹس بی وائرس۔
+Phrase,p5,Evidence of Harms,نقصانات کا ثبوت۔
+Phrase,p6,Likely Etiology of HCC,ایچ سی سی کی ممکنہ وجوہات۔
+Phrase,p7,Liver (Hepatocellular) Cancer Screening,جگر (ہیپاٹوسیلولر) سرطان کی اسکریننگ۔
+Phrase,p8,Study Design: Randomized controlled trials,مطالعہ کا ڈیزائن: تصادفی کنٹرولڈ ٹرائلز۔
+Phrase,p9,The CI was near 1.0,سی آئی 1.0 کے قریب تھا۔
+Phrase,p10,"Incidence, Mortality, and Risk Factors","وقوع، اموات، اور خطرے کے عوامل"۔
+Phrase,p11,Intention-to-treat analysis was not used,علاج کرنے کی نیت کے تجزیے کا استعمال نہیں کیا گیا۔
+Phrase,p12,Liver (Hepatocellular) Cancer (PDQ®): Screening,جگر (ہیپاٹوسیلولر) سرطان (PDQ®): اسکریننگ۔
+Phrase,p13,Assessment of outcome was not blinded,نتائج کا جائزہ اندھیرے میں نہیں لیا گیا تھا۔
+Phrase,p14,The results varied in different publications,نتائج مختلف اشاعتوں میں مختلف تھے۔
+Phrase,p15,Efficacy of Screening and Surveillance Programs,اسکریننگ اور نگرانی کے پروگراموں کی تاثیر۔
+Phrase,p16,Generalizability to other populations is uncertain,دوسری آبادیوں پر اس کی عامیت غیر یقینی ہے۔
+Phrase,p17,"Consistency: Multiple studies, large number of participants",مستقل مزاجی: متعدد مطالعات، بڑی تعداد میں شرکاء۔
+Phrase,p18,The comparison group was not actively followed,موازنہ گروپ کی فعال نگرانی نہیں کی گئی۔
+Phrase,p19,"The PPVs were 14% and 73%, respectively","پی پی وی 14 فیصد اور 73 فیصد تھے، بالترتیب۔"
+Phrase,p1,Digital Rectal Examination,ڈیجیٹل ریکٹل معائنہ۔
+Phrase,p2,Levels of Evidence,ثبوت کی سطحیں۔
+Phrase,p3,Studies in progress,جاری مطالعات۔
+Phrase,p4,Reviewers and Updates,جائزہ لینے والے اور اپ ڈیٹس۔
+Phrase,p5,Relative Mortality Reduction,متعلقہ اموات میں کمی۔
+Phrase,p6,Randomized controlled studies,تصادفی کنٹرولڈ مطالعات۔
+Phrase,p7,Digital Rectal Exam,ڈیجیٹل ریکٹل معائنہ۔
+Phrase,p8,Evidence of Harms,نقصانات کا ثبوت۔
+Phrase,p9,Magnitude of Effects,اثر کا حجم۔
+Phrase,p10,Positivity Rate (%),مثبتیت کی شرح (فیصد)۔
+Phrase,p11,Fecal Occult Blood Test,فیکیول آکلت بلڈ ٹیسٹ۔
+Phrase,p12,Colorectal Cancer (PDQ®): Screening,کولوریکٹل سرطان (PDQ®): اسکریننگ۔
+Phrase,p13,N/A = not available,N/A = دستیاب نہیں۔
+Phrase,p14,Computed Tomographic (CT) Colonography,کمپیوٹڈ ٹوموگرافک (CT) کولونوگرافی۔
+Phrase,p15,Stool DNA Mutation Tests,اسٹول ڈی این اے میوٹیشن ٹیسٹس۔
+Phrase,p16,Ecologic and descriptive studies,ماحولیاتی اور وضاحتی مطالعات۔
+Phrase,p17,Fecal Occult Blood Test (FOBT),فیکیول آکلت بلڈ ٹیسٹ (FOBT)۔
+Phrase,p18,Fecal Occult Blood Testing (FOBT),فیکیول آکلت بلڈ ٹیسٹنگ (FOBT)۔
+Phrase,p19,About 60%–70% for left colon,بائیں قولون کے لیے تقریباً 60–70 فیصد۔
+Phrase,p20,"be discussed at a meeting,","ایک میٹنگ میں زیرِ بحث لایا جائے،"
+Phrase,p21,"Case-control studies, RCTs in progress","کیس کنٹرول مطالعہ، آر سی ٹیز زیرِ عمل"
+Phrase,p22,RCT = randomized controlled trial,آر سی ٹی = تصادفی کنٹرولڈ ٹرائل
+Phrase,p23,Evidence about lesion detection rate,لیژن کی تشخیص کی شرح کے بارے میں شواہد
+Phrase,p24,Evidence about colorectal cancer reduction,قولون و مستقیمی سرطان میں کمی کے بارے میں شواہد
+Phrase,p25,Combination of FOBT and Flexible Sigmoidoscopy,ایف او بی ٹی اور لچکدار سگموئڈوسکوپی کا مجموعہ
+Phrase,p26,Evidence about colorectal cancer mortality reduction,قولون و مستقیمی سرطان کی اموات میں کمی کے بارے میں شواہد
+Phrase,p27,The primary endpoint was CRC-specific mortality,بنیادی اختتامی نقطہ قولون و مستقیمی سرطان سے مخصوص اموات تھا
+Phrase,p28,Nearly 92% of tests were rehydrated,تقریباً 92 فیصد ٹیسٹوں کو دوبارہ ہائیڈریٹ کیا گیا
+Phrase,p29,Specificity declined from 97.8% to 96%,خصوصیت 97.8 فیصد سے کم ہو کر 96 فیصد رہ گئی
+Phrase,p30,Magnitude of Effects on Surrogate Endpoints,سرروگیٹ اختتامی نقاط پر اثرات کا حجم
+Phrase,p31,Attendance in this study was 65%,اس مطالعے میں شرکت کی شرح 65 فیصد تھی
+Phrase,p32,Newer FOBTs: Nonrandomized Controlled Trial Evidence,نئے ایف او بی ٹیز: غیر تصادفی کنٹرولڈ ٹرائل کے شواہد
+Phrase,p33,Virtual Colonoscopy (Computed Tomographic [CT] Colonography),ورچوئل کولونوسکوپی (کمپیوٹڈ ٹوموگرافک [CT] کولونوگرافی)
+Phrase,p34,Results were summarized in two systematic reviews,نتائج کو دو نظامی جائزوں میں خلاصہ کیا گیا تھا
+Phrase,p35,Extracolonic abnormalities are common in CT colonography,سی ٹی کولونوگرافی میں کولون سے باہر کی غیر معمولیت عام ہیں
+Phrase,p36,iFOBT detects >60% and ≤90% of CRCs,iFOBT کولوریکٹل سرطان کے 60% سے زیادہ اور 90% سے کم یا برابر کی تشخیص کرتا ہے
+Phrase,p37,There was no effect on all-cause mortality,تمام وجوہات کی اموات پر کوئی اثر نہیں تھا
+Phrase,p38,Detection of DNA Mutations in the Stool,پاخانے میں ڈی این اے کی تبدیلیوں کی تشخیص
+Phrase,p39,Follow-up ranged from 6 to 13 years,فالو اپ کی مدت 6 سے 13 سال تھی
+Phrase,p40,Specificity was 86% and PPV was 23%,خصوصیت 86% اور مثبت پیشگوئی قدر 23% تھی
+Phrase,p1,External Validity: Poor,بیرونی درستگی: کم
+Phrase,p2,Barium-meal gastric photofluorography,بیریم کھانے کی معدے کی فوٹو فلوروگرافی
+Phrase,p3,Internal Validity : Fair,داخلی درستگی: مناسب
+Phrase,p4,External Validity : Poor,بیرونی درستگی: کم
+Phrase,p5,Stomach (Gastric) Cancer Screening,معدے (گیسٹرک) سرطان کی اسکریننگ
+Phrase,p6,Consistency : Inadequate evidence,مطابقت: ناکافی ثبوت
+Phrase,p7,Stomach (Gastric) Cancer (PDQ®): Screening,معدے (گیسٹرک) سرطان (PDQ®): اسکریننگ
+Phrase,p8,Evidence of Harm Associated With Screening,اسکریننگ سے منسلک نقصان کے ثبوت
+Phrase,p9,Clinical considerations for high risk groups,اعلیٰ خطرہ گروپس کے لیے کلینیکل غور و فکر
+Phrase,p10,Consistency : Poor in prospective studies,مطابقت: امکانی مطالعات میں کم
+Phrase,p1,False positive exams,غلط مثبت امتحانات
+Phrase,p2,Lung Cancer Screening,پھیپھڑوں کے سرطان کی اسکریننگ
+Phrase,p3,Lung Cancer (PDQ®): Screening,پھیپھڑوں کا سرطان (PDQ®): اسکریننگ
+Phrase,p4,Description of the Evidence,ثبوت کی تفصیل
+Phrase,p5,Study Design : Randomized controlled trials,مطالعہ کا ڈیزائن: بے ترتیب کنٹرول ٹرائلز
+Phrase,p6,Evidence of Benefit Associated With Screening,اسکریننگ سے منسلک فائدے کے ثبوت
+Phrase,p7,Two included sputum cytology as well,دو میں بلغم کی سائٹالوجی بھی شامل تھی
+Phrase,p8,Screening by low-dose helical computed tomography,کم خوراک ہیلیکل کمپیوٹڈ ٹوموگرافی کے ذریعے اسکریننگ
+Phrase,p9,Evidence of No Benefit Associated With Screening,اسکریننگ سے کوئی فائدہ نہ ہونے کے ثبوت
+Phrase,p10,Evidence of no benefit associated with screening,اسکریننگ سے منسلک کوئی فائدہ نہ ہونے کے ثبوت
+Phrase,p11,Screening by chest x-ray and/or sputum cytology,چیسٹ ایکس رے اور/یا بلغم کی سائٹالوجی کے ذریعے اسکریننگ
+Phrase,p1,Mammography and CAD,میموگرافی اور CAD
+Phrase,p2,Magnetic Resonance Imaging,مقناطیسی گونج امیجنگ
+Phrase,p3,Compliance: 89% participation,پیروی: 89% شرکت
+Phrase,p4,Control: Usual care,کنٹرول: معمول کی دیکھ بھال
+Phrase,p5,External audit: None,بیرونی آڈٹ: کوئی نہیں
+Phrase,p6,Screening With Mammography,میموگرافی کے ساتھ اسکریننگ 
+Phrase,p7,Compliance: 61% screened,پیروی: 61% اسکرین شدہ
+Phrase,p8,Compliance: 89% screened,پیروی: 89% اسکرین شدہ
+Phrase,p9,Randomized controlled trials,بے ترتیب کنٹرول ٹرائلز
+Phrase,p10,Compliance: 82% screened,پیروی: 82% اسکرین شدہ
+Phrase,p11,Consistency : Fair,مطابقت: مناسب
+Phrase,p12,Summary of RCTs,بے ترتیب کنٹرول ٹرائلز کا خلاصہ
+Phrase,p13,Dense breast tissue,بریسٹ کا گھنا بافت
+Phrase,p14,External audit: No,بیرونی آڈٹ: نہیں
+Phrase,p15,Prior radiation therapy,پہلے کی ریڈی ایشن تھراپی
+Phrase,p16,Clinical Breast Examination,کلینیکل بریسٹ امتحان
+Phrase,p17,Benefit of Mammography,میموگرافی کا فائدہ 
+Phrase,p18,BCSC Web site,BCSC ویب سائٹ
+Phrase,p19,Control: Annual CBE,کنٹرول: سالانہ CBE
+Phrase,p20,Exclusions: Inconsistently reported,اخراج: غیر مستقل طور پر رپورٹ شدہ
+Phrase,p21,External audit: Yes,بیرونی آڈٹ: ہاں
+Phrase,p22,Mammography—Variables Associated with Accuracy,میموگرافی — درستگی سے متعلق متغیرات
+Phrase,p23,Follow-up duration: 12 years,فالو اپ مدت: 12 سال
+Phrase,p24,External Validity : Poor,بیرونی درستگی: کم
+Phrase,p25,Follow-up duration: 8 years,فالو اپ مدت: 8 سال
+Phrase,p26,Breast Cancer Screening Modalities—Mammography,بریسٹ سرطان اسکریننگ کے طریقے — میموگرافی
+Phrase,p27,Consistency of reports: Good,رپورٹوں کی مطابقت: اچھی
+Phrase,p28,Ductal Carcinoma In Situ,ڈکٹل کارسینوما ان سیچو
+Phrase,p29,Consistency of reports: Variable,رپورٹوں کی مطابقت: متغیر
+Phrase,p30,Current Age (in Years),موجودہ عمر (سالوں میں)
+Phrase,p31,Follow-up duration: 18 years,فالو اپ مدت: 18 سال
+Phrase,p32,Evaluation of Breast Symptoms,بریسٹ کی علامات کا جائزہ 
+Phrase,p33,Breast Cancer (PDQ®): Screening,بریسٹ سرطان (PDQ®): اسکریننگ
+Phrase,p34,Breast Cancer Surveillance Consortium,بریسٹ سرطان سروریلنس کنسورشیم
+Phrase,p35,Specificity and false-positive rate,خصوصیت اور غلط مثبت شرح
+Phrase,p36,Description of the Evidence,ثبوت کی تفصیل
+Phrase,p37,Breast Cancer Screening Concepts,بریسٹ سرطان اسکریننگ کے تصورات
+Phrase,p38,Internal Validity : Good,داخلی درستگی: اچھی
+Phrase,p39,Follow-up duration: 10 years,فالو اپ مدت: 10 سال
+Phrase,p40,Mammography Description and Background,میموگرافی کی تفصیل اور پس منظر
+Phrase,p41,Follow-up duration: 13 years,فالو اپ مدت: 13 سال
+Phrase,p42,Harms of Screening Mammography,اسکریننگ میموگرافی کے نقصانات
+Phrase,p43,Follow-up duration: 10.7 years,فالو اپ مدت: 10.7 سال
+Phrase,p44,Personal history of breast cancer,بریسٹ سرطان کی ذاتی تاریخ
+Phrase,p45,Comments: Randomization process was flawed,تبصرے: بے ترتیب عمل ناقص تھا
+Phrase,p46,Breast cancer incidence and mortality,بریسٹ سرطان کے واقعات اور اموات
+Phrase,p47,Seventeen studies met inclusion criteria,سترہ مطالعات نے شمولیت کے معیارات پر پورا اترا
+Phrase,p48,Appendix of Randomized Controlled Trials,بے ترتیب کنٹرول ٹرائلز کا ضمیمہ
+Phrase,p49,"Exclusions: Few, balanced between groups","اخراج: چند، گروپس کے درمیان متوازن"
+Phrase,p50,Effectiveness of Population-Based Screening Programs,آبادی پر مبنی اسکریننگ پروگراموں کی تاثیر
+Phrase,p51,Randomization: Individual volunteer (see NBSS-1),بے ترتیب انتخاب: انفرادی رضاکار (NBSS-1 دیکھیں)
+Phrase,p52,Breast Cancer Screening Modalities—Beyond Mammography,بریسٹ سرطان اسکریننگ کے طریقے — میموگرافی سے آگے
+Phrase,p53,Follow-up duration: 12 to14 years,فالو اپ مدت: 12 سے 14 سال
+Phrase,p54,Women with limited life expectancy,محدود متوقع عمر والی خواتین
+Phrase,p55,Study design : Descriptive population-based,مطالعہ کا ڈیزائن: آبادی پر مبنی توصیفی
+Phrase,p56,Adapted from Altekruse et al,Altekruse et al سے اخذ کردہ
+Phrase,p57,Breast Cancer Diagnosis and Pathology,بریسٹ سرطان کی تشخیص اور پیتھالوجی
+Phrase,p58,Assessment of Performance and Accuracy,کارکردگی اور درستگی کا جائزہ
+Phrase,p59,Risk Factors for Breast Cancer,بریسٹ سرطان کے خطرے کے عوامل
+Phrase,p60,Risk in Next 10 Years,اگلے 10 سالوں میں خطرہ
+Phrase,p61,Study Design : Two RCTs,مطالعہ کا ڈیزائن: دو RCTs
+Phrase,p62,Pathologic Diagnosis of Breast Cancer,بریسٹ سرطان کی پیتھالوجیکل تشخیص
+Phrase,p63,Breast Cancer Treatment and Pregnancy,بریسٹ سرطان کا علاج اور حمل
+Phrase,p64,Randomization: Cluster by birth date,بے ترتیب انتخاب: تاریخ پیدائش کے گروہ
+Phrase,p65,Control: MMG at year 5,کنٹرول: سال 5 میں MMG
+Phrase,p66,Consistency of reports: Not applicable,رپورٹوں کی مطابقت: لاگو نہیں
+Phrase,p67,Medullary carcinomas may be similarly missed,میڈولری کارسینوما بھی اسی طرح نظر انداز ہو سکتے ہیں
+Phrase,p68,Magnitude of Effect : No effect,اثر کی شدت: کوئی اثر نہیں
+Phrase,p69,Consistency and External Validity : Poor,مطابقت اور بیرونی درستگی: کم
+Phrase,p70,"Single-read first three rounds, then double-read","پہلے تین راؤنڈز سنگل ریڈ، پھر ڈبل ریڈ"
+Phrase,p71,Women who have received thoracic radiation,وہ خواتین جنہیں تھوراسک ریڈی ایشن ملی ہو
+Phrase,p72,False-Positives Leading to Possible Additional Interventions,غلط مثبت نتائج جو اضافی اقدامات کا سبب بن سکتے ہیں
+Phrase,p73,Other research on BSE is limited,BSE پر دیگر تحقیق محدود ہے
+Phrase,p74,Internal Validity and Consistency : Fair,داخلی درستگی اور مطابقت: مناسب
+Phrase,p75,Contamination: 26.4% in usual care group,آلودگی: معمول کی دیکھ بھال گروپ میں 26.4%
+Phrase,p76,Such results have not been observed,ایسے نتائج مشاہدے میں نہیں آئے
+Phrase,p77,Intervention: Annual two-view MMG and CBE,مداخلت: سالانہ دو نظارے والی MMG اور CBE
+Phrase,p78,Several CAD systems are in use,کئی CAD نظام استعمال میں ہیں
+Phrase,p79,Positioning of the woman is important,عورت کی پوزیشننگ اہم ہے
+Phrase,p80,Analysis: Both evaluation and follow-up methods,تجزیہ: تشخیصی اور فالو اپ دونوں طریقے
+Phrase,p81,Age at entry: 45 to 64 years,عمر عند اندراج: 45 سے 64 سال
+Phrase,p82,Contamination: 16.9% of the CBE only group,آلودگی: صرف CBE گروپ کا 16.9%
+Phrase,p83,The Swedish meta-analysis resolved these questions appropriately,سویڈش میٹا تجزیہ نے ان سوالات کو مناسب طریقے سے حل کیا
+Phrase,p84,Breast Cancer Surveillance Consortium (BCSC) Web site,بریسٹ سرطان سروریلنس کنسورشیم (BCSC) ویب سائٹ
+Phrase,p85,Age at entry: 39 to 59 years,عمر عند اندراج: 39 سے 59 سال
+Phrase,p86,Lifetime Risk of a Breast Cancer Diagnosis,زندگی بھر بریسٹ سرطان کی تشخیص کا خطرہ
+Phrase,p87,Age at entry: 50 to 59 years,عمر عند اندراج: 50 سے 59 سال
+Phrase,p88,Age at entry: 45 to 69 years,عمر عند اندراج: 45 سے 69 سال
+Phrase,p89,Age at entry: 40 to 64 years,عمر عند اندراج: 40 سے 64 سال
+Phrase,p90,"Sample size: 23,226 study and 21,904 control","نمونے کا سائز: 23,226 مطالعہ اور 21,904 کنٹرول"
+Phrase,p91,Age at entry: 39 to 41 years,عمر عند اندراج: 39 سے 41 سال
+Phrase,p92,"Sample size: 21,088 study and 21,195 control","نمونے کا سائز: 21,088 مطالعہ اور 21,195 کنٹرول"
+Phrase,p93,"Study Design : Two RCTs, cohort studies","مطالعہ کا ڈیزائن: دو RCTs، کوہورٹ مطالعات"
+Phrase,p94,Linked to Swedish Cause of Death Registry,سویڈش موت کی وجہ کے رجسٹری سے منسلک
+Phrase,p95,Characteristics of Cancers Detected by Screening Mammography,اسکریننگ میموگرافی سے پائے جانے والے سرطان کی خصوصیات
+Phrase,p96,Other risk factors and risk prediction models,دیگر خطرے کے عوامل اور خطرے کی پیشگوئی کے ماڈل
+Phrase,p97,Age at entry: 40 to 74 years,عمر عند اندراج: 40 سے 74 سال
+Phrase,p98,DCIS is most often diagnosed by mammography,DCIS اکثر میموگرافی کے ذریعے تشخیص کیا جاتا ہے
+Phrase,p99,"Mammography screening rates, however, were generally low","میموگرافی اسکریننگ کی شرحیں، تاہم، عام طور پر کم تھیں"
+Phrase,p100,Treatment of these cancers would constitute overtreatment,ان سرطانوں کا علاج ضرورت سے زیادہ علاج شمار ہوگا
+Phrase,p101,Table 1. Risk of Breast Cancer Diagnosis,ٹیبل 1۔ بریسٹ سرطان کی تشخیص کا خطرہ
+Phrase,p102,One Sv is equivalent to 200 mammograms,ایک Sv 200 میموگرام کے برابر ہے
+Phrase,p103,Age at entry: 40 to 49 years,عمر عند اندراج: 40 سے 49 سال
+Phrase,p104,Cause of death attribution: Cancer Registry Data,موت کی وجہ کی منسوبی: سرطان رجسٹری ڈیٹا
+Phrase,p105,Individuals With Little to Gain from Screening,وہ افراد جن کو اسکریننگ سے کم فائدہ ہو
+Phrase,p1,Gastroesophageal reflux/Barrett esophagus,گیسٹروایسوفیجل ریفلوکس/بیریٹ غذائی نالی
+Phrase,p2,Esophageal Cancer Screening,غذائی نالی کے سرطان کی اسکریننگ
+Phrase,p3,Esophageal Cancer Prevention,غذائی نالی کے سرطان کی روک تھام
+Phrase,p4,Squamous Cell Carcinoma,سکوامس سیل کارسینوما
+Phrase,p5,Esophageal Cancer (PDQ®): Prevention,غذائی نالی کا سرطان (پی ڈی کیو®): روک تھام
+Phrase,p6,Internal Validity : Fair,داخلی درستگی: مناسب
+Phrase,p7,Consistency : Large study,مطابقت: بڑا مطالعہ
+Phrase,p8,Consistency : Multiple studies,مطابقت: متعدد مطالعات
+Phrase,p9,Consistency : Single study,مطابقت: واحد مطالعہ
+Phrase,p10,Aspirin and nonsteroidal anti-inflammatory drugs,ایسپرین اور نان سٹیرایڈیل اینٹی سوزش ادویات
+Phrase,p11,"Tobacco, Alcohol, and Dietary Factors",تمباکو، الکحل، اور غذائی عوامل
+Phrase,p12,Avoidance of tobacco and alcohol,تمباکو اور الکحل سے پرہیز
+Phrase,p13,Consistency : Good; multiple studies,مستقل مزاجی: اچھی؛ متعدد مطالعات
+Phrase,p14,Radiofrequency Ablation in Dysplastic Barrett Esophagus,ڈسپلاسٹک بیریٹ غذائی نالی میں ریڈیو فریکوئنسی ایبلیشن
+Phrase,p15,Aspirin and nonsteroidal anti-inflammatory drug use,ایسپرین اور نان سٹیرایڈیل اینٹی سوزش ادویات کا استعمال
+Phrase,p16,The risk declines with smoking cessation,تمباکو نوشی بند کرنے سے خطرہ کم ہوتا ہے
+Phrase,p17,Ablation of Barrett Esophagus With Dysplasia,ڈسپلاسیا والی بیریٹ غذائی نالی کا ایبلیشن
+Phrase,p18,Helicobacter pylori infection and gastric atrophy,ہیلیکوبیکٹر پائلوری انفیکشن اور معدے کا اٹروفی
+Phrase,p19,The epidemiology of these types varies markedly,ان اقسام کی ایپیڈیمولوجی نمایاں طور پر مختلف ہوتی ہے
+Phrase,p20,Study Design : Ecologic and descriptive studies,مطالعہ کا ڈیزائن: ماحولیاتی اور توصیفی مطالعات
+Phrase,p1,Recurrent Esophageal Cancer,بار بار ہونے والا غذائی نالی کا سرطان
+Phrase,p2,"New cases: 17,990","نئے کیسز: 17,990"
+Phrase,p3,Tumor invades adventitia,ٹیومر ایڈونٹیشیا پر حملہ آور ہوتا ہے
+Phrase,p4,Preoperative Chemotherapy Alone,پری آپریٹو  کیمیائی علاج تنہائی میں
+Phrase,p5,Metaplastic columnar epithelium,میٹاپلاسٹک کالم نما ایپی تھیلیئم
+Phrase,p6,recurrent esophageal cancer,بار بار ہونے والا غذائی نالی کا سرطان
+Phrase,p7,Preoperative Chemoradiation Therapy,پری آپریٹو کیمورےڈیشن تھراپی
+Phrase,p8,Tumor invades submucosa,ٹیومر سب میوکوسا پر حملہ آور ہوتا ہے
+Phrase,p9,Esophageal Cancer Treatment,غذائی نالی کے سرطان کا علاج
+Phrase,p10,stage II esophageal cancer,مرحلہ دوم غذائی نالی کا سرطان
+Phrase,p11,stage IV esophageal cancer,مرحلہ چہارم غذائی نالی کا سرطان
+Phrase,p12,Tumor invades adjacent structures,ٹیومر متصل ڈھانچے پر حملہ آور ہوتا ہے
+Phrase,p13,stage I esophageal cancer,مرحلہ اول غذائی نالی کا سرطان
+Phrase,p14,Esophageal Cancer (PDQ®): Treatment,غذائی نالی کا سرطان (PDQ®): علاج
+Phrase,p15,Nutrition in Cancer Care,سرطان کی دیکھ بھال میں تغذیہ
+Phrase,p16,Stage III Esophageal Cancer,مرحلہ سوم غذائی نالی کا سرطان
+Phrase,p17,Stage II Esophageal Cancer,مرحلہ دوم غذائی نالی کا سرطان
+Phrase,p18,Stage I Esophageal Cancer,مرحلہ اول غذائی نالی کا سرطان
+Phrase,p19,Stage IV Esophageal Cancer,مرحلہ چہارم غذائی نالی کا سرطان
+Phrase,p20,Tumor invades muscularis propria,ٹیومر مسکیولرز پروپریا پر حملہ آور ہوتا ہے
+Phrase,p21,Chemoradiation with subsequent surgery,کیمورےڈیشن کے بعد سرجری
+Phrase,p22,Stage 0 Esophageal Cancer,مرحلہ صفر غذائی نالی کا سرطان
+Phrase,p23,HGD = high-grade dysplasia,HGD = اعلی درجے کی ڈسپلاسیا
+Phrase,p24,stage III esophageal cancer,مرحلہ سوم غذائی نالی کا سرطان
+Phrase,p25,stage 0 esophageal cancer,مرحلہ صفر غذائی نالی کا سرطان
+Phrase,p26,Table 4. Anatomic Stage/Prognostic Groups,جدول 4۔ تشریحی مرحلہ/پیشگوئی گروپ
+Phrase,p27,Table 3. Distant Metastasis (M),جدول 3۔ دور کے میٹاسٹیسیس (ایم)
+Phrase,p28,OS was the primary outcome,OS (مجموعی بقا) بنیادی نتیجہ تھا
+Phrase,p29,Stage Information for Esophageal Cancer,غذائی نالی کے سرطان کی مرحلہ وار معلومات
+Phrase,p30,Cellular Classification of Esophageal Cancer,غذائی نالی کے سرطان کی خلیاتی درجہ بندی
+Phrase,p31,General Information About Esophageal Cancer,غذائی نالی کے سرطان کے بارے میں عمومی معلومات
+Phrase,p32,Table 1. Primary Tumor (T),جدول 1۔ بنیادی ٹیومر (ٹی)
+Phrase,p33,The optimal surgical procedure is controversial,بہترین سرجیکل طریقہ کار متنازعہ ہے
+Phrase,p34,Table 2. Regional Lymph Nodes (N),جدول 2۔ علاقائی لمف نوڈس (این)
+Phrase,p35,Nd:YAG endoluminal tumor destruction or electrocoagulation,اینڈیووائی اے جی اینڈولومینل ٹیومر تباہی یا الیکٹروکوگولیشن
+Phrase,p36,Endoscopic-placed stents to provide palliation of dysphagia,اینڈوسکوپک سٹینٹس جو نگلنے میں دشواری کو کم کرتے ہیں
+Phrase,p37,Clinical trials evaluating single-agent or combination chemotherapy,کلینکل ٹرائلز جو سنگل ایجنٹ یا کمبینیشن  کیمیائی علاج کا جائزہ لیتے ہیں
+Phrase,p38,Metaplastic intestinal epithelium with typical goblet cells,میٹاپلاسٹک آنت کے ایپی تھیلیئم جس میں گوبلٹ خلیات ہوتے ہیں
+Phrase,p39,Many agents are active in esophageal cancer,بہت سے ادویات غذائی نالی کے سرطان میں مؤثر ہیں
+Phrase,p40,"Resectable tumor invading pleura, pericardium, or diaphragm","قابل جراحی ٹیومر جو پلیورا، پریکارڈیم یا ڈایافرام پر حملہ آور ہوتا ہے"
+Phrase,p41,Intraluminal brachytherapy to provide palliation of dysphagia,انٹرالیومینل بریکی تھراپی جو نگلنے میں دشواری کو کم کرتی ہے
+Phrase,p42,Tumor invades lamina propria or muscularis mucosae,ٹیومر لامینا پروپریا یا مسکیولرز میوکوسی پر حملہ آور ہوتا ہے
+Phrase,p1,PRETEXT stage 4,پری ٹیکسٹ مرحلہ 4
+Phrase,p2,PRETEXT stage 2,پری ٹیکسٹ مرحلہ 2
+Phrase,p3,PRETEXT stage 3,پری ٹیکسٹ مرحلہ 3
+Phrase,p4,Tumor marker–related factors,ٹیومر مارکر سے متعلق عوامل
+Phrase,p5,Childhood Rhabdomyosarcoma Treatment,بچوں کے رہیبڈومائیوسارکوما کا علاج
+Phrase,p6,Recurrent Hepatocellular Carcinoma,بار بار ہونے والا ہیپٹوسیلولر کارسنوما
+Phrase,p7,childhood liver cancer,بچوں میں جگر کا سرطان
+Phrase,p8,Other Treatment Approaches,دیگر علاج کے طریقے
+Phrase,p9,Biliary Tract Rhabdomyosarcoma,بلیئری ٹریکٹ رہیبڈومائیوسارکوما
+Phrase,p10,Orthotopic liver transplantation,آرتھوٹوپک جگر کی پیوند کاری
+Phrase,p11,PRETEXT stage 1,پری ٹیکسٹ مرحلہ 1
+Phrase,p12,Age at Diagnosis,تشخیص کی عمر
+Phrase,p13,Familial adenomatous polyposis,فیملیلیل ایڈینومیٹس پولیپوسس
+Phrase,p14,Treatment of Hepatoblastoma,ہیپٹوبلاسٹوما کا علاج
+Phrase,p15,childhood hepatocellular carcinoma,بچوں میں ہیپٹوسیلولر کارسنوما
+Phrase,p16,Surgery and chemotherapy,سرجری اور  کیمیائی علاج
+Phrase,p17,Median age 3.4 y,اوسط عمر 3.4 سال
+Phrase,p18,Beckwith-Wiedemann syndrome and hemihyperplasia,بیکوتھ وائیڈمین سنڈروم اور ہیمائپرپلاسیا
+Phrase,p19,Stage IV (distant metastases),مرحلہ IV (دور کے میٹاسٹیسیس)
+Phrase,p20,"Trisomy 18, other trisomies","ٹرائی سوومی 18، دیگر ٹرائی سوومیاں"
+Phrase,p21,Transitional liver cell tumor,ٹرانزیشنل جگر خلیوں کا ٹیومر  
+Phrase,p22,Intratumoral injection of alcohol,ٹیومر کے اندرونی انجکشن (الکحل)  
+Phrase,p23,Pure fetal histology hepatoblastoma,خالص فیٹل ہسٹالوجی ہیپاٹوبلاسٹوما  
+Phrase,p24,Median age 10.5 y,درمیانی عمر 10.5 سال  
+Phrase,p25,recurrent childhood liver cancer,بار بار ہونے والا بچوں کا جگر کا سرطان  
+Phrase,p26,Chemotherapy and metastatic disease, کیمیائی علاج اور میٹاسٹیٹک بیماری  
+Phrase,p27,Hepatitis B and C,ہیپاٹائٹس بی اور سی  
+Phrase,p28,Glycogen storage diseases I–IV,گلائیکوجن اسٹوریج بیماریاں I–IV  
+Phrase,p29,Small cell undifferentiated hepatoblastoma,چھوٹے سیل غیر متعین ہیپاٹوبلاسٹوما  
+Phrase,p30,Hepatoblastoma and Hepatocellular Carcinoma,ہیپاٹوبلاسٹوما اور ہیپاٹوسیلولر کارسینوما  
+Phrase,p31,Treatment of Hepatocellular Carcinoma,ہیپاٹوسیلولر کارسینوما کا علاج  
+Phrase,p32,Stages I and II,مرحلہ I اور II  
+Phrase,p33,Progressive familial intrahepatic cholestasis,پروگریسیو فیملیلیل انٹراہیپاٹک کولیسٹیسیس  
+Phrase,p34,25% for patients with metastasis,میٹاسٹیسیز والے مریضوں کے لیے 25%  
+Phrase,p35,Adapted from Nicol et al,نکول ایٹ ال سے ماخوذ  
+Phrase,p36,68% for PRETEXT stage 3,پری ٹیکسٹ مرحلہ 3 کے لیے 68%  
+Phrase,p37,Treatment Options for Stage IV,مرحلہ IV کے لیے علاج کے اختیارات  
+Phrase,p38,57% for PRETEXT stage 4,پری ٹیکسٹ مرحلہ 4 کے لیے 57%  
+Phrase,p39,Treatment options by cell type,خلیاتی قسم کے لحاظ سے علاج کے اختیارات  
+Phrase,p40,22% for PRETEXT stage 3,پری ٹیکسٹ مرحلہ 3 کے لیے 22%  
+Phrase,p41,Surgical resection for metastatic disease,میٹاسٹیٹک بیماری کے لیے سرجیکل ریسکشن  
+Phrase,p42,61% for PRETEXT stage 4,پری ٹیکسٹ مرحلہ 4 کے لیے 61%  
+Phrase,p43,Microscopic residual disease after resection,ریسکشن کے بعد خوردبینی باقی بیماری  
+Phrase,p44,The chemotherapy was well tolerated, کیمیائی علاج کو اچھی طرح برداشت کیا گیا  
+Phrase,p45,Limited Role for Radiation Therapy,ریڈی ایشن تھراپی کا محدود کردار  
+Phrase,p46,Treatment Options for Stage III,مرحلہ III کے لیے علاج کے اختیارات  
+Phrase,p47,Childhood Liver Cancer (PDQ®): Treatment,بچوں کے جگر کے سرطان (PDQ®): علاج  
+Phrase,p48,There are positive lymph nodes,مثبت لمف نوڈس موجود ہیں  
+Phrase,p49,91% for PRETEXT stage 2,پری ٹیکسٹ مرحلہ 2 کے لیے 91%  
+Phrase,p50,Infantile Choriocarcinoma of the Liver,جگر کا شیرخوار کوریوکارسینوما  
+Phrase,p51,Size of the primary tumor,پرائمری ٹیومر کا سائز    
+Phrase,p53,Hepatoblastoma prognosis by postsurgical stage,پوسٹ سرجری مرحلے کے لحاظ سے ہیپاٹوبلاسٹوما کی پیش گوئی  
+Phrase,p54,8% for PRETEXT stage 4,پری ٹیکسٹ مرحلہ 4 کے لیے 8%  
+Phrase,p55,Presence of multifocal hepatic disease,ملٹی فوکل جگر کی بیماری کی موجودگی  
+Phrase,p56,95% for PRETEXT stage 2,پری ٹیکسٹ مرحلہ 2 کے لیے 95%  
+Phrase,p57,84% for PRETEXT stage 3,پری ٹیکسٹ مرحلہ 3 کے لیے 84%  
+Phrase,p58,44% for PRETEXT stage 2,پری ٹیکسٹ مرحلہ 2 کے لیے 44%  
+Phrase,p59,Special considerations for surgical resection,سرجیکل ریسکشن کے لیے خصوصی خیالات  
+Phrase,p60,100% for PRETEXT stage 1,پری ٹیکسٹ مرحلہ 1 کے لیے 100%  
+Phrase,p61,Postsurgical Staging for Childhood Liver Cancer,بچوں کے جگر کے سرطان کی پوسٹ سرجری مرحلہ بندی  
+Phrase,p62,P—Main portal or portal bifurcation vein,P—مین پورٹل یا پورٹل تقسیم رگ  
+Phrase,p63,High risk Any patient with metastases,اعلیٰ خطرہ: میٹاسٹیسیز والے کوئی بھی مریض  
+Phrase,p64,Treatment of Recurrent Childhood Liver Cancer,بار بار ہونے والے بچوں کے جگر کے سرطان کا علاج  
+Phrase,p52,44% for PRETEXT stage 1,پری ٹیکسٹ مرحلہ 1 کے لیے %44  
+Phrase,p65,Any stage may have involvement of:,کسی بھی مرحلے میں شامل ہو سکتے ہیں:  
+Phrase,p66,Hepatitis B and hepatitis C infection,ہیپاٹائٹس بی اور ہیپاٹائٹس سی انفیکشن  
+Phrase,p67,Cytotrophoblasts and syncytiotrophoblasts are both present,سائٹوٹروفوبلاسٹس اور سنسیشیوٹروفوبلاسٹس دونوں موجود ہیں  
+Phrase,p68,Undifferentiated Embryonal Sarcoma of the Liver,جگر کا انڈیفرینشی ایٹڈ ایمبریونل سارکوما  
+Phrase,p69,"Of these 11 patients, 9 survived","ان 11 مریضوں میں سے 9 زندہ بچ گئے"  
+Phrase,p70,Late Effects of Treatment for Childhood Cancer,بچپن کے سرطان کے علاج کے دیرپا اثرات  
+Phrase,p71,Survival was 100% with no chemotherapy given, کیمیائی علاج کے بغیر بقا کی شرح 100% تھی  
+Phrase,p72,Chemotherapy followed by reassessment of surgical resectability, کیمیائی علاج کے بعد سرجیکل ریسکشن کی دوبارہ تشخیص  
+Phrase,p73,Stages III and IV are usually fatal,مرحلہ III اور IV عام طور پر مہلک ہوتے ہیں  
+Phrase,p74,Presurgical Staging for Hepatoblastoma and Hepatocellular Carcinoma,ہیپاٹوبلاسٹوما اور ہیپاٹوسیلولر کارسینوما کی سرجری سے پہلے کی مرحلہ بندی  
+Phrase,p75,Treatment Options for Postsurgically Staged Stage IV,مرحلہ IV (پوسٹ سرجری) کے لیے علاج کے اختیارات  
+Phrase,p76,Treatment of Infantile Choriocarcinoma of the Liver,جگر کے شیرخوار کوریوکارسینوما کا علاج  
+Phrase,p77,V—Vena cava or all three hepatic veins,V—وینا کیوا یا جگر کی تینوں رگیں  
+Phrase,p78,Several studies have tested different chemotherapy regimens,کئی مطالعوں نے مختلف  کیمیائی علاج طریقوں کو آزمایا ہے  
+Phrase,p79,Treatment Options for Stages I and II,مرحلہ I اور II کے لیے علاج کے اختیارات  
+Phrase,p80,Delayed surgical resection (chemotherapy followed by surgery),تاخیر سے سرجیکل ریسکشن ( کیمیائی علاج کے بعد سرجری)  
+Phrase,p81,Frequently; jaundice is a common presenting symptom,اکثر؛ یرقان ایک عام ابتدائی علامت ہے  
+Phrase,p1,Diet and vitamins,خوراک اور وٹامنز  
+Phrase,p2,Description of Evidence,شواہد کی وضاحت  
+Phrase,p3,Prophylactic mastectomy: Harms,احتیاطی ماسٹیکٹومی: نقصانات  
+Phrase,p4,Prophylactic mastectomy: Benefits,احتیاطی ماسٹیکٹومی: فوائد  
+Phrase,p5,Major inheritance susceptibility,بڑی وراثتی حساسیت  
+Phrase,p6,Invasive breast cancer,جارحانہ چھاتی کا سرطان  
+Phrase,p7,Noninvasive breast cancer,غیر جارحانہ چھاتی کا سرطان  
+Phrase,p8,Bladder control symptoms,مثانے کے کنٹرول کی علامات  
+Phrase,p9,Ionizing radiation exposure,آیونائزنگ تابکاری کا ایکسپوژر  
+Phrase,p10,Combination hormone therapy,مرکب ہارمون تھراپی  
+Phrase,p11,Study Design: RCTs,مطالعہ کا ڈیزائن: آر سی ٹیز (رینڈمائزڈ کنٹرول ٹرائلز)  
+Phrase,p12,Aromatase inhibition or inactivation,ارومیٹیز روک یا غیر فعال کرنا  
+Phrase,p13,Breast Cancer (PDQ®): Prevention,چھاتی کا سرطان (PDQ®): روک تھام  
+Phrase,p14,Study Design: One RCT,مطالعہ کا ڈیزائن: ایک آر سی ٹی  
+Phrase,p15,Study Design: Observational study,مطالعہ کا ڈیزائن: مشاہداتی مطالعہ  
+Phrase,p16,Study Design: Convenience sample,مطالعہ کا ڈیزائن: آسانی کا نمونہ  
+Phrase,p17,Selective estrogen receptor modulators (SERMs),سیلیکٹو ایسٹروجن ریسیپٹر موڈولیٹرز (SERMs)  
+Phrase,p18,Aromatase inhibitors or inactivators: Benefits,ارومیٹیز انہیبیٹرز یا غیر فعال کرنے والی ادویات: فوائد  
+Phrase,p19,Breast Cancer Treatment and Pregnancy,چھاتی کے سرطان کا علاج اور حمل  
+Phrase,p20,Active and passive cigarette smoking,فعال اور غیر فعال سگریٹ نوشی  
+Phrase,p21,Incidence of Symptoms (0–4 scale),علامات کی شرح واقعات (0–4 اسکیل)  
+Phrase,p22,Aromatase inhibitors or inactivators: Harms,ارومیٹیز انہیبیٹرز یا غیر فعال کرنے والی ادویات: نقصانات  
+Phrase,p23,"Incidence of Outcomes Per 1,000 Women","1,000 خواتین میں نتائج کی شرح واقعات"  
+Phrase,p24,Study Design: Cohort and case-control studies,مطالعہ کا ڈیزائن: کوہورٹ اور کیس کنٹرول مطالعہ  
+Phrase,p25,Genetics of Breast and Ovarian Cancer,چھاتی اور بیضہ دانی کے سرطان کی جینیات  
+Phrase,p26,Selective estrogen receptor modulators (SERMs): Benefits,سیلیکٹو ایسٹروجن ریسیپٹر موڈولیٹرز (SERMs): فوائد  
+Phrase,p27,Study Design: Case-control and cohort studies,مطالعہ کا ڈیزائن: کیس کنٹرول اور کوہورٹ مطالعہ  
+Phrase,p28,Selective estrogen receptor modulators (SERMs): Harms,سیلیکٹو ایسٹروجن ریسیپٹر موڈولیٹرز (SERMs): نقصانات  
+Phrase,p29,ER–positive tumors were reduced by 48%,ای آر-پازیٹو ٹیومرز میں 48% کمی ہوئی  
+Phrase,p30,Study Design: RCT and cohort studies,مطالعہ کا ڈیزائن: آر سی ٹی اور کوہورٹ مطالعہ  
+Phrase,p31,Factors of Unproven or Disproven Association,غیر ثابت یا رد شدہ وابستگی کے عوامل  
+Phrase,p32,Prophylactic oophorectomy or ovarian ablation: Harms,احتیاطی اووفوریکٹومی یا بیضہ دانی کی تخریب: نقصانات  
+Phrase,p33,Etiology and pathogenesis of breast cancer,چھاتی کے سرطان کی اسباب اور بیماری کی تشکیل  
+Phrase,p34,Prophylactic oophorectomy or ovarian ablation: Benefits,احتیاطی اووفوریکٹومی یا بیضہ دانی کی تخریب: فوائد  
+Phrase,p35,"A total of 8,171 women were enrolled","کل 8,171 خواتین شامل کی گئیں"  
+Phrase,p36,"Study Design: Observational, case-control, and cohort studies","مطالعہ کا ڈیزائن: مشاہداتی، کیس کنٹرول، اور کوہورٹ مطالعہ"  
+Phrase,p37,"Study Design: Case-control, cohort, and observational studies","مطالعہ کا ڈیزائن: کیس کنٹرول، کوہورٹ، اور مشاہداتی مطالعہ"  
+Phrase,p38,A second trial (IBIS-2) is under way,دوسرا ٹرائل (IBIS-2) جاری ہے  
+Phrase,p39,Estrogen-only use among women with a hysterectomy,ہسٹریکٹومی والی خواتین میں صرف ایسٹروجن کا استعمال  
+Phrase,p40,Study Design: Prospective observational and case-control studies,مطالعہ کا ڈیزائن: پرواسپیکٹو مشاہداتی اور کیس کنٹرول مطالعہ  
+Phrase,p41,Results of case-control studies have been mixed,کیس کنٹرول مطالعہ کے نتائج مختلف رہے ہیں  
+Phrase,p42,Follow-up continued for up to 16 years,فالو اپ 16 سال تک جاری رہا  
+Phrase,p1,Vitamin E supplementation,وٹامن ای سپلیمنٹیشن  
+Phrase,p2,Smoke-free workplace legislation,دھواں مزدور مقامات کی قانون سازی  
+Phrase,p3,Beta-carotene in nonsmokers,بیٹا کیروٹین غیر تمباکو نوشوں میں  
+Phrase,p4,Smoking cessation guidelines,تمباکو نوشی بند کرنے کی رہنما خطوط  
+Phrase,p5,Secondhand tobacco smoke,سیکنڈ ہینڈ تمباکو کا دھواں  
+Phrase,p6,Eliminating secondhand smoke,سیکنڈ ہینڈ دھواں کا خاتمہ  
+Phrase,p7,Lung Cancer Screening,پھیپھڑوں کے سرطان کی اسکریننگ  
+Phrase,p8,Vitamin E (Tocopherol),وٹامن ای (ٹوکوفرول)  
+Phrase,p9,Pharmacotherapy for smoking cessation,تمباکو نوشی بند کرنے کی فارماکو تھراپی  
+Phrase,p10,Exposure to secondhand smoke,سیکنڈ ہینڈ دھوئیں کا ایکسپوژر  
+Phrase,p11,Beta-carotene supplementation in nonsmokers,غیر تمباکو نوشوں میں بیٹا کیروٹین سپلیمنٹیشن  
+Phrase,p12,Lung Cancer (PDQ®): Prevention,پھیپھڑوں کا سرطان (PDQ®): روک تھام  
+Phrase,p13,Smoking avoidance and cessation,تمباکو نوشی سے پرہیز اور بند کرنا  
+Phrase,p14,Beta-carotene supplementation in smokers,تمباکو نوشوں میں بیٹا کیروٹین سپلیمنٹیشن  
+Phrase,p15,The biology of carcinogenesis,سرطان کی تشکیل کی حیاتیات  
+Phrase,p16,Skills training/problem solving (cessation/abstinence techniques),مہارتی تربیت/مسئلہ حل (چھوڑنے/پرہیز کی تکنیکات)  
+Phrase,p17,Occupational exposures to lung carcinogens,پھیپھڑوں کے سرطان زا عوامل سے پیشہ ورانہ ایکسپوژر  
+Phrase,p18,Beta-carotene supplementation in current smokers,موجودہ تمباکو نوشوں میں بیٹا کیروٹین سپلیمنٹیشن  
+Phrase,p19,Human immunodeficiency virus (HIV) infection,انسان کا مدافعتی کمزوری وائرس (ایچ آئی وی) انفیکشن  
+Phrase,p20,Lung cancer in never smokers,پھیپھڑوں کا سرطان (کبھی تمباکو نوشی نہ کرنے والوں میں)  
+Phrase,p21,Occupational exposure to lung carcinogens,پھیپھڑوں کے سرطان زا عوامل سے پیشہ ورانہ ایکسپوژر  
+Phrase,p22,Reducing or eliminating exposure to radon,ریڈون کے ایکسپوژر کو کم یا ختم کرنا  
+Phrase,p23,Factors of uncertain association with risk,خطرے سے غیر یقینی وابستگی کے عوامل  
+Phrase,p24,Other environmental causes of lung cancer,پھیپھڑوں کے سرطان کی دیگر ماحولیاتی وجوہات  
+Phrase,p25,Preventing occupational exposure to lung carcinogens,پھیپھڑوں کے سرطان زا عوامل سے پیشہ ورانہ ایکسپوژر کو روکنا  
+Phrase,p26,"Magnitude of Effect: Increased risk, small magnitude",اثر کی شدت: بڑھا ہوا خطرہ، کم شدت  
+Phrase,p27,The primary endpoint was lung cancer incidence,بنیادی مقصد پھیپھڑوں کے سرطان کی شرح واقعات تھا  
+Phrase,p28,Overcoming nicotine dependence is often extremely difficult,نکوٹین پر انحصار پر قابو پانا اکثر انتہائی مشکل ہوتا ہے  
+Phrase,p29,Cigarette smoking is the primary risk factor,سگریٹ نوشی بنیادی خطرے کا عنصر ہے  
+Phrase,p1,Evidence (CT/FDG-PET scan):,شواہد (سی ٹی/ایف ڈی جی-پی ای ٹی اسکین):  
+Phrase,p2,stage 0 NSCLC,مرحلہ 0 نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p3,stage IV NSCLC,مرحلہ IV نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p4,Involvement of pleura,پلیورا کی ملوثیت  
+Phrase,p5,Giant cell carcinoma,جائنٹ سیل کارسینوما  
+Phrase,p6,Evidence (combination chemotherapy):,شواہد (مرکب  کیمیائی علاج):  
+Phrase,p7,Evidence (chemoradiation therapy):,شواہد (کیمو ریڈی ایشن تھراپی):  
+Phrase,p8,Evidence (neoadjuvant chemotherapy):,شواہد (نیوایڈجوینٹ  کیمیائی علاج):  
+Phrase,p9,Signet ring adenocarcinoma,سگنٹ رِنگ ایڈینوکارسینوما  
+Phrase,p10,Combined modality approaches,مرکب طریقہ کار کے طریقے  
+Phrase,p11,stage IV disease,مرحلہ IV بیماری  
+Phrase,p12,Factors influencing treatment,علاج کو متاثر کرنے والے عوامل  
+Phrase,p13,Occult NSCLC Treatment,پوشیدہ این ایس سی ایل سی کا علاج  
+Phrase,p14,Well-differentiated fetal adenocarcinoma,اچھی تفریق شدہ فیٹل ایڈینوکارسینوما  
+Phrase,p15,T4 (pleural effusion),T4 (پلیورل افیوژن)  
+Phrase,p16,Age versus comorbidity,عمر بمقابلہ کموربڈٹی  
+Phrase,p17,M1 (ipsilateral lung),M1 (ہم طرفہ پھیپھڑا)  
+Phrase,p18,occult lung cancer,پوشیدہ پھیپھڑوں کا سرطان  
+Phrase,p19,Adjuvant chemoradiation therapy,ایجوانٹ کیمو ریڈی ایشن تھراپی  
+Phrase,p20,Evidence (radiation therapy):,شواہد (ریڈی ایشن تھراپی):  
+Phrase,p21,Superior sulcus tumors,سپیریئر سلس ٹیومرز  
+Phrase,p22,New chemotherapy regimens,نئے  کیمیائی علاج طریقہ علاج  
+Phrase,p23,M1 (contralateral lung),M1 (مخالف پھیپھڑا)  
+Phrase,p24,Clear cell adenocarcinoma,کلیر سیل ایڈینوکارسینوما  
+Phrase,p25,Evidence (FDG-PET scan):,شواہد (ایف ڈی جی-پی ای ٹی اسکین):  
+Phrase,p26,New fractionation schedules,نئے فریکشنیشن شیڈول  
+Phrase,p27,"New cases: 224,210","نئے کیسز: 224,210"  
+Phrase,p28,Evidence (endobronchial therapies):,شواہد (اینڈوبرونکائل تھراپیز):  
+Phrase,p29,Other systemic agents,دیگر سسٹمک ایجنٹس  
+Phrase,p30,Spindle cell carcinoma,سپنڈل سیل کارسینوما  
+Phrase,p31,Extracapsular tumor spread,ایکسٹرا کیپسولر ٹیومر پھیلاؤ  
+Phrase,p32,Large cell carcinoma,لارج سیل کارسینوما  
+Phrase,p33,stages IIA NSCLC,مرحلہ IIA این ایس سی ایل سی  
+Phrase,p34,Stage IIIB NSCLC,مرحلہ IIIB این ایس سی ایل سی  
+Phrase,p35,stage IIIA NSCLC,مرحلہ IIIA این ایس سی ایل سی  
+Phrase,p36,Evidence (radical surgery):,شواہد (ریڈیکل سرجری):  
+Phrase,p37,Adenoid cystic carcinoma,ایڈینوئڈ سسٹک کارسینوما  
+Phrase,p38,Stage IV NSCLC,مرحلہ IV این ایس سی ایل سی  
+Phrase,p39,Evidence (CT scan):,شواہد (سی ٹی اسکین):  
+Phrase,p40,Stage 0 NSCLC,مرحلہ 0 نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p41,Vocal cord paralysis,ووکل کارڈ پیرالائسس  
+Phrase,p42,stage IA NSCLC,مرحلہ IA نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p43,Clear cell carcinoma,کلیر سیل کارسینوما  
+Phrase,p44,Performance status (PS),کارکردگی کی حالت (PS)  
+Phrase,p45,Seventh Edition T/M,ساتویں ایڈیشن ٹی/ایم  
+Phrase,p46,Recurrent NSCLC Treatment,بار بار ہونے والے این ایس سی ایل سی کا علاج  
+Phrase,p47,Radiation therapy alone,صرف ریڈی ایشن تھراپی  
+Phrase,p48,stage IIIB NSCLC,مرحلہ IIIB نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p49,Evidence (nodal status):,شواہد (نوڈل حالت):  
+Phrase,p50,Squamous cell carcinoma,سکوامس سیل کارسینوما  
+Phrase,p51,For palliative treatment,تسکینی علاج کے لیے  
+Phrase,p52,Stage IIIA NSCLC,مرحلہ IIIA نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p53,Stage IIIA NSCLC Treatment,مرحلہ IIIA نان-سمال سیل پھیپھڑوں کا سرطان کا علاج  
+Phrase,p54,Stage Information for NSCLC,این ایس سی ایل سی کی مرحلہ وار معلومات  
+Phrase,p55,Radiation therapy (for palliation),ریڈی ایشن تھراپی (تسکین کے لیے)  
+Phrase,p56,Treatment of brain metastases,دماغی میٹاسٹیسیز کا علاج  
+Phrase,p57,Evidence (age vs. comorbidity):,شواہد (عمر بمقابلہ کموربڈٹی):  
+Phrase,p58,Surgery and radiation therapy,سرجری اور ریڈی ایشن تھراپی  
+Phrase,p59,Combining local treatment (surgery),مقامی علاج (سرجری) کو مرکب کرنا  
+Phrase,p60,non-small cell lung cancer,نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p61,Stage 0 NSCLC Treatment,مرحلہ 0 این ایس سی ایل سی کا علاج  
+Phrase,p62,Evidence (adjuvant chemoradiation therapy):,شواہد (ایجوانٹ کیمو ریڈی ایشن تھراپی):  
+Phrase,p63,Sites of tumor involvement,ٹیومر کی ملوثیت کے مقامات  
+Phrase,p64,Limitations of evidence (surgery):,شواہد کی حدود (سرجری):  
+Phrase,p65,T4 (same lobe nodules),T4 (اسی لوب میں گانٹھیں)  
+Phrase,p66,Knowledge of histologic type,ہسٹالوجک قسم کا علم  
+Phrase,p67,M1b designates distant metastasis,M1b دور میٹاسٹیسیز کی نشاندہی کرتا ہے  
+Phrase,p68,Radiation therapy and surgery,ریڈی ایشن تھراپی اور سرجری  
+Phrase,p69,Evaluation of brain metastasis,دماغی میٹاسٹیسیز کی تشخیص  
+Phrase,p70,Tumor size and location,ٹیومر کا سائز اور مقام  
+Phrase,p71,Stage IV NSCLC Treatment,مرحلہ IV این ایس سی ایل سی کا علاج  
+Phrase,p72,Early eradication of micrometastases,مائیکرو میٹاسٹیسیز کی ابتدائی خاتمہ  
+Phrase,p73,Smoking in Cancer Care,سرطان کی دیکھ بھال میں تمباکو نوشی  
+Phrase,p74,Continuing only single-agent chemotherapy,صرف سنگل ایجنٹ  کیمیائی علاج جاری رکھنا  
+Phrase,p75,Superior vena cava syndrome,سپیریئر وینا کیوا سنڈروم  
+Phrase,p76,Resected or resectable disease,ریسکٹڈ یا ریسکٹیبل بیماری  
+Phrase,p77,M1 = Distant metastasis,M1 = دور میٹاسٹیسیز  
+Phrase,p78,Presence of pulmonary symptoms,پلمونری علامات کی موجودگی  
+Phrase,p79,Solid adenocarcinoma with mucin,میوسن والا سولڈ ایڈینوکارسینوما  
+Phrase,p80,Adenocarcinoma with mixed subtypes,مخلوط ذیلی اقسام والا ایڈینوکارسینوما  
+Phrase,p81,Examination of the tumor,ٹیومر کا معائنہ  
+Phrase,p82,Regional treatment (radiation therapy),علاقائی علاج (ریڈی ایشن تھراپی)  
+Phrase,p83,Cellular Classification of NSCLC,این ایس سی ایل سی کی سیلولر درجہ بندی  
+Phrase,p84,Stage IIIB NSCLC Treatment,مرحلہ IIIB این ایس سی ایل سی کا علاج  
+Phrase,p85,recurrent non-small cell lung cancer,بار بار ہونے والا نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p86,Evidence (drug and dose schedule):,شواہد (دوا اور خورہ کا شیڈول):  
+Phrase,p87,Evidence (chemotherapy and targeted therapy):,شواہد ( کیمیائی علاج اور ہدف شدہ تھراپی):  
+Phrase,p88,Surgery alone (for selected patients),صرف سرجری (منتخب مریضوں کے لیے)  
+Phrase,p89,Maintenance therapy following first-line chemotherapy,پہلی لائن  کیمیائی علاج کے بعد مینٹیننس تھراپی  
+Phrase,p90,Sixth Edition T/M Descriptor (cm),چھٹی ایڈیشن T/M ڈسکرپٹر (سینٹی میٹر)  
+Phrase,p91,Cost effectiveness of FDG-PET scanning,ایف ڈی جی-پی ای ٹی اسکیننگ کی قیمتی تاثیر  
+Phrase,p92,Treatment of second primary tumor,دوسرے پرائمری ٹیومر کا علاج  
+Phrase,p93,Cytotoxic combination chemotherapy (first line),سیٹوٹاکسک مرکب  کیمیائی علاج (پہلی لائن)  
+Phrase,p94,WHO/IASLC Histologic Classification of NSCLC,WHO/IASLC ہسٹولوجک درجہ بندی (این ایس سی ایل سی)  
+Phrase,p95,Treatment Option Overview for NSCLC,این ایس سی ایل سی کے علاج کے اختیارات کا جائزہ  
+Phrase,p96,The primary endpoint was PFS,بنیادی مقصد بغیر بیماری کی بقا (PFS) تھا  
+Phrase,p97,The study reported the following,مطالعہ نے مندرجہ ذیل رپورٹ کیا  
+Phrase,p98,M0 = No distant metastasis,M0 = دور میٹاسٹیسیز نہیں  
+Phrase,p99,Tis = Carcinoma in situ,Tis = کارسینوما ان سیچو  
+Phrase,p100,Carcinomas of salivary gland type,سلائیوری گلینڈ قسم کے کارسینوما  
+Phrase,p101,Stages IA and IB NSCLC,مرحلہ IA اور IB نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p102,Developing more effective systemic therapy,زیادہ مؤثر سسٹمک تھراپی کی ترقی  
+Phrase,p103,"Tracheal, esophageal, or bronchial compression","ٹریکئل، غذائی نالی، یا برونکائل کا دباؤ"  
+Phrase,p104,Involvement of multiple nodal stations,کثیر لمف نوڈ اسٹیشنز کی ملوثیت  
+Phrase,p105,Concurrent versus sequential chemoradiation therapy,ہم وقت بمقابلہ ترتیبی کیمو ریڈی ایشن تھراپی  
+Phrase,p106,occult non-small cell lung cancer,پوشیدہ نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p107,PIK3 catalytic protein alpha (PI3KCA),PIK3 کیٹالٹک پروٹین الفا (PI3KCA)  
+Phrase,p108,Chemotherapy or kinase inhibitors alone,صرف  کیمیائی علاج یا کائنیز انہیبیٹرز  
+Phrase,p109,Stages IIA and IIB NSCLC,مرحلہ IIA اور IIB نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p110,Fluorodeoxyglucose-positron emission tomography (FDG-PET) scanning,فلووروڈی آکسی گلوکوز-پازیٹران اخراج ٹوموگرافی (ایف ڈی جی-پی ای ٹی) اسکیننگ  
+Phrase,p111,Epidermoid or squamous cell carcinoma,ایپیڈرموئڈ یا سکوامس سیل کارسینوما  
+Phrase,p112,Evidence (EGFR tyrosine kinase inhibitors):,شواہد (ای جی ایف آر ٹائروسین کائنیز انہیبیٹرز):  
+Phrase,p113,Anaplastic lymphoma kinase receptor (ALK),ایناپلاسٹک لیمفوما کائنیز ریسیپٹر (ALK)  
+Phrase,p114,Large tumor size (>3 cm),بڑے ٹیومر کا سائز (>3 سینٹی میٹر)  
+Phrase,p115,"Cigarette, pipe, or cigar smoking","سگریٹ، پائپ، یا سگار نوشی"  
+Phrase,p116,The patient's performance status (PS),مریض کی کارکردگی کی حالت (PS)  
+Phrase,p117,Large cell neuroendocrine carcinoma (LCNEC),لارج سیل نیوروانڈوکرائن کارسینوما (LCNEC)  
+Phrase,p118,Adenocarcinoma (40% of lung cancers),ایڈینوکارسینوما (پھیپھڑوں کے سرطانز کا 40%)  
+Phrase,p119,Evidence (concurrent vs. sequential chemoradiation therapy):,شواہد (ہم وقت بمقابلہ ترتیبی کیمو ریڈی ایشن تھراپی):  
+Phrase,p120,Carcinomas with spindle and/or giant cells,سپنڈل اور/یا جائنٹ سیلز والے کارسینوما  
+Phrase,p121,"Sixty-five trials (13,601 patients) were identified","پینسٹھ ٹرائلز (13,601 مریضوں) کی شناخت ہوئی"  
+Phrase,p122,Combination chemotherapy with bevacizumab or cetuximab,بیواسيزوماب یا سیٹکسماب کے ساتھ مرکب  کیمیائی علاج  
+Phrase,p123,Continuing the initial combination chemotherapy regimen,ابتدائی مرکب  کیمیائی علاج کے طریقہ کار کو جاری رکھنا  
+Phrase,p124,Stages IA and IB NSCLC Treatment,مرحلہ IA اور IB نان-سمال سیل پھیپھڑوں کا سرطان کا علاج  
+Phrase,p125,Kirsten rat sarcoma viral oncogene (KRAS),کرسٹن ریٹ سارکوما وائرل آنکو جین (KRAS)  
+Phrase,p126,MAPK kinase 1 (MAP2K1 or MEK1),MAPK کائنیز 1 (MAP2K1 یا MEK1)  
+Phrase,p127,stage 0 non-small cell lung cancer,مرحلہ 0 نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p128,Large cell carcinoma with rhabdoid phenotype,رابڈوائڈ فینوٹائپ والا لارج سیل کارسینوما  
+Phrase,p129,"Introducing a new agent as ""maintenance.""","""مینٹیننس"" کے طور پر ایک نئی دوا کا تعارف"  
+Phrase,p130,"HER2, present in 2% of tumors","HER2، ٹیومرز کے 2% میں موجود"  
+Phrase,p131,Tumors that invade the chest wall,سینے کی دیوار پر حملہ آور ٹیومرز  
+Phrase,p132,Standard Treatment Options for Occult NSCLC,پوشیدہ این ایس سی ایل سی کے لیے معیاری علاج کے اختیارات  
+Phrase,p133,stage IV non-small cell lung cancer,مرحلہ IV نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p134,stage II non-small cell lung cancer,مرحلہ II نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p135,Stage ( TNM Staging Criteria ),مرحلہ (TNM مرحلہ بندی معیارات)  
+Phrase,p136,stage IIIB non-small cell lung cancer,مرحلہ IIIB نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p137,Close or microscopically positive resection margins,قریبی یا خوردبینی طور پر مثبت ریسکشن مارجنز  
+Phrase,p138,stage IIIA non-small cell lung cancer,مرحلہ IIIA نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p139,AJCC Stage Groupings and TNM Definitions,اے جے سی سی مرحلہ گروپس اور ٹی این ایم تعریفات  
+Phrase,p140,"PI3KCA, present in 2% of tumors","PI3KCA، ٹیومرز کے 2% میں موجود"  
+Phrase,p141,Non-Small Cell Lung Cancer (PDQ®): Treatment,نان-سمال سیل پھیپھڑوں کا سرطان (PDQ®): علاج  
+Phrase,p142,Standard Treatment Options for Recurrent NSCLC,بار بار ہونے والے این ایس سی ایل سی کے لیے معیاری علاج کے اختیارات  
+Phrase,p143,Evidence (maintenance therapy following first-line chemotherapy):,شواہد (پہلی لائن  کیمیائی علاج کے بعد مینٹیننس تھراپی):  
+Phrase,p144,Evidence (radiation therapy for palliative treatment):,شواہد (تسکینی علاج کے لیے ریڈی ایشن تھراپی):  
+Phrase,p145,EGFR tyrosine kinase inhibitors (first line),ای جی ایف آر ٹائروسین کائنیز انہیبیٹرز (پہلی لائن)  
+Phrase,p146,"AKT1, present in 1% of tumors","اے کے ٹی 1، ٹیومرز کے 1% میں موجود"  
+Phrase,p147,stage I non-small cell lung cancer,مرحلہ I نان-سمال سیل پھیپھڑوں کا سرطان  
+Phrase,p148,Stages IIA and IIB NSCLC Treatment,مرحلہ IIA اور IIB این ایس سی ایل سی کا علاج  
+Phrase,p149,Evaluation of mediastinal lymph node metastasis,میڈیاسٹینل لمف نوڈ میٹاسٹیسیز کی تشخیص  
+Phrase,p150,Patients with adenocarcinoma may benefit from pemetrexed,ایڈینوکارسینوما والے مریضوں کو پیمیٹریکسڈ سے فائدہ ہو سکتا ہے  
+Phrase,p151,Evidence (maintenance erlotinib following platinum-based doublet chemotherapy):,شواہد (پلاٹینم-بیسڈ ڈبلٹ  کیمیائی علاج کے بعد ارلوٹینب مینٹیننس):  
+Phrase,p152,T0 = No evidence of primary tumor,T0 = پرائمری ٹیومر کا کوئی ثبوت نہیں  
+Phrase,p153,Radiation therapy to the breast or chest,چھاتی یا سینے کو ریڈی ایشن تھراپی  
+Phrase,p154,Table 5. Definitions of TNM Stage IB,ٹیبل 5۔ ٹی این ایم مرحلہ IB کی تعریفات  
+Phrase,p155,Table 3. Definitions of TNM Stage 0,ٹیبل 3۔ ٹی این ایم مرحلہ 0 کی تعریفات  
+Phrase,p156,N0 = No regional lymph node metastasis,N0 = علاقائی لمف نوڈ میٹاسٹیسیز نہیں  
+Phrase,p157,EML4-ALK inhibitors in patients with EML-ALK translocations,ای ایم ایل 4-اے ایل کے انہیبیٹرز (ای ایم ایل-اے ایل کے ٹرانسلوکیشنز والے مریضوں میں)  
+Phrase,p158,Table 9. Definitions of TNM Stage IIIB,ٹیبل 9۔ ٹی این ایم مرحلہ IIIB کی تعریفات  
+Phrase,p159,This is a group of rare tumors,یہ نایاب ٹیومرز کا ایک گروپ ہے  
+Phrase,p160,Chemotherapy combined with radiation therapy and/or surgery, کیمیائی علاج کو ریڈی ایشن تھراپی اور/یا سرجری کے ساتھ مرکب کیا گیا ہے  
+Phrase,p161,MET oncogene encodes hepatocyte growth factor receptor,میٹ آنکو جین ہیپاٹوسائٹ گروتھ فیکٹر ریسیپٹر کو کوڈ کرتا ہے  
+Phrase,p162,NSCLC is a heterogeneous aggregate of histologies,این ایس سی ایل سی ہسٹالوجیز کا ایک غیر ہم آہنگ مجموعہ ہے  
+Phrase,p163,Pathological staging of NSCLC requires the following:,این ایس سی ایل سی کی پیتھالوجیکل مرحلہ بندی کے لیے مندرجہ ذیل کی ضرورت ہوتی ہے:  
+Phrase,p164,Combination of CT imaging and FDG-PET scanning,سی ٹی امیجنگ اور ایف ڈی جی-پی ای ٹی اسکیننگ کا مرکب  
+Phrase,p165,Table 2. Definitions of TNM Occult Carcinoma,ٹیبل 2۔ ٹی این ایم پوشیدہ کارسینوما کی تعریفات  
+Phrase,p166,Table 10. Definitions of TNM Stage IV,ٹیبل 10۔ ٹی این ایم مرحلہ IV کی تعریفات  
+Phrase,p167,Concurrent chemotherapy with radiation therapy and surgery,ریڈی ایشن تھراپی اور سرجری کے ساتھ ہم وقت  کیمیائی علاج  
+Phrase,p168,Standard Treatment Options for Stage IIIB NSCLC,مرحلہ IIIB این ایس سی ایل سی کے لیے معیاری علاج کے اختیارات  
+Phrase,p169,Smoking-related lung carcinogenesis is a multistep process,تمباکو نوشی سے متعلق پھیپھڑوں کے سرطان کی تشکیل ایک کثیر مرحلہ عمل ہے  
+Phrase,p170,Evidence (combination chemotherapy with bevacizumab or cetuximab):,شواہد (بیواسيزوماب یا سیٹکسماب کے ساتھ مرکب  کیمیائی علاج):  
+Phrase,p171,Evidence (adjuvant chemotherapy for stage IB NSCLC):,شواہد (مرحلہ IB این ایس سی ایل سی کے لیے ایجوانٹ  کیمیائی علاج):  
+Phrase,p172,"Systemic treatments (chemotherapy, immunotherapy, and targeted agents)",سسٹمک علاج ( کیمیائی علاج، امیونوتھراپی، اور ہدف شدہ ادویات)  
+Phrase,p173,For treatment of locally advanced unresectable tumor,مقامی طور پر اعلیٰ ناقابل سرجری ٹیومر کے علاج کے لیے  
+Phrase,p174,Table 7. Definitions of TNM Stage IIB,ٹیبل 7۔ ٹی این ایم مرحلہ IIB کی تعریفات  
+Phrase,p175,Large cell carcinoma (10% of lung cancers),لارج سیل کارسینوما (پھیپھڑوں کے سرطانز کا 10%)  
+Phrase,p176,Evidence (adjuvant chemotherapy for stage I NSCLC):,شواہد (مرحلہ I این ایس سی ایل سی کے لیے ایجوانٹ  کیمیائی علاج):  
+Phrase,p177,Preoperative chemotherapy may also provide survival benefit,سرجری سے پہلے کی  کیمیائی علاج بقا کا فائدہ بھی فراہم کر سکتی ہے  
+Phrase,p178,The most common histologies include the following:,سب سے عام ہسٹالوجیز میں مندرجہ ذیل شامل ہیں:  
+Phrase,p179,Standard Treatment Options for Stage IV NSCLC,مرحلہ IV این ایس سی ایل سی کے لیے معیاری علاج کے اختیارات  
+Phrase,p180,The value of PORT has been assessed,PORT کی اہمیت کا جائزہ لیا گیا  
+Phrase,p181,Chemotherapy followed by surgery (for selected patients), کیمیائی علاج کے بعد سرجری (منتخب مریضوں کے لیے)  
+Phrase,p182,Chemotherapy-related toxicities were greater with prolonged chemotherapy,طویل  کیمیائی علاج سے زہریلے اثرات زیادہ ہوئے  
+Phrase,p183,Human epidermal growth factor receptor 2 (HER2),ہیومن ایپیڈرمل گروتھ فیکٹر ریسیپٹر 2 (HER2)  
+Phrase,p184,Standard Treatment Options for Stage 0 NSCLC,مرحلہ 0 NSCLC کے لیے معیاری علاج کے اختیارات  
+Phrase,p185,Squamous cell carcinoma (25% of lung cancers),سکوامس سیل کارسینوما (پھیپھڑوں کے سرطانز کا 25%)  
+Phrase,p186,"Carcinomas with pleomorphic, sarcomatoid, or sarcomatous elements","پلیومورفک، سارکوماٹوائڈ، یا سارکوماٹس اجزاء والے کارسینوما"  
+Phrase,p187,Stereotactic radiation surgery (for highly selected patients),سٹیریوٹیکٹک ریڈی ایشن سرجری (انتہائی منتخب مریضوں کے لیے)  
+Phrase,p188,Sequential or concurrent chemotherapy and radiation therapy,ترتیبی یا ہم وقت  کیمیائی علاج اور ریڈی ایشن تھراپی  
+Phrase,p189,Table 8. Definitions of TNM Stage IIIA,ٹیبل 8۔ ٹی این ایم مرحلہ IIIA کی تعریفات  
+Phrase,p190,M1b = Distant metastasis (in extrathoracic organs),M1b = دور میٹاسٹیسیز (ایکسٹرا تھوراسک اعضاء میں)  
+Phrase,p191,Table 11. Standard Treatment Options for NSCLC,ٹیبل 11۔ NSCLC کے لیے معیاری علاج کے اختیارات  
+Phrase,p192,Similar benefit may be achieved with erlotinib,ارلوٹینب سے اسی طرح کے فوائد حاصل ہو سکتے ہیں  
+Phrase,p193,Locally (T3–T4) and/or regionally (N2–N3) advanced disease,مقامی (T3–T4) اور/یا علاقائی (N2–N3) اعلیٰ مرحلے کی بیماری  
+Phrase,p194,Table 4. Definitions of TNM Stage IA,ٹیبل 4۔ ٹی این ایم مرحلہ IA کی تعریفات  
+Phrase,p195,Table 6. Definitions of TNM Stage IIA,ٹیبل 6۔ ٹی این ایم مرحلہ IIA کی تعریفات  
+Phrase,p1,Etoposide + cisplatin,ایٹوپوسائیڈ پلس سیس پلاٹین  
+Phrase,p2,Cisplatin + irinotecan,سیس پلاٹین پلس آئرینوٹیکن  
+Phrase,p3,Prophylactic cranial irradiation,احتیاطی کریانیئل اریڈی ایشن  
+Phrase,p4,Lambert-Eaton myasthenic syndrome,لامبرٹ-ایٹون مایاسٹینک سنڈروم  
+Phrase,p5,"New cases: 224,210","نئے کیسز: 224,210"  
+Phrase,p6,New drug regimens,نئے دوا کے طریقہ علاج  
+Phrase,p7,Frequent nuclear molding,کثرت سے نیوکلیئر مولڈنگ  
+Phrase,p8,Etoposide + carboplatin,ایٹوپوسائیڈ پلس کاربوپلاٹین  
+Phrase,p9,Intermediate-grade atypical carcinoid,درمیانہ درجے کا غیر معمولی کارسینوائڈ  
+Phrase,p10,Paraneoplastic cerebellar degeneration,پیرانیوپلاسٹک سیریبیلر ڈی جنریشن  
+Phrase,p11,Combination chemotherapy alone,صرف مرکب  کیمیائی علاج  
+Phrase,p12,Dose and timing,خورہ اور وقت بندی  
+Phrase,p13,Evidence (standard regimens):,شواہد (معیاری طریقہ علاج):  
+Phrase,p14,Low-grade typical carcinoid,کم درجے کا عام کارسینوائڈ  
+Phrase,p15,Length of treatment,علاج کی مدت  
+Phrase,p16,Evidence (combined modality treatment):,شواہد (مرکب طریقہ علاج):  
+Phrase,p17,Inappropriate antidiuretic hormone secretion,نامناسب اینٹیڈائیورٹک ہارمون کی زیادتی  
+Phrase,p18,Absent or inconspicuous nucleoli,غائب یا غیر نمایاں نیوکلیولی  
+Phrase,p19,Chemotherapy and radiation therapy, کیمیائی علاج اور ریڈی ایشن تھراپی  
+Phrase,p20,A high mitotic count,اعلیٰ مائٹاٹک گنتی  
+Phrase,p21,A thorough physical examination,مکمل جسمانی معائنہ  
+Phrase,p22,Evidence (role of PCI):,شواہد (PCI کا کردار):  
+Phrase,p23,Prophylactic cranial irradiation (PCI),احتیاطی کریانیئل اریڈی ایشن (PCI)  
+Phrase,p24,Evidence (role of surgery):,شواہد (سرجری کا کردار):  
+Phrase,p25,A radionuclide bone scan,ریڈیونوکلائیڈ ہڈی اسکین  
+Phrase,p26,small cell lung cancer,چھوٹے سیل پھیپھڑوں کا سرطان  
+Phrase,p27,IASLC-AJCC TNM Staging System,آئی اے ایس ایل سی-اے جے سی سی ٹی این ایم مرحلہ بندی نظام  
+Phrase,p28,Cyclophosphamide + doxorubicin + vincristine,سائیکلوفاسفامائیڈ پلس ڈوکسوروبیسن پلس وینکرسٹین  
+Phrase,p29,Treatment Options Under Clinical Evaluation,کلینیکل تشخیص میں زیرِ غور علاج کے اختیارات  
+Phrase,p30,Factors influencing treatment with chemotherapy, کیمیائی علاج کے علاج کو متاثر کرنے والے عوامل  
+Phrase,p31,Treatment options for recurrent cancer,بار بار ہونے والے سرطان کے لیے علاج کے اختیارات  
+Phrase,p32,Combination chemotherapy and radiation therapy,مرکب  کیمیائی علاج اور ریڈی ایشن تھراپی  
+Phrase,p33,Alternative drug doses and schedules,ادویات کی متبادل خوراکیں اور شیڈول  
+Phrase,p34,Cyclophosphamide + doxorubicin + etoposide,سائیکلوفاسفامائیڈ پلس ڈوکسوروبیسن پلس ایٹوپوسائیڈ  
+Phrase,p35,Treatment options for older patients,معمر مریضوں کے لیے علاج کے اختیارات  
+Phrase,p36,Ifosfamide + cisplatin + etoposide,آئیفوسفامائیڈ پلس سیس پلاٹین پلس ایٹوپوسائیڈ  
+Phrase,p37,Neuroendocrine tumors include the following:,نیوروانڈوکرائن ٹیومرز میں مندرجہ ذیل شامل ہیں:  
+Phrase,p38,Cyclophosphamide + etoposide + vincristine,سائیکلوفاسفامائیڈ پلس ایٹوپوسائیڈ پلس وینکرسٹین  
+Phrase,p39,recurrent small cell lung cancer,بار بار ہونے والا چھوٹے سیل پھیپھڑوں کا سرطان  
+Phrase,p40,Evidence (other combination chemotherapy regimens):,شواہد (دیگر  کیمیائی علاج کے مرکب طریقہ علاج):  
+Phrase,p41,Surgical resection of the primary tumor,پرائمری ٹیومر کی سرجیکل ریسکشن  
+Phrase,p42,Surgery followed by chemotherapy or chemoradiotherapy,سرجری کے بعد  کیمیائی علاج یا کیمو ریڈیو تھراپی  
+Phrase,p43,Recurrent Small Cell Lung Cancer Treatment,بار بار ہونے والے چھوٹے سیل پھیپھڑوں کے سرطان کا علاج  
+Phrase,p44,"Finely granular ""salt and pepper"" chromatin","باریک دانے دار ""نمک اور مرچ"" کرومیٹن"  
+Phrase,p45,Small Cell Lung Cancer (PDQ®): Treatment,چھوٹے سیل پھیپھڑوں کا سرطان (PDQ®): علاج  
+Phrase,p46,These studies have yielded conflicting results,ان مطالعوں کے متضاد نتائج سامنے آئے ہیں  
+Phrase,p47,Limited-Stage Small Cell Lung Cancer Treatment,محدود مرحلے کے چھوٹے سیل پھیپھڑوں کے سرطان کا علاج  
+Phrase,p48,limited stage small cell lung cancer,محدود مرحلے کا چھوٹے سیل پھیپھڑوں کا سرطان  
+Phrase,p49,extensive stage small cell lung cancer,وسیع مرحلے کا چھوٹے سیل پھیپھڑوں کا سرطان  
+Phrase,p50,Veterans Administration Lung Study Group (VALG),ویٹرنز ایڈمنسٹریشن پھیپھڑوں کا مطالعہ گروپ (VALG)  
+Phrase,p51,Routine blood counts and serum chemistries,روٹین خون کے ٹیسٹ اور سیرم کیمسٹری  
+Phrase,p52,Standard staging procedures include the following:,معیاری مرحلہ بندی کے طریقوں میں مندرجہ ذیل شامل ہیں:  
+Phrase,p53,Extensive-Stage Small Cell Lung Cancer Treatment,وسیع مرحلے کے چھوٹے سیل پھیپھڑوں کے سرطان کا علاج  
+Phrase,p54,Cushing syndrome from secretion of adrenocorticotropic hormone,کشنگ سنڈروم (ایڈرینوکارٹیکوٹروپک ہارمون کی زیادتی)  
+Phrase,p55,Surgery followed by chemotherapy or chemoradiation therapy,سرجری کے بعد  کیمیائی علاج یا  کیمیائی ریڈی ایشن علاج  
+Phrase,p56,Stage Information for Small Cell Lung Cancer,چھوٹے سیل پھیپھڑوں کے سرطان کی مرحلہ وار معلومات  
+Phrase,p57,and offers palliation of symptomatic metastatic disease,اور علامتی میٹاسٹیٹک بیماری کی تسکین فراہم کرتا ہے  
+Phrase,p58,General Information About Small Cell Lung Cancer,چھوٹے سیل پھیپھڑوں کے سرطان کے بارے میں عمومی معلومات  
+Phrase,p59,Cellular Classification of Small Cell Lung Cancer,چھوٹے سیل پھیپھڑوں کے سرطان کی سیلولر درجہ بندی  
+Phrase,p60,Topotecan is standard chemotherapy for recurrent SCLC,ٹوپوٹیکن بار بار ہونے والے ایس سی ایل سی کے لیے معیاری  کیمیائی علاج ہے  

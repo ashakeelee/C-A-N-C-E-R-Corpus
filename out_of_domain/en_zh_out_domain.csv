@@ -1,0 +1,300 @@
+type,id,en_description,zh_description
+Phrase,p1,adjunct therapy or treatment,辅助治疗
+Phrase,p2,adjuvant chemotherapy,辅助化疗
+Phrase,p3,adjuvant radiation therapy,辅助放射治疗
+Phrase,p4,advance care planning,预先护理规划
+Phrase,p5,adverse effect,不良影响
+Phrase,p6,allergic reaction,过敏反应
+Phrase,p7,allied health workers,专职医疗工作者
+Phrase,p8,alternative therapy,替代疗法
+Phrase,p9,Androgen Deprivation Therapy ,雄激素剥夺疗法
+Phrase,p10,barium enema,钡剂灌肠
+Phrase,p11,blood count,血细胞计数
+Phrase,p12,booked admissions,预约入院
+Phrase,p13,bowel prep or bowel preparation,排便准备
+Phrase,p14,breakthrough pain,爆发性疼痛
+Phrase,p15,"cancer imaging
+(also called diagnostic imaging)","癌症成像
+(又称诊断成像）"
+Phrase,p16,cancer journey,抗癌历程
+Phrase,p17,cancer of unknown primary origin,原发性不明癌症
+Phrase,p18,cancer staging,癌症分期
+Phrase,p19,cancer survivor,癌症康复者
+Phrase,p20,carcinoma in situ,原位癌
+Phrase,p21,"central line
+",中心静脉
+Phrase,p22,chemo brain,化疗脑
+Phrase,p23,chemotherapy,化学疗法
+Phrase,p24,chronic pain,慢性疼痛
+Phrase,p25,clear margin,切缘清晰
+Phrase,p26,clinical trial,临床试验
+Phrase,p27,colostomy bag,结肠造口袋
+Phrase,p28,complementary therapy,辅助疗法
+Phrase,p29,CT scan,CT 扫描
+Phrase,p30,"diagnostic imaging
+(also called cancer imaging)","诊断成像
+(又称癌症成像）"
+Phrase,p31,digestive system,消化系统
+Phrase,p32,DVT (deep vein thrombosis),深静脉血栓（DVT）
+Phrase,p33,enduring power of attorney medical (also called a MePOA),医疗持久授权书（又称 MePOA)
+Phrase,p34,febrile neutropenia,发热性中性粒细胞减少症
+Phrase,p35,gait aids,步态辅助器
+Phrase,p36,gastroenterology,胃肠病学
+Phrase,p37,general anaesthetic,全身麻醉
+Phrase,p38,germ cells,生殖细胞
+Phrase,p39,GP (general practitioner),GP（全科医生）
+Phrase,p40,HDU (high dependency unit),HDU （高依赖病房）
+Phrase,p41,"HMO (house medical officer, also called a ‘resident’)",住院医师
+Phrase,p42,"Hodgkin’s lymphoma
+",霍奇金淋巴瘤
+Phrase,p43,ICU (intensive care unit),ICU（重症监护室）
+Phrase,p44,informed consent,知情同意
+Phrase,p45,informed consent form,知情同意书
+Phrase,p46,key hole surgery,微创手术
+Phrase,p47,laparoscopic surgery,腹腔镜手术
+Phrase,p48,local anaesthetic,局部麻醉
+Phrase,p49,lymph glands,"淋巴结, 淋巴腺"
+Phrase,p50,lymph nodes ,"淋巴结, 淋巴腺"
+Phrase,p51,lymph system,淋巴系统
+Phrase,p52,lymph vessels,淋巴管
+Phrase,p53,lymphatic system,淋巴系统
+Phrase,p54,magnetic resonance imaging,"磁共振成象, 磁共振成像, 磁共振造影"
+Phrase,p55,medical emergency team call,"医疗救援电话,医疗应急救援电话"
+Phrase,p56,medical enduring power of attorney,"医疗持久授权人,医疗持久代理人"
+Phrase,p57,medical oncologist,"肿瘤内科医生, 肿瘤内科学家"
+Phrase,p58,medical oncology,内科肿瘤学
+Phrase,p59,MET call,"医疗救援电话,医疗应急救援电话"
+Phrase,p60,methicillin-resistant staphylococcus aureus,耐甲氧西林金黄色葡萄球菌
+Phrase,p61,multidisciplinary team,"多学科会诊,多学科联合会诊"
+Phrase,p62,nasogastric tube,鼻胃管
+Phrase,p63,neoadjuvant therapy,新辅助治疗
+Phrase,p64,neoadjuvant treatment,新辅助治疗
+Phrase,p65,Non-Hodgkin’s lymphoma,非霍奇金淋巴瘤
+Phrase,p66,nuclear medicine,"核医学, 原子核医学"
+Phrase,p67,nurse unit manager,病房护士长
+Phrase,p68,pain and palliative care,"疼痛和姑息治疗, 疼痛和姑息疗法,姑息疗法,姑息治疗"
+Phrase,p69,patient controlled analgesia,"患者自控镇痛,病人自控镇痛"
+Phrase,p70,Pseudomyxoma peritonei,腹膜假粘液瘤
+Phrase,p71,quality of life,生活质量
+Phrase,p72,radiation oncologist,"放射肿瘤科医生,放射肿瘤专家"
+Phrase,p73,radiation therapist,放射治疗师
+Phrase,p74,radiation therapy,放射治疗师
+Phrase,p75,radioactive tracer,"放射性标记物,放射性示踪剂"
+Phrase,p76,recurrent cancer,复发性癌症
+Phrase,p77,referral letter,"转诊单,转诊证明"
+Phrase,p78,robotic surgery,机器人手术
+Phrase,p79,SABR,"立体定向消融放疗,立体定向笑容性放疗"
+Phrase,p80,secondary cancer,继发性癌症
+Phrase,p81,sentinel node,前哨淋巴结
+Phrase,p82,sepsis pathway,脓毒症途径
+Phrase,p83,simulation for radiotherapy,放射治疗标准化流程
+Phrase,p84,small bowel,小肠
+Phrase,p85,small intestine,小肠
+Phrase,p86,soft tissue,软组织
+Phrase,p87,soft tissues,软组织
+Phrase,p88,stage 0,"原位癌,一点癌,T0"
+Phrase,p89,stage 1,"第一期,T1"
+Phrase,p90,stage 2,"第二期,T"
+Phrase,p91,stage 3,第三期
+Phrase,p92,stage 4,第四期
+Phrase,p93,stage I,"第一期,T1"
+Phrase,p94,stage II,第二期
+Phrase,p95,stage III,第三期
+Phrase,p96,stage IV,第四期
+Phrase,p97,stereotactic ablative body radiation,"立体定向消融放疗,立体定向笑容性放疗"
+Phrase,p98,surgical margin,"手术切缘,切缘"
+Phrase,p99,surgical oncologist,"肿瘤外科医生, 肿瘤外科学家"
+Phrase,p100,TED stockings,抗血栓压力带
+Phrase,p101,TEDs,抗血栓压力带
+Phrase,p102,thrombo embolic deterrent,抗血栓压力带
+Phrase,p103,tissue biopsy,"组织活检,活检"
+Phrase,p104,transrectal ultrasound,经直肠超声检查
+Phrase,p105,transurethral resection of the prostate,经尿道前列腺切除术
+Phrase,p106,unknown primary origin,"原发部位不明的,未知来源的"
+Phrase,p107,Vancomycin Resistant Enterococcus,万古霉素耐药肠球菌
+Phrase,p108,video assisted thoracic surgery,"电视辅助胸腔镜手术,胸腔镜手术"
+Phrase,p109,x-ray procedure,"x射线检查,x光检查"
+Word,w1,abdomen,腹部
+Word,w2,acute,急性的
+Word,w3,adenocarcinoma,腺癌
+Word,w4,adenopathy,腺病
+Word,w5,adt,雄激素剥夺疗法
+Word,w6,advanced,"提前的,老的"
+Word,w7,allergic,过敏性的
+Word,w8,alliance,"同盟,联合, 联结"
+Word,w9,ambulate/ambulatory,"行走,可行走"
+Word,w10,anaemia,贫血
+Word,w11,anaesthetic,"感觉缺失的,麻醉的,麻醉剂"
+Word,w12,analgesic,"镇痛剂,止痛剂"
+Word,w13,anaplastic,间变的
+Word,w14,antibiotic,"抗生素,抗菌素"
+Word,w15,antibody,抗体
+Word,w16,anticoagulant,抗凝血剂
+Word,w17,anti-emetics,止吐药
+Word,w18,anus,肛门
+Word,w19,apheresis,"血浆分离置换法,血液成分部分清除"
+Word,w20,approximately,近似地
+Word,w21,artery,动脉
+Word,w22,aspirate,抽吸
+Word,w23,assess,评估
+Word,w24,atrophy,萎缩
+Word,w25,axilla,腋窝
+Word,w26,barium (used in x-ray),钡
+Word,w27,benign,良性
+Word,w28,bilateral,两侧的
+Word,w29,biopsy,活切
+Word,w30,bladder, 囊; 膀胱
+Word,w31,bone marrow,骨髓
+Word,w32,bowel,肠
+Word,w33,brachytherapy,针治疗
+Word,w34,breakthrough,突破
+Word,w35,bronchoscopy,支气管镜检查法
+Word,w36,cancer,癌
+Word,w37,cannula,套；套管；插管
+Word,w38,carcinogen,制癌物
+Word,w39,carcinoma, 癌瘤
+Word,w41,cells,细胞
+Word,w42,chronic,长期的，慢性的
+Word,w43,colectomy,结肠切除术
+Word,w44,colon,结肠
+Word,w45,colonoscopy,结肠镜检查
+Word,w46,colorectal,结肠直肠的
+Word,w47,colostomy, 结肠造口术
+Word,w48,colposcopy,阴道镜检查
+Word,w49,communication,通知，通信，联络
+Word,w50,contrast (liquid),对比剂
+Word,w51,cure,疗程；治愈
+Word,w52,cystoscopy,膀胱镜检查
+Word,w53,cytotoxic,细胞毒的
+Word,w54,cytotoxic (a person),细胞毒者
+Word,w55,diagnosis,诊断，识别
+Word,w56,dialysis,透析
+Word,w57,diarrhoea,腹泻
+Word,w58,"dietitian
+(also called a ‘nutritionist’)","营养师
+(又称'营养师'）"
+Word,w59,discharge,"卸货,排出"
+Word,w60,dose,dose
+Word,w61,DRE,数字直肠检查
+Word,w62,dysfunction,功能失调
+Word,w63,dysplasia,"发育不良, 发育异常"
+Word,w64,eGFR,肾小球滤过率
+Word,w65,embolism,栓塞
+Word,w66,endoscope,内窥镜，内腔镜
+Word,w67,endoscopy,内窥镜检查
+Word,w68,epidural,硬膜外的
+Word,w69,excision,切除术
+Word,w70,faeces,粪便
+Word,w71,fast or fasted,禁食
+Word,w72,febrile,发热的
+Word,w73,flap,皮瓣
+Word,w74,gastroscopy,胃镜检查
+Word,w75,groin,腹股沟
+Word,w76,gynaecology,妇科
+Word,w77,haematology,haematology
+Word,w78,haematuria,血尿
+Word,w79,hormone,激素；荷尔蒙
+Word,w80,hypertension,高血压
+Word,w81,hypotension,低血压
+Word,w82,hysterectomy,子宫切除术
+Word,w83,ileostomy,回肠造口术
+Word,w84,ileus,肠梗阻
+Word,w85,incontinence,失禁
+Word,w86,infection,传染、感染
+Word,w87,infusion,浸泡液
+Word,w88,intestines (digestive),肠结核
+Word,w89,intramuscular,肌肉注射
+Word,w90,intravenous,静脉内的
+Word,w91,isotope,同位素
+Word,w92,kidney,肾脏
+Word,w93,laparoscopy,腹腔镜
+Word,w94,leukopenia,白细胞减少症
+Word,w95,localised,局限的
+Word,w96,lymph,淋巴
+Word,w97,lymphoedema,淋巴水肿
+Word,w98,lymphoma,淋巴瘤
+Word,w99,malignant,恶性的
+Word,w100,mammogram,乳房X光片
+Word,w101,mass,"团,块"
+Word,w102,mastectomy,乳房切除术
+Word,w103,MDT,"多学科会诊,多学科联合会诊"
+Word,w104,melanoma,"黑素瘤, 黑色素瘤"
+Word,w105,MePOA,"医疗持久授权人,医疗持久代理人"
+Word,w106,metastasis,转移
+Word,w107,metastasize,转移
+Word,w108,mets,转移
+Word,w109,monitor,监视
+Word,w110,MRI,"磁共振成象, 磁共振成像, 磁共振造影"
+Word,w111,MRSA,耐甲氧西林金黄色葡萄球菌
+Word,w112,nadir,"天底, 最低点"
+Word,w113,nauseous,"恶心的, 恶心"
+Word,w114,nebs,雾化器
+Word,w115,nebuliser,雾化器
+Word,w116,necrotic,"坏死的, 坏死"
+Word,w117,neutropenia,中性粒细胞减少症
+Word,w118,neutropenic,"粒细胞缺乏的, 中粒细胞减少"
+Word,w119,neutrophils,"中性粒细胞, 嗜中性粒细胞, 嗜中性粒细胞"
+Word,w120,NGT,鼻胃管
+Word,w121,node,节
+Word,w122,NOK,近亲
+Word,w123,nuke,"核医学, 核影像"
+Word,w124,nukes,"核医学, 核影像"
+Word,w125,NUM,病房护士长
+Word,w126,nutrition,"营养, 营养作用"
+Word,w127,obs,"监测, 生命体征监测"
+Word,w128,observations,"监测, 生命体征监测"
+Word,w129,oedema,水肿
+Word,w130,oncologist,"肿瘤医生,肿瘤学家"
+Word,w131,oncology,肿瘤学
+Word,w132,opioids,"类鸦片药物,阿片类药物,阿片类"
+Word,w133,paediatrics,"儿科,儿科学"
+Word,w134,pathologist,病理学家
+Word,w135,pathology,病理学
+Word,w136,PCA,"患者自控镇痛,病人自控镇痛"
+Word,w137,psychiatrist,精神病学家
+Word,w138,psycho-oncology,"心理肿瘤学,心理社会肿瘤学,肿瘤心理学"
+Word,w139,radiography,"X射线照像术,X光成像技术,X射线照像,X光成像"
+Word,w140,rebore,尿道再通术
+Word,w141,rectum,直肠
+Word,w142,recurrence,复发
+Word,w143,referral,转诊
+Word,w144,relapse,复发
+Word,w145,remission,缓解
+Word,w146,resection,"切除,切除术"
+Word,w147,risk,风险
+Word,w148,sarcoma,肉瘤
+Word,w149,sats,血氧饱和度
+Word,w150,saturation,血氧饱和度
+Word,w151,screening,筛查
+Word,w152,sedation,镇静
+Word,w153,sedative,"镇静的,镇静"
+Word,w154,side-effect,副作用
+Word,w155,sim,放射治疗标准化流程
+Word,w156,specimen,标本
+Word,w157,sputum,痰
+Word,w158,staging,分期
+Word,w159,stoma,"造口,造口术,造瘘术,造瘘"
+Word,w160,stools,"大便,粪便"
+Word,w161,subcutaneous,"皮下的,皮下"
+Word,w162,surgery,手术
+Word,w163,survivorship,"幸存者护理,姑息治疗,姑息疗法"
+Word,w164,sutures,缝合
+Word,w165,tissue,组织
+Word,w166,TNM,"恶性肿瘤 TNM 分期系统,TNM分期系统"
+Word,w167,trachea,气管
+Word,w168,TRUS,经直肠超声检查
+Word,w169,tumour,肿瘤
+Word,w170,tumour markers,肿瘤标志物
+Word,w171,TURP,经尿道前列腺切除术
+Word,w172,ultrasound,"超声,超声波"
+Word,w173,urethra,尿道
+Word,w174,urology,"泌尿科学,泌尿科"
+Word,w175,uro-oncology,泌尿肿瘤科
+Word,w176,VATS,"电视辅助胸腔镜手术,胸腔镜手术"
+Word,w177,vein,静脉
+Word,w178,venepuncture,静脉穿刺
+Word,w179,vessel,脉管
+Word,w180,void,排尿
+Word,w181,voided,排尿
+Word,w182,VRE,万古霉素耐药肠球菌
+Word,w183,x-ray,"X-射线,x射线"
