@@ -15,7 +15,7 @@ The C A N C E R corpus focuses on related terminology to assist non-native Engli
 | Category          | Annotated data | #Pairs |
 |-------------------|---------------|--------|
 | **In-Domain**     | EN → FI       | 1,494  |
-|                   | EN → ZH       | 1,494  |
+|                   | EN → UR       | 1,494  |
 | **Out-of-Domain** | EN → FI       | 291    |
 |                   | EN → ZH       | 291    |
 |                   | EN → UR       | 291    |
